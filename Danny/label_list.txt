@@ -1,7 +1,7 @@
 location 15396
 name 10694
 time 8043
-ORG 7954
+location 7954
 med_exam 6969
 NORP 2493
 location 1925
@@ -11,8 +11,8 @@ money 1161
 ORDINAL 1092
 EVENT 972
 WORK_OF_ART 799
-QUANTITY 788
-PERCENT 749
+med_exam 788
+med_exam 749
 LANGUAGE 328
 PRODUCT 291
 LAW 235
