@@ -1,4 +1,5 @@
-article_id	start_position	end_position	entity_text	entity_type0	256	258	25	med_exam
+article_id	start_position	end_position	entity_text	entity_type
+0	256	258	25	med_exam
 0	273	274	李	name
 0	294	295	一	med_exam
 0	305	306	一	med_exam
