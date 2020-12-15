@@ -2522,6 +2522,7 @@ article_id	start_position	end_position	entity_text	entity_type
 84	695	698	社會局	education
 84	894	896	今天	time
 84	902	904	早上	time
+84	906	907	游	name
 84	948	950	阿所	name
 84	1063	1065	阿不	name
 84	1267	1270	一個月	time
@@ -2537,6 +2538,7 @@ article_id	start_position	end_position	entity_text	entity_type
 84	1797	1801	一個禮拜	time
 84	1832	1835	下禮拜	time
 84	1839	1841	今天	time
+84	1918	1919	游	name
 84	1964	1966	今天	time
 84	1974	1976	早上	time
 84	2024	2027	723	location
