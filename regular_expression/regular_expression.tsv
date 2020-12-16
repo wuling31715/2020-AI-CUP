@@ -15,7 +15,6 @@ article_id	start_position	end_position	entity_text	entity_type	source
 91	3	13	A184058370	ID	regular_expression
 92	1423	1433	A148390275	ID	regular_expression
 93	802	812	E128739467	ID	regular_expression
-93	803	813	1287394675	contact	regular_expression
 103	633	643	S137465537	ID	regular_expression
 121	996	1006	A289370198	ID	regular_expression
 126	743	753	R147380478	ID	regular_expression
