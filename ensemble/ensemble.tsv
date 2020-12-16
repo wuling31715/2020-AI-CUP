@@ -3119,13 +3119,9 @@ article_id	start_position	end_position	entity_text	entity_type
 158	127	130	這個月	time
 158	193	197	四個禮拜	time
 158	335	337	今天	time
-158	408	410	二十	time
-158	421	423	26	time
-158	431	435	二十二十	time
 158	448	451	二十幾	med_exam
 158	1074	1076	今天	time
 158	1082	1086	第三個月	time
 158	1143	1145	今天	time
 158	1199	1201	小安	name
 158	1380	1390	A124699678	ID
-158	1381	1390	124699678	med_exam
