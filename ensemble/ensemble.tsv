@@ -479,7 +479,9 @@ article_id	start_position	end_position	entity_text	entity_type
 24	328	330	下午	time
 24	372	377	12月15	time
 24	381	384	禮拜一	time
+24	425	429	line	contact
 24	457	459	早上	time
+24	465	469	line	contact
 24	475	477	早上	time
 25	37	39	兩天	time
 25	47	49	兩天	time
@@ -906,6 +908,7 @@ article_id	start_position	end_position	entity_text	entity_type
 50	837	842	1月20號	time
 50	1091	1096	1月26號	time
 50	1969	1973	1月20	time
+50	2410	2414	LINE	contact
 50	2415	2422	DRLINOP	contact
 51	20	30	R334666726	contact
 51	20	30	R334666726	ID
@@ -1146,6 +1149,7 @@ article_id	start_position	end_position	entity_text	entity_type
 64	715	717	今年	time
 64	751	756	12個小時	time
 64	765	770	12個小時	time
+64	925	929	line	contact
 64	930	939	drawpeter	contact
 65	4	7	張老師	name
 65	262	266	八月七號	time
@@ -2020,6 +2024,7 @@ article_id	start_position	end_position	entity_text	entity_type
 104	336	338	去年	time
 104	381	383	台大	location
 104	461	468	十一月二十五號	time
+104	521	525	LINE	contact
 104	526	532	CHENAD	contact
 105	20	23	台積電	location
 105	24	26	奇美	location
@@ -2266,6 +2271,7 @@ article_id	start_position	end_position	entity_text	entity_type
 115	400	402	一年	time
 115	428	435	license	contact
 115	798	801	兩三年	time
+115	1252	1256	LINE	contact
 115	1336	1339	一個月	time
 115	1631	1634	十一點	time
 115	1651	1654	十一點	time
@@ -2396,6 +2402,7 @@ article_id	start_position	end_position	entity_text	entity_type
 122	1788	1790	明年	time
 122	1803	1805	明年	time
 122	1818	1825	12500多塊	money
+122	1844	1848	line	contact
 123	4	6	今天	time
 123	26	29	這個月	time
 123	133	135	明年	time
@@ -2542,6 +2549,7 @@ article_id	start_position	end_position	entity_text	entity_type
 133	39	42	這個月	time
 133	58	61	這個月	time
 133	281	284	王先生	name
+133	322	326	LINE	contact
 133	636	638	今天	time
 133	749	753	3200	money
 133	785	790	5000多	money
@@ -2582,6 +2590,7 @@ article_id	start_position	end_position	entity_text	entity_type
 136	322	325	劉醫師	name
 136	465	469	LINE	contact
 136	482	484	明年	time
+136	528	532	LINE	contact
 136	614	618	下個禮拜	time
 136	697	701	12月底	time
 136	776	780	LINE	contact
@@ -2690,6 +2699,8 @@ article_id	start_position	end_position	entity_text	entity_type
 142	235	238	三個月	time
 142	269	272	三個月	time
 142	326	329	六個月	time
+142	456	461	EMAIL	contact
+142	457	461	MAIL	contact
 142	486	490	LINE	contact
 142	1319	1323	兩個禮拜	time
 142	1326	1330	一個禮拜	time
@@ -2813,6 +2824,7 @@ article_id	start_position	end_position	entity_text	entity_type
 148	701	703	今天	time
 148	733	735	今天	time
 148	1033	1035	今年	time
+148	1092	1096	line	contact
 148	1109	1116	pwodumn	contact
 149	26	28	成大	location
 149	171	174	一個月	time
@@ -3036,6 +3048,7 @@ article_id	start_position	end_position	entity_text	entity_type
 155	1693	1697	一個多月	time
 155	1780	1784	兩個禮拜	time
 155	2354	2357	王龍龍	name
+155	2549	2553	ＬＩＮＥ	contact
 156	300	303	二一一	med_exam
 156	629	631	三天	time
 156	739	741	五天	time
