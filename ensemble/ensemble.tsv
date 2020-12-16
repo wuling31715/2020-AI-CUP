@@ -1848,7 +1848,6 @@ article_id	start_position	end_position	entity_text	entity_type
 93	699	701	今天	time
 93	802	812	E128739467	ID
 93	803	813	1287394675	med_exam
-93	803	813	1287394675	contact
 94	410	412	早上	time
 94	472	474	今天	time
 94	505	508	一百九	med_exam
