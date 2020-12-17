@@ -112,7 +112,6 @@ article_id	start_position	end_position	entity_text	entity_type	source
 62	1803	1806	他女兒	family	dictionary
 62	1804	1806	女兒	family	dictionary
 64	925	929	line	contact	dictionary
-64	930	939	drawpeter	ID	dictionary
 65	1444	1446	美國	location	dictionary
 65	1482	1485	西班牙	location	dictionary
 65	1490	1493	西班牙	location	dictionary
