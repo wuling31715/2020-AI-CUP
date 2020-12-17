@@ -1,2 +1,2 @@
-	article_id	start_position	end_position	entity_text	entity_type	source
-2434	128	20	24	交友軟體	organization	bert
+article_id	start_position	end_position	entity_text	entity_type	source
+128	20	24	交友軟體	organization	bert

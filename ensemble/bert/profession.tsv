@@ -1,5 +1,5 @@
-	article_id	start_position	end_position	entity_text	entity_type	source
-220	11	165	171	Google	profession	bert
-255	11	4924	4926	老師	profession	bert
-2203	113	1596	1598	保險	profession	bert
-2463	130	378	381	替代役	profession	bert
+article_id	start_position	end_position	entity_text	entity_type	source
+11	165	171	Google	profession	bert
+11	4924	4926	老師	profession	bert
+113	1596	1598	保險	profession	bert
+130	378	381	替代役	profession	bert

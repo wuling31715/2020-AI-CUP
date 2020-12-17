@@ -1,4 +1,4 @@
-	article_id	start_position	end_position	entity_text	entity_type	source
-488	25	647	651	高雄大學	education	bert
-489	25	652	655	法律系	education	bert
-2705	144	120	122	清大	education	bert
+article_id	start_position	end_position	entity_text	entity_type	source
+25	647	651	高雄大學	education	bert
+25	652	655	法律系	education	bert
+144	120	122	清大	education	bert

@@ -1,2103 +1,2103 @@
-	article_id	start_position	end_position	entity_text	entity_type	source
-0	0	36	38	年底	time	bert
-1	0	113	115	今天	time	bert
-5	0	295	297	今年	time	bert
-6	1	31	33	今天	time	bert
-7	1	40	42	昨天	time	bert
-19	1	469	472	三個月	time	bert
-22	1	742	744	中午	time	bert
-25	1	890	893	12天	time	bert
-26	1	902	906	三個星期	time	bert
-31	2	390	393	三個月	time	bert
-32	2	402	405	三個月	time	bert
-37	2	792	795	兩個月	time	bert
-44	3	6	8	昨天	time	bert
-45	3	221	223	昨天	time	bert
-46	3	225	227	早上	time	bert
-47	3	263	267	今天早上	time	bert
-48	3	538	540	前天	time	bert
-49	3	643	645	昨天	time	bert
-50	3	673	675	今天	time	bert
-52	3	867	870	禮拜二	time	bert
-53	3	871	874	禮拜三	time	bert
-55	4	24	26	今年	time	bert
-56	4	45	47	今天	time	bert
-61	4	187	192	8月13號	time	bert
-68	4	365	368	三個禮	time	bert
-69	4	369	372	三個月	time	bert
-70	4	436	438	半年	time	bert
-71	4	495	498	31歲	time	bert
-72	5	53	55	四月	time	bert
-84	5	697	704	今天9000幾	time	bert
-85	5	726	732	10月25號	time	bert
-86	5	1010	1013	兩個月	time	bert
-87	5	1035	1038	兩個月	time	bert
-88	5	1051	1057	10月25號	time	bert
-89	5	1139	1143	10月底	time	bert
-90	5	1148	1152	11月初	time	bert
-91	5	1170	1173	兩個月	time	bert
-93	5	1288	1291	兩個月	time	bert
-94	5	1303	1306	兩個月	time	bert
-95	5	1324	1327	一個月	time	bert
-96	5	1334	1337	一個月	time	bert
-97	5	1345	1348	兩個月	time	bert
-98	5	1357	1360	一個月	time	bert
-99	5	1372	1375	兩個月	time	bert
-100	5	1381	1386	今天14號	time	bert
-101	5	1395	1400	今天14號	time	bert
-102	5	1405	1408	一個月	time	bert
-103	5	1413	1419	10月14號	time	bert
-104	5	1434	1437	25號	time	bert
-105	5	1451	1457	10月25號	time	bert
-106	5	1466	1472	10月25號	time	bert
-107	5	1478	1484	10月25號	time	bert
-108	5	1490	1493	下個月	time	bert
-109	5	1499	1504	9月24號	time	bert
-110	5	1509	1515	10月25號	time	bert
-111	5	1516	1518	10	time	bert
-112	5	1527	1530	兩個月	time	bert
-113	5	1556	1559	兩個月	time	bert
-114	5	1563	1566	兩個月	time	bert
-115	5	1570	1573	兩個月	time	bert
-116	5	1587	1591	七個禮拜	time	bert
-117	5	1630	1633	25號	time	bert
-118	5	2223	2227	9700	time	bert
-124	6	155	161	七月三十一號	time	bert
-125	6	164	170	七月三十一號	time	bert
-126	6	194	196	九月	time	bert
-129	6	406	410	三、四週	time	bert
-130	6	415	419	三、四週	time	bert
-131	6	521	524	前兩週	time	bert
-132	6	786	788	九月	time	bert
-133	6	803	807	一個禮拜	time	bert
-134	6	810	813	兩個月	time	bert
-135	6	1154	1156	今天	time	bert
-137	6	1241	1245	四個禮拜	time	bert
-138	6	1328	1332	一個禮拜	time	bert
-139	6	1375	1379	兩個禮拜	time	bert
-140	6	1380	1383	兩個月	time	bert
-141	6	1386	1389	兩個月	time	bert
-142	6	1468	1471	兩個月	time	bert
-145	6	1814	1818	四個禮拜	time	bert
-146	6	1971	1973	今年	time	bert
-148	7	76	82	兩、三點半夜	time	bert
-149	7	103	105	傍晚	time	bert
-152	7	707	711	好幾個月	time	bert
-153	7	717	722	一、兩個月	time	bert
-154	7	726	727	一	time	bert
-155	7	728	731	兩個月	time	bert
-156	7	749	751	一年	time	bert
-157	7	812	814	8月	time	bert
-158	7	945	948	禮拜二	time	bert
-159	7	964	966	一月	time	bert
-160	7	973	977	明年三月	time	bert
-161	7	982	986	明年三月	time	bert
-162	7	989	993	明年三月	time	bert
-163	7	1001	1005	明年三月	time	bert
-164	7	1013	1016	禮拜二	time	bert
-165	7	1021	1024	禮拜二	time	bert
-166	7	1033	1035	三月	time	bert
-167	7	1047	1052	上個禮拜三	time	bert
-168	7	1113	1117	3月2號	time	bert
-172	8	39	44	九百一十三	time	bert
-181	8	621	624	零一六	time	bert
-182	8	633	636	一個月	time	bert
-183	8	641	645	第六個月	time	bert
-184	8	664	667	零二六	time	bert
-185	8	672	675	兩個月	time	bert
-187	8	943	947	四個禮拜	time	bert
-188	8	1052	1055	十二月	time	bert
-189	8	1058	1063	二月十五號	time	bert
-190	8	1153	1158	56387	time	bert
-195	9	1221	1223	4月	time	bert
-196	9	1384	1386	四月	time	bert
-197	9	1402	1404	半年	time	bert
-198	9	1416	1418	今天	time	bert
-202	9	2721	2724	三個月	time	bert
-203	9	2797	2799	今天	time	bert
-206	10	43	47	上個禮拜	time	bert
-207	10	129	132	這禮拜	time	bert
-210	10	892	894	昨天	time	bert
-211	10	1027	1029	一天	time	bert
-212	10	1059	1061	一天	time	bert
-213	10	1269	1272	禮拜六	time	bert
-214	10	1278	1281	禮拜一	time	bert
-215	10	1298	1301	禮拜四	time	bert
-216	10	1311	1314	禮拜四	time	bert
-217	10	1319	1322	禮拜六	time	bert
-219	11	4	8	這個禮拜	time	bert
-222	11	885	888	上禮拜	time	bert
-226	11	944	948	上個禮拜	time	bert
-230	11	1177	1181	上個禮拜	time	bert
-231	11	1190	1194	上個禮拜	time	bert
-233	11	1259	1263	九個小時	time	bert
-237	11	1498	1502	上個禮拜	time	bert
-239	11	1656	1661	三、四十歲	time	bert
-241	11	2523	2525	今天	time	bert
-242	11	2527	2531	這個禮拜	time	bert
-243	11	2936	2940	兩三年前	time	bert
-244	11	3416	3418	半年	time	bert
-247	11	3579	3584	2013年	time	bert
-248	11	4051	4053	早晚	time	bert
-249	11	4438	4440	四年	time	bert
-251	11	4496	4501	2013年	time	bert
-256	11	5040	5043	下禮拜	time	bert
-257	11	5048	5051	下禮拜	time	bert
-258	11	5062	5064	禮拜	time	bert
-259	11	5067	5070	下禮拜	time	bert
-260	11	5091	5094	禮拜五	time	bert
-261	11	5095	5097	早上	time	bert
-262	11	5104	5107	禮拜五	time	bert
-263	11	5108	5110	早上	time	bert
-265	11	5180	5186	11月30號	time	bert
-275	11	5809	5814	8月23日	time	bert
-276	11	5824	5827	一個月	time	bert
-277	11	5859	5864	上個禮拜五	time	bert
-279	11	6215	6217	今天	time	bert
-280	12	169	171	今天	time	bert
-281	12	276	280	下個禮拜	time	bert
-283	13	160	162	前年	time	bert
-284	13	178	180	前年	time	bert
-285	13	188	190	今年	time	bert
-286	13	192	195	九月份	time	bert
-287	13	217	219	今年	time	bert
-288	13	366	369	六零九	time	bert
-289	13	494	496	十四	time	bert
-291	13	504	506	今年	time	bert
-292	13	517	519	一年	time	bert
-297	13	984	987	七十三	time	bert
-300	13	1110	1112	十四	time	bert
-301	13	1153	1156	七十五	time	bert
-302	13	1169	1172	七十五	time	bert
-304	14	269	271	去年	time	bert
-306	14	693	695	明年	time	bert
-308	14	741	743	半年	time	bert
-310	14	930	932	今天	time	bert
-312	14	1258	1263	78362	time	bert
-313	15	4	8	兩個禮拜	time	bert
-317	15	194	197	11月	time	bert
-318	15	221	225	下個禮拜	time	bert
-319	15	302	306	兩個禮拜	time	bert
-320	15	310	314	兩個禮拜	time	bert
-321	15	315	319	兩個禮拜	time	bert
-322	15	617	619	今天	time	bert
-323	15	620	626	11月20號	time	bert
-327	15	708	712	兩個禮拜	time	bert
-335	16	588	590	年底	time	bert
-336	16	594	596	今年	time	bert
-337	16	618	620	元月	time	bert
-338	16	623	627	2月2號	time	bert
-339	16	649	652	三個月	time	bert
-340	16	703	705	1年	time	bert
-341	16	750	753	三個月	time	bert
-342	16	785	788	3個月	time	bert
-344	16	806	809	84顆	time	bert
-345	16	832	837	2月16號	time	bert
-348	17	328	332	四個禮拜	time	bert
-354	17	625	628	三個月	time	bert
-356	17	710	714	9/15	time	bert
-357	17	716	720	四個禮拜	time	bert
-358	18	487	491	五月月份	time	bert
-359	18	501	504	四個月	time	bert
-360	18	591	594	五月份	time	bert
-361	18	608	611	九月份	time	bert
-362	18	615	618	四個月	time	bert
-363	18	632	635	兩個月	time	bert
-364	18	674	676	今天	time	bert
-365	18	734	736	昨天	time	bert
-366	18	807	809	今天	time	bert
-367	18	916	918	下午	time	bert
-368	18	924	926	下午	time	bert
-369	18	928	931	禮拜三	time	bert
-370	18	940	943	禮拜三	time	bert
-371	18	944	946	下午	time	bert
-372	18	963	965	下午	time	bert
-375	18	1142	1147	這個禮拜三	time	bert
-376	18	1149	1154	下個禮拜三	time	bert
-377	18	1166	1168	下午	time	bert
-378	18	1181	1183	下午	time	bert
-379	18	1232	1234	下午	time	bert
-380	18	1251	1255	下禮拜三	time	bert
-381	18	1295	1297	今天	time	bert
-383	18	1521	1523	三天	time	bert
-384	18	1531	1534	禮拜三	time	bert
-387	19	21	24	禮拜五	time	bert
-388	19	32	35	禮拜六	time	bert
-389	19	56	58	三天	time	bert
-390	19	265	268	禮拜幾	time	bert
-391	19	286	289	前陣子	time	bert
-392	19	505	508	禮拜五	time	bert
-393	19	516	519	禮拜六	time	bert
-394	19	520	522	凌晨	time	bert
-395	19	540	542	今天	time	bert
-396	19	795	798	禮拜一	time	bert
-397	19	829	832	禮拜三	time	bert
-398	19	927	929	今天	time	bert
-399	19	996	999	禮拜天	time	bert
-400	19	1000	1002	早上	time	bert
-401	19	1412	1416	這禮拜二	time	bert
-402	19	1433	1436	禮拜二	time	bert
-403	19	1446	1450	下禮拜一	time	bert
-404	19	1464	1468	下禮拜一	time	bert
-405	19	1475	1479	下禮拜一	time	bert
-406	19	1487	1491	下禮拜一	time	bert
-407	19	1499	1503	一個禮拜	time	bert
-409	19	1700	1703	禮拜天	time	bert
-410	20	42	44	一天	time	bert
-412	20	131	135	下下禮拜	time	bert
-413	20	137	141	下下禮拜	time	bert
-415	20	194	197	禮拜四	time	bert
-416	20	198	203	這個禮拜四	time	bert
-417	20	209	212	禮拜四	time	bert
-418	20	217	222	這個禮拜四	time	bert
-419	20	277	280	星期四	time	bert
-420	20	286	290	這禮拜四	time	bert
-421	20	316	321	下下個禮拜	time	bert
-422	20	329	332	禮拜一	time	bert
-423	20	336	339	禮拜一	time	bert
-424	20	355	357	禮拜	time	bert
-425	20	359	362	禮拜四	time	bert
-426	20	391	395	這禮拜四	time	bert
-429	20	944	948	上個禮拜	time	bert
-430	20	994	997	禮拜一	time	bert
-431	20	1003	1005	禮拜	time	bert
-432	20	1018	1020	兩天	time	bert
-433	20	1028	1031	禮拜三	time	bert
-434	20	1041	1044	禮拜三	time	bert
-435	20	1126	1129	禮拜四	time	bert
-436	20	1148	1151	禮拜四	time	bert
-437	20	1171	1173	禮拜	time	bert
-438	20	1175	1177	禮拜	time	bert
-447	21	137	141	6/14	time	bert
-451	22	65	69	三個禮拜	time	bert
-454	22	311	316	前兩個禮拜	time	bert
-455	22	602	604	半年	time	bert
-456	22	741	743	今天	time	bert
-458	23	623	627	一個禮拜	time	bert
-464	23	1541	1543	五點	time	bert
-465	23	1577	1579	六點	time	bert
-469	23	1906	1909	六月份	time	bert
-470	23	1986	1989	六月份	time	bert
-471	23	2078	2080	一天	time	bert
-472	24	40	44	兩個禮拜	time	bert
-475	24	194	198	2個小時	time	bert
-476	24	297	301	兩個禮拜	time	bert
-477	24	328	330	下午	time	bert
-478	24	372	377	12月15	time	bert
-479	24	381	384	禮拜一	time	bert
-480	24	457	459	早上	time	bert
-481	24	475	477	早上	time	bert
-482	25	37	39	兩天	time	bert
-483	25	47	49	兩天	time	bert
-484	25	194	197	一個月	time	bert
-485	25	278	281	禮拜四	time	bert
-486	25	282	284	早上	time	bert
-490	25	676	679	五年級	time	bert
-492	25	696	698	幾年	time	bert
-497	26	371	375	一個小時	time	bert
-500	26	479	483	上個禮拜	time	bert
-501	26	541	545	700多	time	bert
-502	26	582	588	5、6個小時	time	bert
-503	26	637	640	半年前	time	bert
-509	26	1422	1424	晚上	time	bert
-510	26	1584	1586	半年	time	bert
-513	27	1016	1019	禮拜四	time	bert
-514	27	1025	1028	禮拜三	time	bert
-515	27	1029	1032	禮拜四	time	bert
-516	27	1039	1043	三個禮拜	time	bert
-517	27	1045	1048	禮拜四	time	bert
-518	27	1053	1059	10月12號	time	bert
-521	28	146	148	四十	time	bert
-522	28	149	152	四十三	time	bert
-525	28	483	485	半年	time	bert
-529	28	978	982	六十五歲	time	bert
-530	28	1024	1026	去年	time	bert
-531	28	1037	1039	去年	time	bert
-533	28	1084	1086	每年	time	bert
-534	28	1175	1179	六十五歲	time	bert
-535	28	1451	1455	一年四次	time	bert
-536	28	1577	1579	半年	time	bert
-537	28	1580	1582	一年	time	bert
-538	28	1586	1588	一年	time	bert
-539	28	1590	1592	一年	time	bert
-540	28	1596	1598	今年	time	bert
-541	28	1620	1623	今年初	time	bert
-542	28	1627	1629	今年	time	bert
-543	28	1639	1642	明年初	time	bert
-544	28	1663	1665	七月	time	bert
-545	28	1672	1674	七月	time	bert
-546	28	1682	1684	七月	time	bert
-547	28	1814	1816	半年	time	bert
-552	29	338	340	今年	time	bert
-553	29	422	424	去年	time	bert
-554	29	438	440	每年	time	bert
-555	29	587	590	3個月	time	bert
-556	29	626	629	一個月	time	bert
-557	29	655	658	三個月	time	bert
-558	29	807	810	三個月	time	bert
-561	30	22	27	7月19號	time	bert
-563	30	171	174	2月初	time	bert
-564	30	192	196	7月19	time	bert
-565	30	465	467	半年	time	bert
-566	30	527	529	今年	time	bert
-568	30	661	663	今年	time	bert
-574	30	920	922	8月	time	bert
-575	30	923	925	8月	time	bert
-576	30	966	968	8月	time	bert
-577	30	982	984	半年	time	bert
-578	30	1013	1016	11月	time	bert
-579	30	1036	1038	2月	time	bert
-580	30	1039	1041	2月	time	bert
-581	30	1046	1048	明年	time	bert
-582	30	1049	1053	2月下半	time	bert
-583	30	1055	1058	下半月	time	bert
-584	30	1100	1102	半年	time	bert
-585	30	1213	1218	2月25號	time	bert
-588	31	981	985	三、四天	time	bert
-590	31	1324	1328	六、七成	time	bert
-591	31	1378	1381	三個月	time	bert
-592	31	1444	1447	三個月	time	bert
-594	31	1868	1870	年底	time	bert
-595	31	1883	1886	十一月	time	bert
-600	32	164	166	今天	time	bert
-601	32	235	239	上上禮拜	time	bert
-602	32	243	247	上上禮拜	time	bert
-604	32	737	740	兩個月	time	bert
-605	32	743	746	兩個月	time	bert
-606	32	767	771	四個禮拜	time	bert
-608	32	847	851	四個禮拜	time	bert
-609	32	858	862	四個禮拜	time	bert
-610	32	913	917	四個禮拜	time	bert
-611	32	927	931	四個禮拜	time	bert
-615	33	3	6	這個月	time	bert
-616	33	15	18	這個月	time	bert
-618	33	195	198	上一季	time	bert
-619	33	224	227	明年初	time	bert
-620	33	314	316	今年	time	bert
-621	33	390	392	一年	time	bert
-622	33	400	403	今年初	time	bert
-623	33	416	418	今年	time	bert
-624	33	428	433	去年的年初	time	bert
-625	33	441	444	去年初	time	bert
-626	33	446	450	今年年底	time	bert
-627	33	457	461	去年年底	time	bert
-628	33	462	466	今年年初	time	bert
-629	33	524	526	去年	time	bert
-630	33	528	533	2月25號	time	bert
-631	33	553	558	2月25號	time	bert
-632	33	630	632	今年	time	bert
-633	33	680	683	3個月	time	bert
-634	34	3	5	今年	time	bert
-635	34	6	8	今年	time	bert
-636	34	26	28	今年	time	bert
-637	34	302	305	八月多	time	bert
-639	34	315	320	8月20號	time	bert
-640	34	332	334	八月	time	bert
-641	34	339	341	半年	time	bert
-642	34	379	381	八月	time	bert
-643	34	382	384	八月	time	bert
-644	34	385	387	九月	time	bert
-645	34	396	398	八月	time	bert
-646	34	399	401	九月	time	bert
-647	34	444	447	901	time	bert
-648	34	451	453	九月	time	bert
-649	34	454	456	十月	time	bert
-650	34	457	460	十一月	time	bert
-651	34	465	467	九月	time	bert
-652	34	538	541	二月底	time	bert
-653	34	543	548	二月二十五	time	bert
-654	34	552	557	二月二十五	time	bert
-655	34	567	570	十二週	time	bert
-656	34	636	639	十二點	time	bert
-657	35	621	625	三個禮拜	time	bert
-658	35	693	696	兩個月	time	bert
-660	35	1122	1124	早上	time	bert
-663	35	1250	1253	三個月	time	bert
-665	35	1393	1397	兩個禮拜	time	bert
-666	35	1643	1645	兩天	time	bert
-671	36	490	492	半年	time	bert
-672	36	496	498	半年	time	bert
-673	36	589	592	五十歲	time	bert
-681	37	289	291	今年	time	bert
-683	37	417	421	舊曆年底	time	bert
-685	38	12	14	早上	time	bert
-688	38	655	657	禮拜	time	bert
-689	38	662	666	一個禮拜	time	bert
-690	38	674	677	禮拜三	time	bert
-691	38	691	696	下下禮拜三	time	bert
-692	38	727	731	下個禮拜	time	bert
-693	38	766	776	0935642234	time	bert
-694	39	116	118	一天	time	bert
-696	39	417	421	上星期二	time	bert
-697	39	423	427	上星期二	time	bert
-698	39	565	568	星期二	time	bert
-699	39	799	802	三個月	time	bert
-700	39	814	817	三個月	time	bert
-702	39	1036	1040	上禮拜五	time	bert
-703	39	1407	1409	九歲	time	bert
-705	39	1417	1420	十五歲	time	bert
-707	39	1486	1490	8353	time	bert
-708	40	226	228	今天	time	bert
-709	40	236	238	今天	time	bert
-711	41	359	363	二十八歲	time	bert
-715	41	607	609	二月	time	bert
-721	41	719	721	今天	time	bert
-725	41	936	941	二零一六年	time	bert
-726	41	942	948	十一月十八號	time	bert
-727	41	1513	1517	一一三五	time	bert
-729	41	2067	2073	九月二十三號	time	bert
-730	41	2088	2090	今天	time	bert
-731	41	2099	2101	明年	time	bert
-732	41	2102	2105	二月底	time	bert
-733	41	2120	2122	半年	time	bert
-737	42	94	98	一個晚上	time	bert
-738	42	235	237	晚上	time	bert
-739	42	741	744	5分鐘	time	bert
-740	42	750	753	5分鐘	time	bert
-741	42	1101	1103	晚上	time	bert
-743	42	1347	1351	一個禮拜	time	bert
-744	42	1375	1377	今年	time	bert
-747	43	169	171	一年	time	bert
-749	43	200	203	632	time	bert
-751	43	537	539	明年	time	bert
-753	43	633	638	明年的7月	time	bert
-754	43	659	661	半年	time	bert
-758	43	1005	1007	1月	time	bert
-759	43	1018	1021	半年前	time	bert
-761	44	7	16	113566480	time	bert
-762	44	23	24	4	time	bert
-781	45	409	412	兩個月	time	bert
-782	45	419	422	禮拜三	time	bert
-783	45	447	450	禮拜三	time	bert
-791	45	1421	1424	兩個月	time	bert
-792	45	1446	1448	昨天	time	bert
-794	45	1503	1505	昨天	time	bert
-796	45	1574	1576	昨天	time	bert
-799	45	1684	1687	三公斤	time	bert
-801	45	1737	1741	兩個禮拜	time	bert
-805	45	1800	1802	昨天	time	bert
-809	45	2062	2064	去年	time	bert
-814	45	2120	2122	半年	time	bert
-815	45	2251	2254	兩個月	time	bert
-819	45	2330	2333	12月	time	bert
-820	45	2337	2343	10月13號	time	bert
-821	45	2344	2349	11月17	time	bert
-822	45	2353	2356	兩個月	time	bert
-823	45	2359	2362	下個月	time	bert
-826	45	2741	2743	昨天	time	bert
-830	45	2903	2905	早上	time	bert
-831	45	2906	2908	下午	time	bert
-832	45	3010	3013	三個月	time	bert
-833	45	3020	3023	三個月	time	bert
-835	45	3217	3220	7/3	time	bert
-837	45	3231	3234	1/3	time	bert
-840	46	200	204	一個禮拜	time	bert
-842	46	251	253	一天	time	bert
-843	46	283	285	一天	time	bert
-844	46	384	394	0933625337	time	bert
-848	47	666	670	一個禮拜	time	bert
-849	47	710	714	一個禮拜	time	bert
-850	47	860	863	三年多	time	bert
-852	47	969	972	下禮拜	time	bert
-853	48	50	52	今天	time	bert
-854	48	206	208	今天	time	bert
-856	48	306	308	今天	time	bert
-857	48	370	372	昨天	time	bert
-858	48	633	635	今天	time	bert
-860	48	669	671	今天	time	bert
-861	48	746	752	10月16號	time	bert
-863	48	835	838	三個月	time	bert
-865	48	1060	1062	晚上	time	bert
-866	48	1141	1143	六點	time	bert
-867	48	1148	1150	八點	time	bert
-868	48	1185	1187	晚上	time	bert
-869	48	1207	1209	晚上	time	bert
-871	48	1596	1599	三個月	time	bert
-872	48	1609	1612	一個月	time	bert
-876	48	1866	1871	66674	time	bert
-878	49	9	18	113993846	time	bert
-879	49	290	294	一個禮拜	time	bert
-880	49	301	305	一個禮拜	time	bert
-881	49	309	313	兩個禮拜	time	bert
-882	49	318	322	兩個禮拜	time	bert
-883	49	723	725	今天	time	bert
-884	49	793	795	今天	time	bert
-885	49	797	799	三點	time	bert
-886	49	885	887	晚上	time	bert
-887	49	977	979	晚上	time	bert
-888	49	1225	1227	晚上	time	bert
-889	49	1297	1299	晚上	time	bert
-890	49	1303	1305	晚上	time	bert
-891	49	1363	1365	白天	time	bert
-893	50	639	643	一個禮拜	time	bert
-894	50	729	734	1月15號	time	bert
-895	50	793	798	1月20號	time	bert
-896	50	809	813	1月10	time	bert
-897	50	832	834	今天	time	bert
-898	50	837	842	1月20號	time	bert
-899	50	1091	1096	1月26號	time	bert
-900	50	1969	1973	1月20	time	bert
-904	51	166	168	三天	time	bert
-905	51	218	221	14號	time	bert
-906	51	257	260	10號	time	bert
-907	51	283	289	10月15號	time	bert
-908	51	292	298	10月15號	time	bert
-909	51	319	325	11月18號	time	bert
-912	51	358	360	23	time	bert
-913	51	441	446	12月7號	time	bert
-914	51	461	464	12月	time	bert
-915	51	469	474	12月16	time	bert
-916	51	479	484	12月16	time	bert
-917	51	582	584	今天	time	bert
-918	51	587	591	兩個禮拜	time	bert
-919	51	596	600	兩個禮拜	time	bert
-920	51	626	631	12月7號	time	bert
-922	51	643	648	12月7號	time	bert
-923	51	659	664	12月7號	time	bert
-924	51	669	674	12月7號	time	bert
-925	51	694	698	兩個禮拜	time	bert
-926	51	782	787	12月7號	time	bert
-927	51	797	801	兩個禮拜	time	bert
-928	51	832	837	12月7號	time	bert
-929	51	845	849	兩個禮拜	time	bert
-930	51	879	883	兩個禮拜	time	bert
-931	51	968	972	兩個禮拜	time	bert
-932	51	1115	1119	兩個禮拜	time	bert
-933	51	1136	1140	一個禮拜	time	bert
-935	51	1317	1320	這禮拜	time	bert
-936	51	1333	1337	一個禮拜	time	bert
-937	51	1346	1350	一個禮拜	time	bert
-939	51	1507	1510	兩個月	time	bert
-940	51	1515	1518	兩個月	time	bert
-942	51	1818	1822	10分鐘	time	bert
-943	52	3	7	這個禮拜	time	bert
-947	52	311	315	下個禮拜	time	bert
-948	52	319	323	下個禮拜	time	bert
-949	52	634	637	下禮拜	time	bert
-953	53	1038	1040	晚上	time	bert
-954	53	1068	1073	早上八點半	time	bert
-955	53	1089	1092	八點半	time	bert
-956	53	1114	1117	六點半	time	bert
-957	53	1118	1120	七點	time	bert
-960	53	1402	1408	10月19號	time	bert
-961	53	1413	1417	6月15	time	bert
-964	54	94	98	這個禮拜	time	bert
-970	55	113	118	這一、兩年	time	bert
-971	55	467	469	今天	time	bert
-972	55	488	492	兩個禮拜	time	bert
-973	55	502	506	兩個禮拜	time	bert
-975	55	558	561	十一萬	time	bert
-978	55	606	609	兩個月	time	bert
-979	55	689	691	九月	time	bert
-980	55	700	704	十二月底	time	bert
-981	55	709	714	十月十二號	time	bert
-982	55	720	725	十月十二號	time	bert
-983	55	738	744	十一月十二號	time	bert
-984	55	779	782	二十天	time	bert
-985	55	805	809	四個禮拜	time	bert
-986	55	899	902	每個月	time	bert
-987	55	903	906	每個月	time	bert
-992	55	1197	1200	三個月	time	bert
-993	55	1227	1230	兩個月	time	bert
-994	55	1237	1240	兩個月	time	bert
-995	55	1247	1250	兩個月	time	bert
-996	55	1264	1267	四個月	time	bert
-997	55	1312	1316	這兩個月	time	bert
-998	55	1328	1331	下個月	time	bert
-999	56	793	796	兩個月	time	bert
-1000	56	811	815	三個禮拜	time	bert
-1001	56	819	822	兩個月	time	bert
-1002	56	829	832	兩個月	time	bert
-1003	56	843	846	兩個月	time	bert
-1004	56	1352	1356	二十一天	time	bert
-1005	56	1360	1364	三個禮拜	time	bert
-1006	56	1419	1425	十一月十九號	time	bert
-1010	57	441	443	兩年	time	bert
-1011	57	452	454	兩年	time	bert
-1012	57	488	492	3/11	time	bert
-1013	57	511	515	5/24	time	bert
-1014	57	525	529	4/23	time	bert
-1015	57	584	587	七月初	time	bert
-1016	57	651	653	今天	time	bert
-1017	57	662	664	今天	time	bert
-1018	57	676	678	今天	time	bert
-1020	57	720	722	七月	time	bert
-1021	57	723	725	六月	time	bert
-1022	57	726	728	五月	time	bert
-1023	57	729	733	四月三號	time	bert
-1024	57	744	748	四月三號	time	bert
-1025	57	771	773	一年	time	bert
-1026	57	787	789	一年	time	bert
-1027	57	799	804	10月5號	time	bert
-1029	58	216	219	兩個月	time	bert
-1030	58	220	224	4月8號	time	bert
-1031	58	378	381	三個月	time	bert
-1032	58	383	385	一年	time	bert
-1033	58	393	396	兩個月	time	bert
-1039	58	1208	1211	三個月	time	bert
-1040	58	1237	1239	一天	time	bert
-1041	58	1270	1276	三個月90天	time	bert
-1042	58	1431	1434	三個月	time	bert
-1043	58	1576	1579	三個月	time	bert
-1044	58	1596	1599	三個月	time	bert
-1045	58	1638	1640	半年	time	bert
-1048	58	1801	1804	三個月	time	bert
-1049	59	122	124	兩天	time	bert
-1050	59	134	136	七點	time	bert
-1052	59	256	258	晚上	time	bert
-1053	59	633	636	這兩天	time	bert
-1059	59	859	861	早上	time	bert
-1060	59	1115	1117	早上	time	bert
-1062	59	1472	1475	下禮拜	time	bert
-1064	60	1131	1133	早上	time	bert
-1065	60	1403	1405	一天	time	bert
-1066	60	1724	1727	上禮拜	time	bert
-1067	60	1738	1741	上禮拜	time	bert
-1070	60	2198	2203	下下個禮拜	time	bert
-1071	61	125	127	下午	time	bert
-1072	61	142	143	四	time	bert
-1073	61	144	146	五點	time	bert
-1074	61	150	151	五	time	bert
-1075	61	152	156	五、六點	time	bert
-1076	61	640	645	這兩個禮拜	time	bert
-1077	61	1257	1259	今天	time	bert
-1078	61	1261	1263	今天	time	bert
-1079	61	1331	1333	今天	time	bert
-1080	61	1416	1419	這禮拜	time	bert
-1081	61	1585	1587	一年	time	bert
-1082	61	1596	1599	前一年	time	bert
-1088	62	220	223	8月底	time	bert
-1089	62	364	366	今天	time	bert
-1091	62	815	817	5點	time	bert
-1092	62	827	829	晚上	time	bert
-1093	62	835	837	下午	time	bert
-1094	62	838	840	5點	time	bert
-1095	62	844	846	下午	time	bert
-1096	62	847	849	5點	time	bert
-1097	62	862	864	晚上	time	bert
-1098	62	903	905	早上	time	bert
-1099	62	926	928	下午	time	bert
-1100	62	1009	1011	早上	time	bert
-1101	62	1071	1073	今天	time	bert
-1102	62	1173	1178	下個禮拜五	time	bert
-1106	62	1277	1279	昨天	time	bert
-1112	62	1894	1899	10/15	time	bert
-1113	62	1928	1932	3452	time	bert
-1115	63	88	90	今天	time	bert
-1123	63	516	520	兩個禮拜	time	bert
-1124	63	540	544	兩個禮拜	time	bert
-1125	63	669	672	14天	time	bert
-1130	63	1269	1273	兩個禮拜	time	bert
-1132	64	12	14	今天	time	bert
-1134	64	186	188	今天	time	bert
-1135	64	226	228	今天	time	bert
-1136	64	715	717	今年	time	bert
-1137	64	751	756	12個小時	time	bert
-1138	64	765	770	12個小時	time	bert
-1141	65	262	266	八月七號	time	bert
-1144	65	327	331	八月七號	time	bert
-1145	65	339	343	八月七號	time	bert
-1146	65	788	792	兩個禮拜	time	bert
-1156	65	1792	1794	下午	time	bert
-1159	65	2146	2150	三百一天	time	bert
-1162	66	6	10	這個禮拜	time	bert
-1163	66	53	55	一次	time	bert
-1164	66	73	75	早上	time	bert
-1165	66	463	465	今天	time	bert
-1166	66	516	518	今天	time	bert
-1168	66	786	789	上禮拜	time	bert
-1170	66	970	972	一天	time	bert
-1171	67	21	24	禮拜一	time	bert
-1172	67	25	29	晚上九點	time	bert
-1173	67	66	69	禮拜六	time	bert
-1174	67	80	83	禮拜一	time	bert
-1175	67	91	93	今天	time	bert
-1176	67	94	97	禮拜三	time	bert
-1177	67	103	105	今天	time	bert
-1178	67	106	109	禮拜一	time	bert
-1179	67	110	112	早上	time	bert
-1180	67	161	163	昨天	time	bert
-1181	67	186	188	昨天	time	bert
-1182	67	224	226	今天	time	bert
-1183	67	227	229	早上	time	bert
-1184	67	424	426	今天	time	bert
-1185	67	521	526	二十四小時	time	bert
-1186	67	1122	1124	今天	time	bert
-1187	67	1168	1170	明天	time	bert
-1188	67	1195	1198	三四五	time	bert
-1189	67	1215	1217	六日	time	bert
-1190	67	1224	1226	六日	time	bert
-1191	67	1235	1237	六日	time	bert
-1192	67	1458	1460	昨天	time	bert
-1193	67	1466	1468	禮拜	time	bert
-1194	67	1472	1477	禮拜一早上	time	bert
-1195	67	1487	1492	二十四小時	time	bert
-1196	67	1534	1537	七點多	time	bert
-1197	67	1592	1594	中午	time	bert
-1198	67	1651	1654	五六點	time	bert
-1199	67	1699	1701	早上	time	bert
-1200	67	1714	1716	今天	time	bert
-1201	67	1818	1821	禮拜五	time	bert
-1202	67	1829	1832	禮拜五	time	bert
-1203	67	1877	1880	下禮拜	time	bert
-1204	67	1889	1892	禮拜五	time	bert
-1205	67	1893	1896	禮拜五	time	bert
-1206	67	1906	1908	早上	time	bert
-1207	67	1914	1917	禮拜五	time	bert
-1208	67	1918	1920	早上	time	bert
-1209	67	2274	2278	四個月內	time	bert
-1211	67	2434	2437	禮拜五	time	bert
-1212	67	2474	2477	禮拜五	time	bert
-1213	67	2527	2529	今天	time	bert
-1214	67	2542	2544	今天	time	bert
-1215	67	2552	2555	禮拜四	time	bert
-1216	67	2556	2559	禮拜五	time	bert
-1217	67	2600	2603	禮拜五	time	bert
-1218	67	2616	2619	禮拜五	time	bert
-1219	67	2733	2735	今天	time	bert
-1220	67	2738	2740	昨天	time	bert
-1221	67	2773	2777	十二點多	time	bert
-1222	67	2807	2810	禮拜一	time	bert
-1223	67	2820	2823	禮拜一	time	bert
-1224	67	2839	2841	八月	time	bert
-1225	67	2842	2844	今天	time	bert
-1226	67	2845	2848	十八日	time	bert
-1227	67	2875	2877	今天	time	bert
-1228	67	2878	2880	中午	time	bert
-1229	67	2881	2885	十一點多	time	bert
-1234	67	2962	2964	早上	time	bert
-1235	67	3071	3073	昨天	time	bert
-1236	67	3094	3096	七天	time	bert
-1237	67	3106	3108	七天	time	bert
-1238	67	3117	3119	三天	time	bert
-1241	67	3251	3255	四個禮拜	time	bert
-1242	68	27	29	昨天	time	bert
-1243	68	57	59	今天	time	bert
-1244	68	60	62	今天	time	bert
-1245	68	78	80	今天	time	bert
-1246	68	81	83	今天	time	bert
-1247	68	410	414	一個禮拜	time	bert
-1248	68	436	439	禮拜三	time	bert
-1249	68	443	447	兩個禮拜	time	bert
-1250	68	452	457	上個禮拜一	time	bert
-1251	68	468	473	上個禮拜三	time	bert
-1252	68	486	490	兩個禮拜	time	bert
-1253	68	496	500	兩個禮拜	time	bert
-1254	68	511	514	禮拜三	time	bert
-1255	68	540	542	今天	time	bert
-1256	68	543	544	二	time	bert
-1257	68	546	550	二三四五	time	bert
-1258	68	670	676	一個禮拜六日	time	bert
-1259	68	690	694	一個禮拜	time	bert
-1261	68	758	760	那天	time	bert
-1262	68	783	786	禮拜三	time	bert
-1263	68	800	803	禮拜三	time	bert
-1264	68	861	864	禮拜三	time	bert
-1265	68	874	876	今天	time	bert
-1266	68	881	884	禮拜三	time	bert
-1267	68	901	904	禮拜三	time	bert
-1268	68	916	919	禮拜三	time	bert
-1269	68	929	932	禮拜三	time	bert
-1270	68	937	940	禮拜一	time	bert
-1272	68	1125	1127	15	time	bert
-1273	68	1128	1130	16	time	bert
-1274	68	1144	1146	16	time	bert
-1276	68	1153	1155	16	time	bert
-1277	68	1157	1160	禮拜三	time	bert
-1278	68	1171	1174	禮拜三	time	bert
-1279	68	1208	1211	禮拜三	time	bert
-1280	68	1274	1276	今天	time	bert
-1281	68	1277	1279	今天	time	bert
-1285	68	2173	2176	禮拜三	time	bert
-1286	69	469	472	禮拜幾	time	bert
-1287	69	482	484	今天	time	bert
-1288	69	494	496	禮拜	time	bert
-1289	69	500	502	禮拜	time	bert
-1290	69	507	509	上上	time	bert
-1291	69	514	516	七月	time	bert
-1292	69	533	535	七夕	time	bert
-1296	69	682	686	兩個禮拜	time	bert
-1297	69	698	702	兩個禮拜	time	bert
-1303	70	60	62	26	time	bert
-1305	70	536	540	一個禮拜	time	bert
-1307	70	734	737	一個月	time	bert
-1312	70	1444	1446	5天	time	bert
-1314	70	1693	1695	7天	time	bert
-1315	70	1704	1706	5天	time	bert
-1316	70	1771	1773	7月	time	bert
-1317	70	1809	1814	7月10號	time	bert
-1318	70	1858	1863	9點11分	time	bert
-1319	70	1864	1870	13點16分	time	bert
-1320	70	1893	1898	7月16號	time	bert
-1321	70	1899	1904	7月16號	time	bert
-1322	70	1958	1960	7月	time	bert
-1323	70	1963	1968	7月23號	time	bert
-1324	70	1971	1976	7月30號	time	bert
-1325	70	1977	1981	8月3號	time	bert
-1326	70	1987	1989	3號	time	bert
-1327	71	4	8	這個禮拜	time	bert
-1328	71	12	16	這個禮拜	time	bert
-1329	71	39	41	前天	time	bert
-1330	71	505	508	上禮拜	time	bert
-1331	71	518	521	上禮拜	time	bert
-1332	71	546	550	一個療程	time	bert
-1333	71	558	562	一個療程	time	bert
-1334	71	983	985	睡前	time	bert
-1335	71	1041	1043	晚上	time	bert
-1336	71	1204	1208	下下禮拜	time	bert
-1337	72	32	35	禮拜三	time	bert
-1338	72	56	59	禮拜四	time	bert
-1340	72	127	129	昨天	time	bert
-1341	72	144	146	昨天	time	bert
-1343	72	185	188	三點半	time	bert
-1344	72	353	357	今天早上	time	bert
-1347	72	568	570	今天	time	bert
-1348	72	585	587	三點	time	bert
-1350	72	624	626	今天	time	bert
-1356	72	921	925	兩個禮拜	time	bert
-1357	72	989	993	一個禮拜	time	bert
-1358	72	1010	1012	兩週	time	bert
-1359	72	1019	1021	兩週	time	bert
-1360	72	1091	1095	兩個禮拜	time	bert
-1361	72	1119	1121	一天	time	bert
-1362	72	1136	1140	兩個禮拜	time	bert
-1363	72	1197	1200	十四天	time	bert
-1364	72	1240	1242	七天	time	bert
-1365	72	1298	1303	7月24號	time	bert
-1367	73	18	22	這個禮拜	time	bert
-1368	73	29	33	這禮拜一	time	bert
-1369	73	43	46	禮拜四	time	bert
-1370	73	51	54	禮拜四	time	bert
-1371	73	70	75	7月20號	time	bert
-1374	73	651	654	下個月	time	bert
-1375	73	718	720	去年	time	bert
-1376	73	1337	1339	白天	time	bert
-1377	73	1384	1386	早上	time	bert
-1378	73	1408	1410	晚上	time	bert
-1379	74	5	9	這個禮拜	time	bert
-1380	74	109	113	這個禮拜	time	bert
-1381	74	116	118	五天	time	bert
-1382	74	423	427	兩個小時	time	bert
-1383	74	592	594	晚上	time	bert
-1384	74	603	605	晚上	time	bert
-1385	74	978	982	下下禮拜	time	bert
-1394	75	1266	1270	一個禮拜	time	bert
-1395	75	1272	1276	下下禮拜	time	bert
-1401	75	1573	1577	下下禮拜	time	bert
-1402	75	1580	1582	今天	time	bert
-1405	76	214	216	昨天	time	bert
-1408	76	1923	1924	五	time	bert
-1416	76	3089	3091	今天	time	bert
-1417	76	3113	3116	禮拜三	time	bert
-1418	76	3134	3137	禮拜四	time	bert
-1419	76	3149	3154	八月十五號	time	bert
-1420	76	3161	3164	八月十	time	bert
-1421	76	3168	3170	八月	time	bert
-1422	76	3171	3176	十六、十七	time	bert
-1423	76	3227	3230	禮拜四	time	bert
-1424	76	3242	3245	禮拜四	time	bert
-1429	77	1111	1115	一、二月	time	bert
-1432	77	1196	1200	四個禮拜	time	bert
-1433	77	1209	1212	2/1	time	bert
-1437	77	1625	1630	禮拜三下午	time	bert
-1438	77	1637	1640	禮拜三	time	bert
-1439	77	1645	1649	這禮拜三	time	bert
-1440	77	1661	1665	四個禮拜	time	bert
-1441	77	1684	1688	四個禮拜	time	bert
-1442	77	1747	1750	前三天	time	bert
-1445	77	2138	2140	五年	time	bert
-1446	77	2168	2171	第二年	time	bert
-1447	77	2179	2182	第二年	time	bert
-1448	77	2188	2191	第二年	time	bert
-1449	77	2196	2198	明年	time	bert
-1450	77	2292	2294	兩年	time	bert
-1451	78	29	33	三個禮拜	time	bert
-1452	78	37	41	三個禮拜	time	bert
-1453	78	309	311	兩年	time	bert
-1454	78	315	319	五月十一	time	bert
-1455	78	324	328	五月十一	time	bert
-1456	78	552	556	三個禮拜	time	bert
-1460	79	407	409	四點	time	bert
-1461	79	410	412	十二	time	bert
-1462	79	413	415	一點	time	bert
-1463	79	671	676	11/23	time	bert
-1464	79	808	811	23號	time	bert
-1465	79	830	832	今年	time	bert
-1474	79	1528	1533	上上個星期	time	bert
-1475	79	1534	1537	上星期	time	bert
-1476	79	1553	1557	上星期六	time	bert
-1478	79	1674	1679	下下個禮拜	time	bert
-1479	79	1686	1692	下下個禮拜二	time	bert
-1480	79	1697	1700	禮拜二	time	bert
-1481	79	1777	1780	八年多	time	bert
-1482	79	1788	1791	八年多	time	bert
-1487	80	7	13	兩、三個禮拜	time	bert
-1488	80	61	67	兩、三個禮拜	time	bert
-1489	80	252	256	三個禮拜	time	bert
-1490	80	1085	1087	今年	time	bert
-1491	80	1089	1094	11月8號	time	bert
-1492	80	1218	1224	11月25號	time	bert
-1494	80	1272	1274	今天	time	bert
-1497	80	1427	1429	今天	time	bert
-1498	81	77	79	今天	time	bert
-1499	81	112	114	早上	time	bert
-1507	81	687	689	那天	time	bert
-1508	81	862	867	6月15號	time	bert
-1510	81	921	926	6月15號	time	bert
-1514	81	1082	1086	下禮拜五	time	bert
-1515	81	1099	1103	下禮拜一	time	bert
-1516	81	1111	1116	下個禮拜四	time	bert
-1517	81	1120	1124	下禮拜四	time	bert
-1518	81	1130	1133	禮拜五	time	bert
-1519	81	1144	1146	四天	time	bert
-1521	81	1163	1165	今天	time	bert
-1522	81	1169	1173	8月22	time	bert
-1523	81	1178	1179	三	time	bert
-1524	81	1250	1253	禮拜五	time	bert
-1525	81	1321	1324	第四天	time	bert
-1526	81	1327	1330	禮拜三	time	bert
-1527	81	1331	1334	禮拜三	time	bert
-1528	81	1338	1340	晚上	time	bert
-1529	81	1344	1347	禮拜三	time	bert
-1530	81	1363	1365	晚上	time	bert
-1531	81	1379	1382	禮拜一	time	bert
-1534	81	1521	1523	半年	time	bert
-1535	81	1567	1569	半年	time	bert
-1536	81	1742	1746	下禮拜五	time	bert
-1538	82	5	9	這個禮拜	time	bert
-1539	82	479	482	八十五	time	bert
-1541	82	498	500	九十	time	bert
-1544	82	1210	1212	今天	time	bert
-1545	83	324	327	禮拜四	time	bert
-1547	83	647	651	兩個小時	time	bert
-1548	83	777	782	十二個小時	time	bert
-1550	83	823	825	早上	time	bert
-1551	83	826	828	早上	time	bert
-1552	83	868	870	今天	time	bert
-1553	83	882	884	今天	time	bert
-1554	83	1585	1588	六、日	time	bert
-1555	83	1607	1610	六、日	time	bert
-1558	83	1856	1860	四、五點	time	bert
-1559	83	1875	1879	今天下午	time	bert
-1560	83	1883	1885	明天	time	bert
-1561	83	1913	1918	六、日兩天	time	bert
-1562	83	1936	1939	禮拜二	time	bert
-1563	83	2046	2049	14號	time	bert
-1564	83	2060	2062	8月	time	bert
-1565	83	2064	2066	7月	time	bert
-1566	83	2069	2076	7月14禮拜一	time	bert
-1567	83	2078	2081	禮拜一	time	bert
-1568	83	2088	2093	今天10號	time	bert
-1569	83	2097	2102	今天12號	time	bert
-1570	83	2106	2109	12號	time	bert
-1571	83	2110	2113	12號	time	bert
-1572	83	2115	2119	7/12	time	bert
-1574	83	2135	2140	今天7/1	time	bert
-1575	83	2153	2156	禮拜六	time	bert
-1576	83	2160	2164	7/15	time	bert
-1577	83	2181	2185	7/12	time	bert
-1578	83	2188	2192	7/13	time	bert
-1579	83	2193	2197	7/14	time	bert
-1580	83	2204	2208	7/13	time	bert
-1581	83	2209	2213	7/14	time	bert
-1582	83	2290	2294	7/15	time	bert
-1583	83	2329	2331	下午	time	bert
-1585	83	2515	2517	七天	time	bert
-1586	83	2529	2532	禮拜二	time	bert
-1587	83	2541	2544	禮拜三	time	bert
-1588	83	2546	2551	今天禮拜三	time	bert
-1589	83	2557	2559	昨天	time	bert
-1590	83	2568	2571	這兩天	time	bert
-1591	83	2580	2583	這幾天	time	bert
-1592	83	2598	2601	禮拜一	time	bert
-1593	83	2614	2617	禮拜一	time	bert
-1594	83	2618	2621	禮拜二	time	bert
-1595	83	2622	2627	禮拜一下午	time	bert
-1596	83	2642	2644	那天	time	bert
-1597	83	2652	2656	下禮拜一	time	bert
-1598	83	2667	2672	那天10號	time	bert
-1599	83	2715	2721	17兩天下午	time	bert
-1600	83	2736	2741	今天18號	time	bert
-1605	83	2936	2938	15	time	bert
-1606	83	2939	2941	早上	time	bert
-1607	83	2954	2958	15早上	time	bert
-1608	83	3064	3067	這兩天	time	bert
-1609	83	3159	3164	十二個小時	time	bert
-1610	83	3286	3288	今天	time	bert
-1611	83	3306	3310	上禮拜六	time	bert
-1612	83	3328	3333	禮拜六早上	time	bert
-1613	83	3363	3368	禮拜六早上	time	bert
-1614	83	3412	3417	禮拜六早上	time	bert
-1615	83	3476	3479	禮拜六	time	bert
-1616	83	3480	3482	晚上	time	bert
-1617	83	3483	3486	禮拜天	time	bert
-1618	83	3490	3493	禮拜天	time	bert
-1619	83	3549	3553	五個時段	time	bert
-1620	83	3557	3561	五個時段	time	bert
-1621	83	3571	3575	今天晚上	time	bert
-1622	83	3580	3584	今天下午	time	bert
-1623	83	3590	3592	下午	time	bert
-1624	83	3607	3611	明天下午	time	bert
-1625	83	3615	3619	明天下午	time	bert
-1627	83	3658	3661	禮拜天	time	bert
-1628	83	3669	3674	禮拜一兩次	time	bert
-1629	83	3676	3679	禮拜二	time	bert
-1630	83	3680	3682	早上	time	bert
-1631	83	3738	3742	下午五點	time	bert
-1632	83	3752	3755	四點多	time	bert
-1633	83	3808	3810	下午	time	bert
-1634	83	3815	3817	下午	time	bert
-1635	83	3839	3845	八、九個小時	time	bert
-1636	83	3989	3991	今天	time	bert
-1637	83	4007	4009	四天	time	bert
-1639	84	677	680	三十年	time	bert
-1640	84	894	896	今天	time	bert
-1641	84	902	904	早上	time	bert
-1643	84	1267	1270	一個月	time	bert
-1644	84	1596	1600	兩個禮拜	time	bert
-1647	84	1734	1737	723	time	bert
-1648	84	1760	1764	一個禮拜	time	bert
-1649	84	1776	1778	今天	time	bert
-1650	84	1797	1801	一個禮拜	time	bert
-1651	84	1832	1835	下禮拜	time	bert
-1653	84	1974	1976	早上	time	bert
-1654	84	2024	2027	723	time	bert
-1655	84	2051	2054	723	time	bert
-1656	84	2107	2111	一個禮拜	time	bert
-1657	84	2117	2119	6天	time	bert
-1658	84	2120	2122	5天	time	bert
-1663	85	572	575	上個月	time	bert
-1666	85	668	673	上上個禮拜	time	bert
-1667	85	677	682	上上個禮拜	time	bert
-1668	85	687	689	今天	time	bert
-1669	85	694	698	九月七號	time	bert
-1670	85	703	705	今天	time	bert
-1671	85	733	736	十四天	time	bert
-1672	85	743	747	明天早上	time	bert
-1673	85	825	831	兩、三個禮拜	time	bert
-1674	85	882	888	一、兩個禮拜	time	bert
-1675	85	890	892	昨天	time	bert
-1676	85	899	906	今天清晨兩點半	time	bert
-1677	85	907	909	三點	time	bert
-1678	85	994	999	二、四、六	time	bert
-1679	85	1084	1091	這一、兩個禮拜	time	bert
-1690	85	1857	1861	半個小時	time	bert
-1691	85	2035	2037	半年	time	bert
-1692	85	2038	2040	一年	time	bert
-1693	85	2209	2213	五、六年	time	bert
-1694	85	2346	2352	十點或十點半	time	bert
-1695	85	2367	2369	兩點	time	bert
-1696	85	2370	2372	三點	time	bert
-1697	85	2405	2407	七點	time	bert
-1698	85	2421	2425	早上六點	time	bert
-1699	85	2566	2571	一、兩個月	time	bert
-1702	85	3083	3087	一個禮拜	time	bert
-1703	85	3088	3092	兩個禮拜	time	bert
-1704	85	3105	3109	一個禮拜	time	bert
-1705	85	3179	3182	下禮拜	time	bert
-1706	86	518	522	下個禮拜	time	bert
-1708	86	608	611	下禮拜	time	bert
-1710	87	249	253	一個禮拜	time	bert
-1711	87	255	259	三個禮拜	time	bert
-1712	87	276	280	9月4號	time	bert
-1713	87	294	296	明年	time	bert
-1714	87	328	332	11月初	time	bert
-1715	87	337	341	11月初	time	bert
-1716	87	345	350	11月9號	time	bert
-1717	87	356	360	下個禮拜	time	bert
-1718	87	364	367	11月	time	bert
-1733	88	1511	1513	半年	time	bert
-1734	88	1518	1520	半年	time	bert
-1735	88	1574	1576	一年	time	bert
-1736	88	1628	1630	半年	time	bert
-1737	88	1823	1825	明年	time	bert
-1738	88	1865	1868	50歲	time	bert
-1740	88	1977	1981	7月5號	time	bert
-1741	88	1988	1991	2個月	time	bert
-1742	88	1999	2001	兩年	time	bert
-1743	88	2009	2011	兩年	time	bert
-1745	89	9	14	78392	time	bert
-1746	89	27	32	七月十五號	time	bert
-1747	89	38	43	七月十五號	time	bert
-1748	89	47	50	禮拜五	time	bert
-1749	89	300	302	今天	time	bert
-1750	89	350	352	九月	time	bert
-1751	89	359	361	九月	time	bert
-1752	89	373	375	今天	time	bert
-1753	89	395	399	一個禮拜	time	bert
-1754	89	519	521	晚上	time	bert
-1755	89	524	526	晚上	time	bert
-1756	89	662	664	早上	time	bert
-1757	89	1035	1037	昨天	time	bert
-1760	90	622	624	晚上	time	bert
-1761	90	772	774	晚上	time	bert
-1762	90	890	892	白天	time	bert
-1763	90	982	984	晚上	time	bert
-1764	90	1016	1018	兩點	time	bert
-1766	90	1206	1210	五月十號	time	bert
-1767	90	1220	1224	四個多月	time	bert
-1768	90	1229	1233	四個多月	time	bert
-1769	90	1235	1238	五個月	time	bert
-1770	90	1300	1303	六個月	time	bert
-1771	90	1435	1439	四個禮拜	time	bert
-1778	91	634	637	一兩天	time	bert
-1779	91	718	722	兩天三天	time	bert
-1780	91	732	734	早上	time	bert
-1781	91	750	753	禮拜三	time	bert
-1782	91	793	794	十	time	bert
-1783	91	796	802	11月25號	time	bert
-1784	91	811	814	11月	time	bert
-1785	91	819	825	11月25號	time	bert
-1786	91	829	834	11月25	time	bert
-1787	91	839	842	禮拜三	time	bert
-1789	91	1038	1042	2015	time	bert
-1790	91	1046	1051	2015年	time	bert
-1791	91	1065	1069	2017	time	bert
-1792	91	1070	1072	兩年	time	bert
-1793	91	1078	1082	2017	time	bert
-1794	92	44	48	一、二天	time	bert
-1795	92	52	53	一	time	bert
-1796	92	54	56	二天	time	bert
-1797	92	184	188	一個禮拜	time	bert
-1798	92	204	208	一個禮拜	time	bert
-1799	92	627	629	今天	time	bert
-1800	92	730	733	五個月	time	bert
-1804	92	803	806	兩個月	time	bert
-1811	92	1101	1104	四月份	time	bert
-1812	92	1129	1132	五月份	time	bert
-1813	92	1142	1144	五一	time	bert
-1814	92	1145	1148	五一八	time	bert
-1815	92	1161	1164	五一八	time	bert
-1816	92	1178	1181	五一八	time	bert
-1817	92	1192	1194	七月	time	bert
-1818	92	1195	1197	六月	time	bert
-1819	92	1208	1211	六月中	time	bert
-1820	92	1222	1224	五月	time	bert
-1821	92	1246	1249	六月中	time	bert
-1822	92	1258	1261	六月中	time	bert
-1824	92	1468	1470	一年	time	bert
-1826	92	1748	1750	今天	time	bert
-1827	92	1757	1761	兩個禮拜	time	bert
-1828	92	1778	1780	明天	time	bert
-1829	92	1799	1801	後天	time	bert
-1830	92	1828	1833	七月十八號	time	bert
-1831	93	396	402	五、六個禮拜	time	bert
-1832	93	406	412	五、六個禮拜	time	bert
-1834	93	650	653	四個月	time	bert
-1835	93	699	701	今天	time	bert
-1837	94	410	412	早上	time	bert
-1838	94	472	474	今天	time	bert
-1840	94	540	542	五遍	time	bert
-1841	94	547	549	五遍	time	bert
-1842	94	719	721	昨天	time	bert
-1843	94	748	752	一個禮拜	time	bert
-1844	94	918	921	這兩天	time	bert
-1845	94	1179	1181	晚上	time	bert
-1846	94	1327	1331	八十八歲	time	bert
-1847	94	1366	1368	五年	time	bert
-1848	94	1394	1397	這個月	time	bert
-1849	94	1399	1401	五年	time	bert
-1856	94	1553	1555	八十	time	bert
-1859	94	1579	1582	下個月	time	bert
-1860	94	1637	1641	九月三號	time	bert
-1861	94	2227	2230	五個月	time	bert
-1862	94	2270	2274	兩個禮拜	time	bert
-1863	94	2288	2290	九月	time	bert
-1864	94	2294	2298	九月三號	time	bert
-1865	94	2385	2387	今年	time	bert
-1867	95	435	439	一個禮拜	time	bert
-1869	95	1679	1683	兩個禮拜	time	bert
-1870	95	1811	1815	一個禮拜	time	bert
-1871	96	161	163	今天	time	bert
-1872	96	491	493	晚上	time	bert
-1875	96	538	541	五十九	time	bert
-1877	96	1004	1007	一百三	time	bert
-1882	96	2132	2135	幾個日	time	bert
-1890	97	1067	1071	上個禮拜	time	bert
-1891	97	1198	1200	半年	time	bert
-1892	97	1206	1208	半年	time	bert
-1893	97	1213	1215	半年	time	bert
-1894	97	1274	1276	半年	time	bert
-1899	97	2217	2221	一個禮拜	time	bert
-1901	97	2595	2600	下下個禮拜	time	bert
-1904	98	251	254	一個月	time	bert
-1905	98	290	293	這學期	time	bert
-1906	98	416	418	七年	time	bert
-1907	98	573	576	兩個禮	time	bert
-1908	98	579	583	兩個禮拜	time	bert
-1909	98	649	653	6月16	time	bert
-1910	98	677	679	年底	time	bert
-1912	98	708	711	11月	time	bert
-1914	98	722	724	5月	time	bert
-1915	98	747	750	11月	time	bert
-1919	98	973	976	一個月	time	bert
-1920	98	995	998	一個月	time	bert
-1921	98	1013	1016	12月	time	bert
-1922	98	1035	1037	昨天	time	bert
-1923	98	1052	1055	一個月	time	bert
-1924	98	1072	1074	五週	time	bert
-1925	98	1089	1091	五週	time	bert
-1927	99	109	112	前三天	time	bert
-1931	99	394	396	昨天	time	bert
-1933	99	719	721	中午	time	bert
-1936	99	1066	1068	今天	time	bert
-1937	99	1087	1089	5點	time	bert
-1938	99	1099	1101	今天	time	bert
-1939	99	1335	1338	兩個月	time	bert
-1944	99	1819	1821	明年	time	bert
-1945	99	1822	1824	明年	time	bert
-1946	99	1834	1836	早上	time	bert
-1947	99	1888	1891	三個月	time	bert
-1948	100	3	5	昨天	time	bert
-1949	100	38	40	昨天	time	bert
-1957	100	610	614	一、兩點	time	bert
-1958	100	615	618	兩點半	time	bert
-1959	100	902	904	兩年	time	bert
-1960	100	905	908	兩年多	time	bert
-1963	100	1520	1523	8點幾	time	bert
-1964	100	1536	1539	8點幾	time	bert
-1966	100	1795	1799	兩個禮拜	time	bert
-1967	100	1803	1807	兩個禮拜	time	bert
-1973	100	2118	2122	這一個月	time	bert
-1977	100	2243	2247	四個禮拜	time	bert
-1978	101	8	12	這個禮拜	time	bert
-1979	101	223	226	28天	time	bert
-1980	101	471	473	下午	time	bert
-1981	101	498	502	四個禮拜	time	bert
-1982	102	4	6	今天	time	bert
-1983	102	26	29	五點多	time	bert
-1984	102	46	49	五點多	time	bert
-1988	102	214	217	上個月	time	bert
-1993	102	404	406	白天	time	bert
-1994	102	511	513	今天	time	bert
-1995	102	559	561	今天	time	bert
-1996	102	828	832	兩個禮拜	time	bert
-1997	103	157	161	半個小時	time	bert
-1998	103	169	173	半個小時	time	bert
-1999	103	300	302	今天	time	bert
-2000	103	303	305	今年	time	bert
-2001	103	307	309	今天	time	bert
-2003	104	127	130	三個月	time	bert
-2004	104	267	274	十一月二十五號	time	bert
-2005	104	336	338	去年	time	bert
-2007	104	461	468	十一月二十五號	time	bert
-2012	105	415	417	早上	time	bert
-2013	105	433	435	晚上	time	bert
-2014	105	446	448	晚上	time	bert
-2015	105	465	467	早上	time	bert
-2016	105	893	895	今天	time	bert
-2017	106	124	129	上上個禮拜	time	bert
-2022	106	454	456	8點	time	bert
-2024	106	555	557	下午	time	bert
-2025	106	627	630	下禮拜	time	bert
-2026	106	637	641	下個禮拜	time	bert
-2027	106	690	695	83946	time	bert
-2035	107	175	179	一個禮拜	time	bert
-2036	107	196	200	3～4天	time	bert
-2037	107	214	220	3、40分鐘	time	bert
-2038	107	307	309	2點	time	bert
-2039	107	310	312	4點	time	bert
-2040	107	325	327	7點	time	bert
-2041	107	329	332	6點半	time	bert
-2042	107	333	335	7點	time	bert
-2043	107	350	353	2點半	time	bert
-2044	107	355	357	4點	time	bert
-2045	107	526	529	9點半	time	bert
-2046	107	530	533	10點	time	bert
-2047	107	541	543	1點	time	bert
-2048	107	554	556	1點	time	bert
-2049	107	593	597	3、4點	time	bert
-2050	107	603	605	5點	time	bert
-2051	107	606	608	6點	time	bert
-2052	107	692	696	2點半後	time	bert
-2053	107	697	699	3點	time	bert
-2054	107	721	723	6點	time	bert
-2055	107	765	767	3點	time	bert
-2056	107	768	771	1點半	time	bert
-2058	107	791	795	3、4點	time	bert
-2059	107	875	879	10點半	time	bert
-2060	107	886	889	11點	time	bert
-2061	107	899	903	清晨6點	time	bert
-2062	107	1008	1012	6個小時	time	bert
-2063	107	1013	1017	7個小時	time	bert
-2064	107	1022	1026	一、兩年	time	bert
-2065	107	1136	1139	9點半	time	bert
-2068	107	1165	1168	11點	time	bert
-2069	107	1200	1204	早上6點	time	bert
-2070	107	1243	1245	3點	time	bert
-2071	107	1707	1712	10幾年前	time	bert
-2073	107	1931	1935	10分鐘	time	bert
-2074	107	2010	2014	6.7年	time	bert
-2078	107	2357	2360	前半年	time	bert
-2084	107	2694	2697	3個月	time	bert
-2085	107	2701	2704	3個月	time	bert
-2086	107	2708	2711	7、8	time	bert
-2087	107	2714	2715	7	time	bert
-2088	107	2716	2717	8	time	bert
-2089	107	2752	2755	3個月	time	bert
-2090	107	2794	2798	4個禮拜	time	bert
-2091	107	2839	2843	4個禮拜	time	bert
-2095	108	878	880	一天	time	bert
-2096	108	1370	1373	禮拜一	time	bert
-2099	108	2095	2097	今天	time	bert
-2100	108	2158	2159	三	time	bert
-2101	108	2160	2161	四	time	bert
-2102	108	2162	2163	五	time	bert
-2103	108	2164	2165	三	time	bert
-2104	108	2166	2167	四	time	bert
-2105	108	2168	2169	五	time	bert
-2106	108	2171	2174	禮拜三	time	bert
-2107	108	2175	2178	禮拜四	time	bert
-2108	108	2179	2182	禮拜五	time	bert
-2109	108	2195	2197	今天	time	bert
-2113	108	2357	2361	下個禮拜	time	bert
-2114	108	2369	2373	下個禮拜	time	bert
-2119	109	490	494	四十二歲	time	bert
-2120	109	502	504	去年	time	bert
-2121	109	537	540	五十歲	time	bert
-2123	109	752	755	兩個月	time	bert
-2124	109	813	819	兩個、兩個月	time	bert
-2125	109	823	829	十一月十五號	time	bert
-2126	109	834	839	十一月十五	time	bert
-2128	109	1040	1044	一個禮拜	time	bert
-2130	109	1311	1315	上個禮拜	time	bert
-2131	109	1321	1325	上個禮拜	time	bert
-2132	109	1442	1446	一個禮拜	time	bert
-2138	110	217	223	八月三十一號	time	bert
-2142	110	286	289	四百一	time	bert
-2143	110	350	352	半年	time	bert
-2144	110	358	360	半年	time	bert
-2147	110	471	473	去年	time	bert
-2148	110	497	499	去年	time	bert
-2149	110	559	561	今年	time	bert
-2150	110	563	565	去年	time	bert
-2151	110	611	615	今年年初	time	bert
-2152	110	641	643	今年	time	bert
-2153	110	735	737	每年	time	bert
-2155	110	901	904	四十六	time	bert
-2156	110	905	907	二三	time	bert
-2157	110	908	910	二三	time	bert
-2158	110	1144	1147	三個月	time	bert
-2165	110	1433	1438	下下個禮拜	time	bert
-2166	110	1456	1457	八	time	bert
-2169	110	1494	1497	兩個月	time	bert
-2175	110	1625	1629	二月五號	time	bert
-2178	111	1628	1632	兩個禮拜	time	bert
-2179	111	1646	1650	兩個禮拜	time	bert
-2180	111	1681	1686	三個禮拜前	time	bert
-2182	111	1822	1827	三個禮拜前	time	bert
-2183	111	1936	1941	三個禮拜前	time	bert
-2186	111	2449	2453	兩個禮拜	time	bert
-2188	111	2747	2750	五十歲	time	bert
-2189	111	2768	2771	五十歲	time	bert
-2191	112	287	289	前天	time	bert
-2193	112	311	313	前天	time	bert
-2196	112	584	586	今天	time	bert
-2198	112	667	669	今天	time	bert
-2199	113	709	711	今天	time	bert
-2200	113	893	897	24小時	time	bert
-2201	113	952	956	48小時	time	bert
-2202	113	1192	1195	前幾天	time	bert
-2210	113	1849	1852	三個月	time	bert
-2211	114	26	28	今天	time	bert
-2212	114	77	80	7月份	time	bert
-2213	114	116	119	六個月	time	bert
-2214	114	137	140	三個月	time	bert
-2215	114	174	177	六個月	time	bert
-2216	114	242	245	三個月	time	bert
-2217	114	438	441	三個月	time	bert
-2218	114	447	450	六個月	time	bert
-2219	114	566	569	三個月	time	bert
-2220	114	612	615	六個月	time	bert
-2221	114	675	678	三個月	time	bert
-2222	114	1320	1321	2	time	bert
-2223	114	1322	1323	1	time	bert
-2224	114	1324	1325	1	time	bert
-2225	114	1348	1353	十二小時前	time	bert
-2226	114	1361	1363	今天	time	bert
-2227	114	1364	1369	10月7號	time	bert
-2228	114	1443	1445	8點	time	bert
-2229	114	1474	1478	24小時	time	bert
-2230	114	1495	1499	24小時	time	bert
-2231	114	1663	1665	8點	time	bert
-2233	114	1762	1763	七	time	bert
-2234	114	1765	1767	七月	time	bert
-2235	114	1930	1934	兩個禮拜	time	bert
-2237	114	2020	2026	三個或四個月	time	bert
-2238	114	2096	2098	今天	time	bert
-2241	114	2416	2420	60年次	time	bert
-2242	114	2427	2431	65年次	time	bert
-2243	114	2456	2459	60年	time	bert
-2244	114	2643	2647	5362	time	bert
-2245	115	36	41	10月20	time	bert
-2246	115	42	47	11月1號	time	bert
-2248	115	68	73	2月17號	time	bert
-2249	115	140	144	這一個月	time	bert
-2250	115	384	386	兩年	time	bert
-2251	115	400	402	一年	time	bert
-2253	115	798	801	兩三年	time	bert
-2254	115	1336	1339	一個月	time	bert
-2255	115	1631	1634	十一點	time	bert
-2256	115	1651	1654	十一點	time	bert
-2257	115	1666	1669	十一點	time	bert
-2258	115	1672	1675	十一點	time	bert
-2259	115	1712	1714	五號	time	bert
-2260	115	1715	1718	十一點	time	bert
-2261	115	1727	1730	十一點	time	bert
-2262	115	1756	1761	二十四小時	time	bert
-2263	115	1979	1982	十一月	time	bert
-2264	115	1994	1996	九號	time	bert
-2265	115	2222	2225	每個月	time	bert
-2266	115	2490	2494	五月三號	time	bert
-2267	115	2511	2515	五月三號	time	bert
-2268	115	2587	2591	十二月份	time	bert
-2271	117	4	7	這個月	time	bert
-2272	117	112	116	這一個月	time	bert
-2273	117	362	364	今天	time	bert
-2274	117	435	437	今天	time	bert
-2275	117	438	440	五月	time	bert
-2276	117	441	443	今天	time	bert
-2279	117	469	473	5月20	time	bert
-2280	117	474	478	5月21	time	bert
-2281	117	479	483	5月22	time	bert
-2282	117	484	488	5月23	time	bert
-2283	117	505	508	禮拜五	time	bert
-2284	117	509	512	禮拜六	time	bert
-2285	117	513	516	禮拜天	time	bert
-2286	117	517	520	禮拜一	time	bert
-2287	117	545	547	今天	time	bert
-2288	117	592	595	兩小時	time	bert
-2289	117	619	621	十點	time	bert
-2290	117	629	631	十點	time	bert
-2291	117	652	654	八點	time	bert
-2292	117	786	789	禮拜天	time	bert
-2293	117	795	797	五點	time	bert
-2294	117	856	863	9月19號8點	time	bert
-2295	117	876	882	10月20號	time	bert
-2296	117	1098	1101	三個月	time	bert
-2298	118	58	60	一年	time	bert
-2299	118	76	78	一年	time	bert
-2300	118	87	89	9月	time	bert
-2301	118	92	95	10月	time	bert
-2302	118	181	185	每三個月	time	bert
-2303	118	189	194	2到3個月	time	bert
-2304	118	986	989	3小時	time	bert
-2305	119	135	137	晚上	time	bert
-2306	119	202	205	一個月	time	bert
-2307	119	285	286	七	time	bert
-2308	119	288	290	七天	time	bert
-2310	119	725	727	晚上	time	bert
-2311	120	6	10	這一個月	time	bert
-2312	120	126	129	兩年多	time	bert
-2313	120	137	140	兩年多	time	bert
-2316	120	1843	1847	第一個月	time	bert
-2317	120	1901	1904	下個月	time	bert
-2318	120	1935	1939	下一個月	time	bert
-2319	120	2128	2131	一個月	time	bert
-2320	120	2156	2160	下一個月	time	bert
-2321	120	2179	2182	上個月	time	bert
-2322	120	2197	2200	下個月	time	bert
-2323	120	2764	2768	這個禮拜	time	bert
-2324	120	2780	2784	這個禮拜	time	bert
-2325	120	2931	2933	假日	time	bert
-2326	120	3030	3032	今天	time	bert
-2327	120	3033	3036	禮拜五	time	bert
-2328	120	3044	3048	下禮拜五	time	bert
-2329	120	3053	3055	六日	time	bert
-2330	120	3102	3104	六日	time	bert
-2331	120	3193	3195	今天	time	bert
-2332	120	3196	3199	禮拜四	time	bert
-2333	120	3343	3345	今天	time	bert
-2334	120	3610	3613	禮拜五	time	bert
-2335	120	3634	3637	五六日	time	bert
-2336	120	3679	3682	這幾天	time	bert
-2337	120	3686	3689	五六日	time	bert
-2338	120	3706	3708	今天	time	bert
-2339	120	3720	3723	五六日	time	bert
-2340	120	3735	3737	今天	time	bert
-2341	120	3752	3754	今天	time	bert
-2342	120	3787	3789	今天	time	bert
-2343	120	3955	3959	24小時	time	bert
-2344	120	4023	4025	今天	time	bert
-2345	121	4	7	這個月	time	bert
-2346	121	106	108	兩次	time	bert
-2348	122	4	7	這個月	time	bert
-2349	122	237	239	9月	time	bert
-2350	122	271	274	這個月	time	bert
-2351	122	361	363	兩年	time	bert
-2352	122	371	374	兩年多	time	bert
-2353	122	380	383	兩年多	time	bert
-2354	122	596	597	1	time	bert
-2355	122	598	599	1	time	bert
-2356	122	600	601	1	time	bert
-2357	122	602	603	1	time	bert
-2358	122	852	855	6月份	time	bert
-2359	122	886	891	7月17號	time	bert
-2361	122	909	913	7月17	time	bert
-2362	122	914	916	8月	time	bert
-2363	122	921	925	一個半月	time	bert
-2364	122	946	951	7月17號	time	bert
-2365	122	966	972	10月16號	time	bert
-2366	122	973	979	10月16號	time	bert
-2367	122	1009	1015	11月21號	time	bert
-2368	122	1102	1108	10月17號	time	bert
-2381	122	1788	1790	明年	time	bert
-2382	122	1803	1805	明年	time	bert
-2384	123	4	6	今天	time	bert
-2385	123	26	29	這個月	time	bert
-2386	123	133	135	明年	time	bert
-2387	123	344	347	這個月	time	bert
-2388	124	4	7	這個月	time	bert
-2389	124	211	214	上個月	time	bert
-2390	124	226	228	五月	time	bert
-2391	124	271	275	這一個月	time	bert
-2392	124	327	331	一個禮拜	time	bert
-2393	124	339	343	一個禮拜	time	bert
-2394	124	448	451	這個月	time	bert
-2396	125	4	7	這個月	time	bert
-2397	125	31	33	兩次	time	bert
-2398	125	666	669	禮拜天	time	bert
-2399	125	696	698	禮拜	time	bert
-2400	125	708	711	禮拜六	time	bert
-2401	125	754	757	禮拜天	time	bert
-2402	125	761	764	禮拜一	time	bert
-2403	125	803	806	禮拜六	time	bert
-2404	125	813	816	禮拜天	time	bert
-2405	125	845	848	禮拜二	time	bert
-2406	126	214	216	今天	time	bert
-2407	126	224	226	今天	time	bert
-2408	126	234	236	今天	time	bert
-2409	126	241	243	昨天	time	bert
-2410	126	251	253	昨天	time	bert
-2411	126	254	256	早上	time	bert
-2412	126	275	280	5、6點多	time	bert
-2413	126	307	309	晚上	time	bert
-2414	126	333	335	今天	time	bert
-2415	126	389	394	這一個禮拜	time	bert
-2416	126	454	456	中午	time	bert
-2417	126	609	611	今天	time	bert
-2422	127	369	370	3	time	bert
-2423	127	413	415	今天	time	bert
-2424	127	422	426	下個禮拜	time	bert
-2425	127	466	468	今天	time	bert
-2427	127	569	571	今天	time	bert
-2428	127	601	603	今天	time	bert
-2429	127	607	609	今天	time	bert
-2430	127	617	619	今天	time	bert
-2431	127	620	623	12號	time	bert
-2433	128	7	10	三個月	time	bert
-2439	128	836	841	11月2號	time	bert
-2440	128	844	846	今天	time	bert
-2441	128	850	855	11月2號	time	bert
-2442	128	889	894	11月2號	time	bert
-2445	129	7	10	這個月	time	bert
-2446	129	17	20	這個月	time	bert
-2448	129	142	144	今天	time	bert
-2449	129	211	214	這個月	time	bert
-2450	129	255	257	10	time	bert
-2453	129	778	781	下個月	time	bert
-2455	129	1859	1862	3年多	time	bert
-2456	129	1886	1888	3年	time	bert
-2459	130	4	7	這個月	time	bert
-2460	130	109	112	這個月	time	bert
-2461	130	233	236	這個月	time	bert
-2462	130	362	364	5點	time	bert
-2464	130	452	456	24小時	time	bert
-2465	130	518	520	5點	time	bert
-2466	130	737	739	今天	time	bert
-2467	130	793	796	一個月	time	bert
-2468	130	820	822	今天	time	bert
-2469	130	823	828	11月2號	time	bert
-2470	130	840	843	禮拜二	time	bert
-2471	130	849	852	11點	time	bert
-2472	130	865	867	9點	time	bert
-2473	130	909	914	11月3號	time	bert
-2474	130	923	928	11月4號	time	bert
-2475	130	1073	1076	禮拜四	time	bert
-2476	130	1125	1128	禮拜五	time	bert
-2477	130	1171	1177	11月10號	time	bert
-2478	130	1178	1180	9點	time	bert
-2479	131	4	7	這個月	time	bert
-2480	131	154	157	25號	time	bert
-2481	131	165	168	25號	time	bert
-2482	131	173	176	25號	time	bert
-2483	131	200	203	25號	time	bert
-2485	131	252	255	三個月	time	bert
-2486	131	272	275	25號	time	bert
-2487	131	305	308	25號	time	bert
-2491	131	566	568	今天	time	bert
-2492	131	569	574	11月5號	time	bert
-2493	131	661	664	9點前	time	bert
-2494	131	687	689	9點	time	bert
-2495	131	719	724	11月6號	time	bert
-2496	131	733	738	11月7號	time	bert
-2497	131	749	753	24小時	time	bert
-2498	131	785	789	24小時	time	bert
-2499	131	827	829	9點	time	bert
-2500	131	831	833	9點	time	bert
-2501	131	890	892	今天	time	bert
-2502	131	893	896	禮拜四	time	bert
-2503	131	982	984	9點	time	bert
-2504	131	1015	1021	11月11號	time	bert
-2505	131	1028	1034	11月12號	time	bert
-2506	131	1103	1107	一個禮拜	time	bert
-2508	131	1213	1218	73846	time	bert
-2509	132	4	7	這個月	time	bert
-2510	132	103	105	三年	time	bert
-2511	132	116	119	兩年多	time	bert
-2512	132	128	131	兩年多	time	bert
-2513	132	274	277	這個月	time	bert
-2514	132	1109	1111	今天	time	bert
-2515	132	1125	1130	9月28號	time	bert
-2516	132	1131	1137	10月12號	time	bert
-2517	132	1207	1209	8點	time	bert
-2518	132	1213	1215	晚上	time	bert
-2519	132	1216	1218	8點	time	bert
-2522	132	1354	1356	今天	time	bert
-2524	132	1528	1530	今天	time	bert
-2525	133	4	7	這個月	time	bert
-2526	133	39	42	這個月	time	bert
-2527	133	58	61	這個月	time	bert
-2529	133	636	638	今天	time	bert
-2537	134	4	7	這個月	time	bert
-2538	134	14	17	這個月	time	bert
-2539	134	313	315	今天	time	bert
-2540	134	340	342	今天	time	bert
-2541	134	447	449	明年	time	bert
-2542	134	450	454	3月7號	time	bert
-2543	134	477	481	下禮拜二	time	bert
-2544	135	4	7	這個月	time	bert
-2545	135	83	86	這個月	time	bert
-2546	135	372	374	今天	time	bert
-2547	135	406	409	6月份	time	bert
-2548	135	427	430	6月份	time	bert
-2549	135	450	452	今天	time	bert
-2550	135	479	481	今天	time	bert
-2553	135	757	761	三個網站	time	bert
-2563	136	28	32	這一個月	time	bert
-2564	136	88	90	五點	time	bert
-2565	136	207	210	這個月	time	bert
-2568	136	482	484	明年	time	bert
-2569	136	614	618	下個禮拜	time	bert
-2570	136	697	701	12月底	time	bert
-2572	137	146	150	這禮拜前	time	bert
-2573	137	181	184	每個月	time	bert
-2574	137	219	221	今天	time	bert
-2575	137	258	262	上個禮拜	time	bert
-2576	137	263	267	11月底	time	bert
-2578	137	371	375	上個禮拜	time	bert
-2579	137	384	388	一月五號	time	bert
-2580	137	508	510	今天	time	bert
-2581	137	603	607	這一個月	time	bert
-2582	137	614	617	這個月	time	bert
-2583	137	650	652	今天	time	bert
-2584	137	728	731	這個月	time	bert
-2585	137	807	809	今天	time	bert
-2587	137	1446	1448	明年	time	bert
-2588	137	1476	1478	今天	time	bert
-2589	137	1566	1568	今天	time	bert
-2590	137	1648	1650	今天	time	bert
-2591	137	1799	1801	今天	time	bert
-2592	137	1806	1808	明天	time	bert
-2593	137	1900	1905	這一個禮拜	time	bert
-2595	137	2057	2060	107	time	bert
-2597	138	30	33	31題	time	bert
-2598	138	60	63	31題	time	bert
-2601	138	171	174	這個月	time	bert
-2602	138	229	233	四個禮拜	time	bert
-2603	138	1053	1055	二十	time	bert
-2604	138	1133	1138	12月7號	time	bert
-2605	138	1151	1156	12月7號	time	bert
-2606	138	1157	1160	22號	time	bert
-2607	138	1232	1235	12月	time	bert
-2608	138	1256	1261	12月7號	time	bert
-2611	138	1578	1580	7號	time	bert
-2612	138	1593	1595	7號	time	bert
-2613	138	1596	1599	22號	time	bert
-2614	138	1668	1670	昨天	time	bert
-2615	139	198	202	兩個禮拜	time	bert
-2616	139	205	208	一個月	time	bert
-2617	139	364	366	五月	time	bert
-2621	140	18	22	兩個多月	time	bert
-2622	140	141	145	一兩個月	time	bert
-2623	140	283	287	兩個禮拜	time	bert
-2629	140	391	393	半年	time	bert
-2630	140	405	409	二十三號	time	bert
-2631	140	410	412	七號	time	bert
-2632	140	455	458	前幾天	time	bert
-2634	140	538	541	上個月	time	bert
-2638	140	902	905	一個月	time	bert
-2639	140	909	913	一個禮拜	time	bert
-2640	140	919	923	一個禮拜	time	bert
-2641	140	929	933	一個禮拜	time	bert
-2642	140	947	950	兩個月	time	bert
-2643	140	1082	1084	今年	time	bert
-2648	140	1716	1719	四年多	time	bert
-2649	140	1732	1734	兩年	time	bert
-2650	140	1766	1768	五年	time	bert
-2651	140	1790	1793	17歲	time	bert
-2652	140	1809	1812	17歲	time	bert
-2654	141	138	141	一個月	time	bert
-2655	141	162	165	一個月	time	bert
-2656	141	966	970	兩個月後	time	bert
-2657	141	971	974	半年後	time	bert
-2658	141	1101	1104	兩個月	time	bert
-2659	141	1119	1122	11月	time	bert
-2660	141	1123	1125	明年	time	bert
-2661	141	1126	1128	3月	time	bert
-2665	141	2107	2110	幾個月	time	bert
-2666	141	2387	2391	三個禮拜	time	bert
-2667	141	2397	2401	三個禮拜	time	bert
-2668	141	2410	2413	三個月	time	bert
-2669	141	2415	2418	三個月	time	bert
-2670	141	2429	2432	三個月	time	bert
-2671	142	16	25	100382694	time	bert
-2672	142	38	41	5個月	time	bert
-2673	142	235	238	三個月	time	bert
-2674	142	269	272	三個月	time	bert
-2675	142	326	329	六個月	time	bert
-2677	142	1319	1323	兩個禮拜	time	bert
-2678	142	1326	1330	一個禮拜	time	bert
-2679	142	1332	1336	一個禮拜	time	bert
-2680	142	1345	1349	一個禮拜	time	bert
-2681	142	1357	1361	一個禮拜	time	bert
-2682	142	1709	1711	今天	time	bert
-2683	142	1872	1874	半年	time	bert
-2684	142	1920	1921	2	time	bert
-2685	142	1929	1930	6	time	bert
-2686	142	1987	1989	今天	time	bert
-2687	142	2025	2028	一個月	time	bert
-2688	142	2625	2628	一個月	time	bert
-2689	142	2635	2638	一個月	time	bert
-2690	142	2691	2694	一個月	time	bert
-2691	143	24	26	八月	time	bert
-2692	143	89	92	三個月	time	bert
-2693	143	305	309	8月9號	time	bert
-2694	143	310	312	8月	time	bert
-2695	143	313	316	中秋節	time	bert
-2696	143	345	348	這個月	time	bert
-2697	143	433	437	兩個小時	time	bert
-2698	143	491	495	這兩個月	time	bert
-2699	143	639	641	八周	time	bert
-2700	143	696	700	八個禮拜	time	bert
-2701	143	710	714	八個禮拜	time	bert
-2702	143	715	719	2月22	time	bert
-2704	144	72	74	前天	time	bert
-2708	144	275	279	這個周末	time	bert
-2711	144	2012	2014	今天	time	bert
-2712	144	2096	2099	一個月	time	bert
-2713	144	2115	2116	一	time	bert
-2714	144	2117	2118	二	time	bert
-2715	144	2263	2266	禮拜二	time	bert
-2716	145	9	14	十二月三號	time	bert
-2717	145	23	26	禮拜三	time	bert
-2718	145	30	35	十二月五號	time	bert
-2719	145	39	44	十二月五號	time	bert
-2720	145	55	57	十月	time	bert
-2721	145	65	68	十月底	time	bert
-2722	145	84	91	十一月二十三號	time	bert
-2723	145	93	96	禮拜四	time	bert
-2724	145	99	105	十一月二十三	time	bert
-2725	145	158	161	禮拜三	time	bert
-2726	145	165	171	十一月二十九	time	bert
-2727	145	204	208	二十五號	time	bert
-2728	145	249	252	禮拜三	time	bert
-2729	145	269	276	十一月二十五日	time	bert
-2730	145	277	280	禮拜四	time	bert
-2731	145	309	314	十二月四號	time	bert
-2732	145	351	354	二十九	time	bert
-2737	145	903	906	五六日	time	bert
-2738	145	911	914	禮拜五	time	bert
-2739	145	927	930	禮拜日	time	bert
-2740	145	943	946	禮拜一	time	bert
-2741	145	1187	1190	禮拜六	time	bert
-2742	145	1191	1194	禮拜天	time	bert
-2743	145	1195	1197	八點	time	bert
-2744	145	1222	1225	禮拜天	time	bert
-2745	145	1437	1439	兩天	time	bert
-2746	145	1485	1487	今天	time	bert
-2747	145	1504	1506	兩天	time	bert
-2748	145	1585	1587	兩天	time	bert
-2749	145	1612	1616	一個禮拜	time	bert
-2750	145	1669	1673	8932	time	bert
-2753	146	36	39	這個月	time	bert
-2754	146	46	49	十月底	time	bert
-2755	146	67	69	上周	time	bert
-2756	146	432	434	三天	time	bert
-2757	146	693	695	兩天	time	bert
-2758	146	1056	1060	第五個月	time	bert
-2759	146	1090	1093	下個月	time	bert
-2760	146	1162	1164	半年	time	bert
-2761	146	1179	1181	半年	time	bert
-2762	146	1196	1199	三個月	time	bert
-2764	147	5	8	這個月	time	bert
-2765	147	40	43	這個月	time	bert
-2766	147	66	68	今天	time	bert
-2767	147	125	127	今天	time	bert
-2768	147	700	702	今天	time	bert
-2769	147	710	712	今天	time	bert
-2770	147	804	807	一個月	time	bert
-2771	147	832	836	每個禮拜	time	bert
-2772	147	857	861	三個禮拜	time	bert
-2773	147	871	875	一個禮拜	time	bert
-2774	147	925	928	下禮拜	time	bert
-2775	147	929	933	下下禮拜	time	bert
-2776	147	1044	1046	一年	time	bert
-2777	147	1081	1084	這禮拜	time	bert
-2778	147	1091	1094	清明節	time	bert
-2779	147	1101	1104	禮拜二	time	bert
-2780	147	1110	1113	禮拜一	time	bert
-2781	147	1286	1288	一年	time	bert
-2782	147	1295	1299	每三個月	time	bert
-2783	147	1572	1574	半年	time	bert
-2784	147	1631	1633	半年	time	bert
-2785	147	1637	1639	半年	time	bert
-2786	147	1654	1657	三個月	time	bert
-2787	147	1662	1664	今天	time	bert
-2788	147	1777	1781	三個禮拜	time	bert
-2789	147	1797	1799	今天	time	bert
-2790	147	1814	1818	三個禮拜	time	bert
-2791	148	52	55	三個月	time	bert
-2792	148	58	61	7月底	time	bert
-2793	148	152	155	8月底	time	bert
-2794	148	168	174	5、6、7月	time	bert
-2795	148	701	703	今天	time	bert
-2796	148	733	735	今天	time	bert
-2797	148	1033	1035	今年	time	bert
-2800	149	171	174	一個月	time	bert
-2801	149	377	380	三月初	time	bert
-2802	149	387	390	七月底	time	bert
-2803	149	414	417	五個月	time	bert
-2804	149	423	426	三個月	time	bert
-2805	149	1486	1489	四個月	time	bert
-2806	149	1559	1564	兩三個禮拜	time	bert
-2807	149	1966	1968	四月	time	bert
-2808	149	1976	1978	半年	time	bert
-2809	149	2014	2016	今天	time	bert
-2810	149	2021	2024	下禮拜	time	bert
-2811	149	2046	2049	下禮拜	time	bert
-2812	149	2063	2066	禮拜一	time	bert
-2813	149	2072	2075	禮拜一	time	bert
-2814	149	2076	2078	早上	time	bert
-2815	149	2082	2084	早上	time	bert
-2816	149	2088	2091	禮拜一	time	bert
-2817	149	2092	2094	早上	time	bert
-2818	149	2102	2104	早上	time	bert
-2819	149	2105	2106	五	time	bert
-2820	149	2107	2109	早上	time	bert
-2821	149	2116	2119	禮拜一	time	bert
-2822	149	2120	2122	早上	time	bert
-2823	149	2134	2138	下禮拜一	time	bert
-2824	149	2139	2143	十月七號	time	bert
-2825	149	2144	2146	連假	time	bert
-2826	149	2147	2150	前一天	time	bert
-2827	149	2161	2165	十月十號	time	bert
-2828	149	2171	2174	國慶日	time	bert
-2829	149	2177	2179	九號	time	bert
-2830	149	2182	2186	下禮拜二	time	bert
-2831	149	2238	2241	這禮拜	time	bert
-2832	149	2242	2244	四天	time	bert
-2833	149	2245	2248	下禮拜	time	bert
-2834	149	2261	2265	下禮拜二	time	bert
-2835	149	2276	2279	禮拜一	time	bert
-2836	149	2288	2292	十月七號	time	bert
-2837	150	129	133	下個禮拜	time	bert
-2838	150	191	193	今天	time	bert
-2839	150	200	202	今天	time	bert
-2840	150	378	384	10月20號	time	bert
-2841	150	403	405	今天	time	bert
-2842	150	427	430	這個月	time	bert
-2843	150	571	574	禮拜六	time	bert
-2844	150	704	706	一年	time	bert
-2845	150	1630	1633	這一年	time	bert
-2846	150	1760	1762	今年	time	bert
-2847	150	1796	1798	明年	time	bert
-2849	150	2329	2332	一個月	time	bert
-2850	150	2483	2488	前兩個小時	time	bert
-2851	150	2493	2498	前兩個小時	time	bert
-2852	150	2618	2622	24小時	time	bert
-2853	150	2783	2784	1	time	bert
-2854	150	2785	2786	1	time	bert
-2855	150	2984	2986	五點	time	bert
-2856	150	3002	3004	五點	time	bert
-2857	150	3079	3082	一個月	time	bert
-2858	150	3135	3138	五個月	time	bert
-2862	150	4568	4569	兩	time	bert
-2863	150	4571	4574	兩三年	time	bert
-2865	150	5051	5053	今天	time	bert
-2866	150	5172	5177	前兩個小時	time	bert
-2867	150	5200	5203	一兩天	time	bert
-2868	150	5862	5865	每個月	time	bert
-2869	150	5887	5890	三個月	time	bert
-2870	150	5979	5983	10月中	time	bert
-2871	150	6085	6088	三個月	time	bert
-2872	150	6274	6276	今天	time	bert
-2873	150	6294	6296	明年	time	bert
-2874	150	6302	6304	一月	time	bert
-2875	150	6426	6429	13周	time	bert
-2876	150	6439	6442	13周	time	bert
-2877	150	6446	6449	13周	time	bert
-2878	150	6463	6466	12周	time	bert
-2879	150	6473	6478	1月10號	time	bert
-2880	150	6482	6487	1月10號	time	bert
-2881	150	6501	6503	今天	time	bert
-2882	150	6506	6509	三個月	time	bert
-2883	150	6577	6581	1月10	time	bert
-2884	150	6590	6592	今年	time	bert
-2885	150	6595	6597	跨年	time	bert
-2886	150	6605	6609	1月1號	time	bert
-2887	150	6610	6613	禮拜五	time	bert
-2888	150	6619	6622	五六日	time	bert
-2889	150	6629	6632	五六日	time	bert
-2890	150	6654	6656	今天	time	bert
-2891	150	6657	6660	星期四	time	bert
-2892	150	6797	6800	五六日	time	bert
-2897	150	7258	7260	今天	time	bert
-2898	150	7335	7339	半夜三點	time	bert
-2899	150	7419	7422	12點	time	bert
-2900	150	7565	7571	837654	time	bert
-2902	151	52	55	這個月	time	bert
-2903	151	106	109	這個月	time	bert
-2904	151	302	304	今天	time	bert
-2905	151	344	346	今天	time	bert
-2906	151	715	719	一兩個月	time	bert
-2907	151	748	750	明年	time	bert
-2908	151	1015	1018	每個月	time	bert
-2909	151	1167	1170	下個月	time	bert
-2910	151	1228	1231	10月	time	bert
-2911	151	1237	1238	十	time	bert
-2912	151	1246	1249	10月	time	bert
-2913	151	1274	1276	六周	time	bert
-2914	151	1280	1282	六周	time	bert
-2915	151	1286	1291	10月15	time	bert
-2916	151	1304	1307	禮拜二	time	bert
-2917	151	1308	1310	早上	time	bert
-2918	151	1397	1399	半年	time	bert
-2919	152	334	337	這個月	time	bert
-2920	152	407	410	下禮拜	time	bert
-2921	152	445	447	今年	time	bert
-2922	152	463	465	明年	time	bert
-2927	152	1316	1320	兩個禮拜	time	bert
-2928	152	1327	1330	三個月	time	bert
-2929	152	1338	1341	三個月	time	bert
-2930	152	1675	1678	下個月	time	bert
-2932	152	1780	1785	三四個禮拜	time	bert
-2933	152	1876	1880	兩個禮拜	time	bert
-2934	152	1898	1903	兩個禮拜前	time	bert
-2935	152	1916	1920	兩個禮拜	time	bert
-2936	152	2256	2259	下個月	time	bert
-2937	152	2294	2297	下個月	time	bert
-2938	152	2312	2315	兩個月	time	bert
-2939	152	2383	2386	下個月	time	bert
-2940	152	2566	2568	今天	time	bert
-2941	152	2579	2583	九月三十	time	bert
-2942	152	2630	2632	今天	time	bert
-2943	152	3009	3013	九月二十	time	bert
-2944	152	3199	3202	三個月	time	bert
-2945	152	3243	3246	兩個月	time	bert
-2946	152	3273	3276	兩個月	time	bert
-2947	152	3329	3332	三十號	time	bert
-2948	152	3532	3535	這個月	time	bert
-2949	152	3613	3617	前兩小時	time	bert
-2950	152	3815	3819	兩個小時	time	bert
-2951	152	3909	3911	早上	time	bert
-2952	152	3931	3933	七點	time	bert
-2953	152	3956	3958	五點	time	bert
-2954	153	3	6	這個月	time	bert
-2956	153	130	132	今天	time	bert
-2957	153	144	146	今天	time	bert
-2958	153	150	154	第六個月	time	bert
-2959	153	265	267	今天	time	bert
-2960	153	275	277	今天	time	bert
-2961	153	311	313	今天	time	bert
-2962	153	387	390	六個月	time	bert
-2963	153	1026	1032	這兩個禮拜內	time	bert
-2964	153	1113	1116	一個月	time	bert
-2965	153	1125	1129	兩個禮拜	time	bert
-2966	153	1132	1136	兩個禮拜	time	bert
-2967	153	1181	1185	兩個禮拜	time	bert
-2968	153	1338	1343	兩、三個月	time	bert
-2969	153	1348	1353	三、四個月	time	bert
-2976	153	1705	1708	1/3	time	bert
-2979	153	2295	2297	今天	time	bert
-2980	153	2605	2607	明年	time	bert
-2981	153	2693	2696	三個月	time	bert
-2982	154	3	6	這個月	time	bert
-2983	154	19	22	這個月	time	bert
-2984	154	132	135	這個月	time	bert
-2985	154	252	256	一個半月	time	bert
-2986	154	668	670	今天	time	bert
-2988	154	1200	1202	7點	time	bert
-2989	154	1390	1393	兩小時	time	bert
-2990	154	1699	1702	這個月	time	bert
-2991	154	2033	2035	今天	time	bert
-2993	154	2129	2132	5月底	time	bert
-2994	154	2140	2143	8月底	time	bert
-2995	154	2153	2159	兩﹑三個禮拜	time	bert
-2996	155	4	7	這個月	time	bert
-2997	155	48	51	這個月	time	bert
-2998	155	113	116	下禮拜	time	bert
-2999	155	145	148	這個月	time	bert
-3000	155	199	203	一個禮拜	time	bert
-3001	155	322	326	這個禮拜	time	bert
-3002	155	404	406	今年	time	bert
-3003	155	410	412	今天	time	bert
-3004	155	489	491	明年	time	bert
-3005	155	515	517	明年	time	bert
-3006	155	594	596	明年	time	bert
-3007	155	733	736	這一年	time	bert
-3015	155	1629	1632	一個月	time	bert
-3018	155	1693	1697	一個多月	time	bert
-3019	155	1780	1784	兩個禮拜	time	bert
-3022	156	629	631	三天	time	bert
-3023	156	739	741	五天	time	bert
-3024	156	742	746	一個禮拜	time	bert
-3025	156	1003	1005	兩天	time	bert
-3026	156	1812	1814	今年	time	bert
-3027	156	2012	2014	今年	time	bert
-3028	156	2239	2241	今年	time	bert
-3029	156	2474	2476	今年	time	bert
-3030	156	2600	2602	今年	time	bert
-3031	156	2770	2772	今年	time	bert
-3033	156	2902	2904	今年	time	bert
-3035	156	3236	3238	今天	time	bert
-3037	157	93	99	一、兩個小時	time	bert
-3038	157	127	130	整個月	time	bert
-3039	157	449	453	第二個月	time	bert
-3040	157	469	473	第二個月	time	bert
-3041	157	476	478	今天	time	bert
-3043	157	1357	1359	三十	time	bert
-3060	157	2594	2596	明年	time	bert
-3061	157	2612	2614	明年	time	bert
-3064	157	3487	3489	今天	time	bert
-3065	157	3495	3497	今天	time	bert
-3066	157	3499	3501	今天	time	bert
-3067	157	3535	3538	下個月	time	bert
-3068	157	3544	3547	下個月	time	bert
-3069	157	3597	3599	四週	time	bert
-3070	157	3603	3605	三週	time	bert
-3072	157	3619	3621	四週	time	bert
-3073	157	3627	3629	九月	time	bert
-3074	157	3633	3635	十四	time	bert
-3075	157	3643	3647	九月十四	time	bert
-3076	157	3648	3651	禮拜幾	time	bert
-3077	157	3658	3663	禮拜三早上	time	bert
-3078	157	3672	3677	禮拜二早上	time	bert
-3079	157	3689	3692	禮拜一	time	bert
-3080	157	3703	3708	禮拜一下午	time	bert
-3081	157	3722	3726	這個禮拜	time	bert
-3082	157	3733	3737	這禮拜一	time	bert
-3083	157	3753	3756	禮拜五	time	bert
-3084	157	3777	3781	九月十號	time	bert
-3085	157	3785	3789	九月十號	time	bert
-3086	157	3822	3824	禮拜	time	bert
-3087	158	91	94	這個月	time	bert
-3088	158	127	130	這個月	time	bert
-3089	158	193	197	四個禮拜	time	bert
-3090	158	335	337	今天	time	bert
-3091	158	408	410	二十	time	bert
-3092	158	421	423	26	time	bert
-3093	158	431	435	二十二十	time	bert
-3095	158	1074	1076	今天	time	bert
-3096	158	1082	1086	第三個月	time	bert
-3097	158	1143	1145	今天	time	bert
+article_id	start_position	end_position	entity_text	entity_type	source
+0	36	38	年底	time	bert
+0	113	115	今天	time	bert
+0	295	297	今年	time	bert
+1	31	33	今天	time	bert
+1	40	42	昨天	time	bert
+1	469	472	三個月	time	bert
+1	742	744	中午	time	bert
+1	890	893	12天	time	bert
+1	902	906	三個星期	time	bert
+2	390	393	三個月	time	bert
+2	402	405	三個月	time	bert
+2	792	795	兩個月	time	bert
+3	6	8	昨天	time	bert
+3	221	223	昨天	time	bert
+3	225	227	早上	time	bert
+3	263	267	今天早上	time	bert
+3	538	540	前天	time	bert
+3	643	645	昨天	time	bert
+3	673	675	今天	time	bert
+3	867	870	禮拜二	time	bert
+3	871	874	禮拜三	time	bert
+4	24	26	今年	time	bert
+4	45	47	今天	time	bert
+4	187	192	8月13號	time	bert
+4	365	368	三個禮	time	bert
+4	369	372	三個月	time	bert
+4	436	438	半年	time	bert
+4	495	498	31歲	time	bert
+5	53	55	四月	time	bert
+5	697	704	今天9000幾	time	bert
+5	726	732	10月25號	time	bert
+5	1010	1013	兩個月	time	bert
+5	1035	1038	兩個月	time	bert
+5	1051	1057	10月25號	time	bert
+5	1139	1143	10月底	time	bert
+5	1148	1152	11月初	time	bert
+5	1170	1173	兩個月	time	bert
+5	1288	1291	兩個月	time	bert
+5	1303	1306	兩個月	time	bert
+5	1324	1327	一個月	time	bert
+5	1334	1337	一個月	time	bert
+5	1345	1348	兩個月	time	bert
+5	1357	1360	一個月	time	bert
+5	1372	1375	兩個月	time	bert
+5	1381	1386	今天14號	time	bert
+5	1395	1400	今天14號	time	bert
+5	1405	1408	一個月	time	bert
+5	1413	1419	10月14號	time	bert
+5	1434	1437	25號	time	bert
+5	1451	1457	10月25號	time	bert
+5	1466	1472	10月25號	time	bert
+5	1478	1484	10月25號	time	bert
+5	1490	1493	下個月	time	bert
+5	1499	1504	9月24號	time	bert
+5	1509	1515	10月25號	time	bert
+5	1516	1518	10	time	bert
+5	1527	1530	兩個月	time	bert
+5	1556	1559	兩個月	time	bert
+5	1563	1566	兩個月	time	bert
+5	1570	1573	兩個月	time	bert
+5	1587	1591	七個禮拜	time	bert
+5	1630	1633	25號	time	bert
+5	2223	2227	9700	time	bert
+6	155	161	七月三十一號	time	bert
+6	164	170	七月三十一號	time	bert
+6	194	196	九月	time	bert
+6	406	410	三、四週	time	bert
+6	415	419	三、四週	time	bert
+6	521	524	前兩週	time	bert
+6	786	788	九月	time	bert
+6	803	807	一個禮拜	time	bert
+6	810	813	兩個月	time	bert
+6	1154	1156	今天	time	bert
+6	1241	1245	四個禮拜	time	bert
+6	1328	1332	一個禮拜	time	bert
+6	1375	1379	兩個禮拜	time	bert
+6	1380	1383	兩個月	time	bert
+6	1386	1389	兩個月	time	bert
+6	1468	1471	兩個月	time	bert
+6	1814	1818	四個禮拜	time	bert
+6	1971	1973	今年	time	bert
+7	76	82	兩、三點半夜	time	bert
+7	103	105	傍晚	time	bert
+7	707	711	好幾個月	time	bert
+7	717	722	一、兩個月	time	bert
+7	726	727	一	time	bert
+7	728	731	兩個月	time	bert
+7	749	751	一年	time	bert
+7	812	814	8月	time	bert
+7	945	948	禮拜二	time	bert
+7	964	966	一月	time	bert
+7	973	977	明年三月	time	bert
+7	982	986	明年三月	time	bert
+7	989	993	明年三月	time	bert
+7	1001	1005	明年三月	time	bert
+7	1013	1016	禮拜二	time	bert
+7	1021	1024	禮拜二	time	bert
+7	1033	1035	三月	time	bert
+7	1047	1052	上個禮拜三	time	bert
+7	1113	1117	3月2號	time	bert
+8	39	44	九百一十三	time	bert
+8	621	624	零一六	time	bert
+8	633	636	一個月	time	bert
+8	641	645	第六個月	time	bert
+8	664	667	零二六	time	bert
+8	672	675	兩個月	time	bert
+8	943	947	四個禮拜	time	bert
+8	1052	1055	十二月	time	bert
+8	1058	1063	二月十五號	time	bert
+8	1153	1158	56387	time	bert
+9	1221	1223	4月	time	bert
+9	1384	1386	四月	time	bert
+9	1402	1404	半年	time	bert
+9	1416	1418	今天	time	bert
+9	2721	2724	三個月	time	bert
+9	2797	2799	今天	time	bert
+10	43	47	上個禮拜	time	bert
+10	129	132	這禮拜	time	bert
+10	892	894	昨天	time	bert
+10	1027	1029	一天	time	bert
+10	1059	1061	一天	time	bert
+10	1269	1272	禮拜六	time	bert
+10	1278	1281	禮拜一	time	bert
+10	1298	1301	禮拜四	time	bert
+10	1311	1314	禮拜四	time	bert
+10	1319	1322	禮拜六	time	bert
+11	4	8	這個禮拜	time	bert
+11	885	888	上禮拜	time	bert
+11	944	948	上個禮拜	time	bert
+11	1177	1181	上個禮拜	time	bert
+11	1190	1194	上個禮拜	time	bert
+11	1259	1263	九個小時	time	bert
+11	1498	1502	上個禮拜	time	bert
+11	1656	1661	三、四十歲	time	bert
+11	2523	2525	今天	time	bert
+11	2527	2531	這個禮拜	time	bert
+11	2936	2940	兩三年前	time	bert
+11	3416	3418	半年	time	bert
+11	3579	3584	2013年	time	bert
+11	4051	4053	早晚	time	bert
+11	4438	4440	四年	time	bert
+11	4496	4501	2013年	time	bert
+11	5040	5043	下禮拜	time	bert
+11	5048	5051	下禮拜	time	bert
+11	5062	5064	禮拜	time	bert
+11	5067	5070	下禮拜	time	bert
+11	5091	5094	禮拜五	time	bert
+11	5095	5097	早上	time	bert
+11	5104	5107	禮拜五	time	bert
+11	5108	5110	早上	time	bert
+11	5180	5186	11月30號	time	bert
+11	5809	5814	8月23日	time	bert
+11	5824	5827	一個月	time	bert
+11	5859	5864	上個禮拜五	time	bert
+11	6215	6217	今天	time	bert
+12	169	171	今天	time	bert
+12	276	280	下個禮拜	time	bert
+13	160	162	前年	time	bert
+13	178	180	前年	time	bert
+13	188	190	今年	time	bert
+13	192	195	九月份	time	bert
+13	217	219	今年	time	bert
+13	366	369	六零九	time	bert
+13	494	496	十四	time	bert
+13	504	506	今年	time	bert
+13	517	519	一年	time	bert
+13	984	987	七十三	time	bert
+13	1110	1112	十四	time	bert
+13	1153	1156	七十五	time	bert
+13	1169	1172	七十五	time	bert
+14	269	271	去年	time	bert
+14	693	695	明年	time	bert
+14	741	743	半年	time	bert
+14	930	932	今天	time	bert
+14	1258	1263	78362	time	bert
+15	4	8	兩個禮拜	time	bert
+15	194	197	11月	time	bert
+15	221	225	下個禮拜	time	bert
+15	302	306	兩個禮拜	time	bert
+15	310	314	兩個禮拜	time	bert
+15	315	319	兩個禮拜	time	bert
+15	617	619	今天	time	bert
+15	620	626	11月20號	time	bert
+15	708	712	兩個禮拜	time	bert
+16	588	590	年底	time	bert
+16	594	596	今年	time	bert
+16	618	620	元月	time	bert
+16	623	627	2月2號	time	bert
+16	649	652	三個月	time	bert
+16	703	705	1年	time	bert
+16	750	753	三個月	time	bert
+16	785	788	3個月	time	bert
+16	806	809	84顆	time	bert
+16	832	837	2月16號	time	bert
+17	328	332	四個禮拜	time	bert
+17	625	628	三個月	time	bert
+17	710	714	9/15	time	bert
+17	716	720	四個禮拜	time	bert
+18	487	491	五月月份	time	bert
+18	501	504	四個月	time	bert
+18	591	594	五月份	time	bert
+18	608	611	九月份	time	bert
+18	615	618	四個月	time	bert
+18	632	635	兩個月	time	bert
+18	674	676	今天	time	bert
+18	734	736	昨天	time	bert
+18	807	809	今天	time	bert
+18	916	918	下午	time	bert
+18	924	926	下午	time	bert
+18	928	931	禮拜三	time	bert
+18	940	943	禮拜三	time	bert
+18	944	946	下午	time	bert
+18	963	965	下午	time	bert
+18	1142	1147	這個禮拜三	time	bert
+18	1149	1154	下個禮拜三	time	bert
+18	1166	1168	下午	time	bert
+18	1181	1183	下午	time	bert
+18	1232	1234	下午	time	bert
+18	1251	1255	下禮拜三	time	bert
+18	1295	1297	今天	time	bert
+18	1521	1523	三天	time	bert
+18	1531	1534	禮拜三	time	bert
+19	21	24	禮拜五	time	bert
+19	32	35	禮拜六	time	bert
+19	56	58	三天	time	bert
+19	265	268	禮拜幾	time	bert
+19	286	289	前陣子	time	bert
+19	505	508	禮拜五	time	bert
+19	516	519	禮拜六	time	bert
+19	520	522	凌晨	time	bert
+19	540	542	今天	time	bert
+19	795	798	禮拜一	time	bert
+19	829	832	禮拜三	time	bert
+19	927	929	今天	time	bert
+19	996	999	禮拜天	time	bert
+19	1000	1002	早上	time	bert
+19	1412	1416	這禮拜二	time	bert
+19	1433	1436	禮拜二	time	bert
+19	1446	1450	下禮拜一	time	bert
+19	1464	1468	下禮拜一	time	bert
+19	1475	1479	下禮拜一	time	bert
+19	1487	1491	下禮拜一	time	bert
+19	1499	1503	一個禮拜	time	bert
+19	1700	1703	禮拜天	time	bert
+20	42	44	一天	time	bert
+20	131	135	下下禮拜	time	bert
+20	137	141	下下禮拜	time	bert
+20	194	197	禮拜四	time	bert
+20	198	203	這個禮拜四	time	bert
+20	209	212	禮拜四	time	bert
+20	217	222	這個禮拜四	time	bert
+20	277	280	星期四	time	bert
+20	286	290	這禮拜四	time	bert
+20	316	321	下下個禮拜	time	bert
+20	329	332	禮拜一	time	bert
+20	336	339	禮拜一	time	bert
+20	355	357	禮拜	time	bert
+20	359	362	禮拜四	time	bert
+20	391	395	這禮拜四	time	bert
+20	944	948	上個禮拜	time	bert
+20	994	997	禮拜一	time	bert
+20	1003	1005	禮拜	time	bert
+20	1018	1020	兩天	time	bert
+20	1028	1031	禮拜三	time	bert
+20	1041	1044	禮拜三	time	bert
+20	1126	1129	禮拜四	time	bert
+20	1148	1151	禮拜四	time	bert
+20	1171	1173	禮拜	time	bert
+20	1175	1177	禮拜	time	bert
+21	137	141	6/14	time	bert
+22	65	69	三個禮拜	time	bert
+22	311	316	前兩個禮拜	time	bert
+22	602	604	半年	time	bert
+22	741	743	今天	time	bert
+23	623	627	一個禮拜	time	bert
+23	1541	1543	五點	time	bert
+23	1577	1579	六點	time	bert
+23	1906	1909	六月份	time	bert
+23	1986	1989	六月份	time	bert
+23	2078	2080	一天	time	bert
+24	40	44	兩個禮拜	time	bert
+24	194	198	2個小時	time	bert
+24	297	301	兩個禮拜	time	bert
+24	328	330	下午	time	bert
+24	372	377	12月15	time	bert
+24	381	384	禮拜一	time	bert
+24	457	459	早上	time	bert
+24	475	477	早上	time	bert
+25	37	39	兩天	time	bert
+25	47	49	兩天	time	bert
+25	194	197	一個月	time	bert
+25	278	281	禮拜四	time	bert
+25	282	284	早上	time	bert
+25	676	679	五年級	time	bert
+25	696	698	幾年	time	bert
+26	371	375	一個小時	time	bert
+26	479	483	上個禮拜	time	bert
+26	541	545	700多	time	bert
+26	582	588	5、6個小時	time	bert
+26	637	640	半年前	time	bert
+26	1422	1424	晚上	time	bert
+26	1584	1586	半年	time	bert
+27	1016	1019	禮拜四	time	bert
+27	1025	1028	禮拜三	time	bert
+27	1029	1032	禮拜四	time	bert
+27	1039	1043	三個禮拜	time	bert
+27	1045	1048	禮拜四	time	bert
+27	1053	1059	10月12號	time	bert
+28	146	148	四十	time	bert
+28	149	152	四十三	time	bert
+28	483	485	半年	time	bert
+28	978	982	六十五歲	time	bert
+28	1024	1026	去年	time	bert
+28	1037	1039	去年	time	bert
+28	1084	1086	每年	time	bert
+28	1175	1179	六十五歲	time	bert
+28	1451	1455	一年四次	time	bert
+28	1577	1579	半年	time	bert
+28	1580	1582	一年	time	bert
+28	1586	1588	一年	time	bert
+28	1590	1592	一年	time	bert
+28	1596	1598	今年	time	bert
+28	1620	1623	今年初	time	bert
+28	1627	1629	今年	time	bert
+28	1639	1642	明年初	time	bert
+28	1663	1665	七月	time	bert
+28	1672	1674	七月	time	bert
+28	1682	1684	七月	time	bert
+28	1814	1816	半年	time	bert
+29	338	340	今年	time	bert
+29	422	424	去年	time	bert
+29	438	440	每年	time	bert
+29	587	590	3個月	time	bert
+29	626	629	一個月	time	bert
+29	655	658	三個月	time	bert
+29	807	810	三個月	time	bert
+30	22	27	7月19號	time	bert
+30	171	174	2月初	time	bert
+30	192	196	7月19	time	bert
+30	465	467	半年	time	bert
+30	527	529	今年	time	bert
+30	661	663	今年	time	bert
+30	920	922	8月	time	bert
+30	923	925	8月	time	bert
+30	966	968	8月	time	bert
+30	982	984	半年	time	bert
+30	1013	1016	11月	time	bert
+30	1036	1038	2月	time	bert
+30	1039	1041	2月	time	bert
+30	1046	1048	明年	time	bert
+30	1049	1053	2月下半	time	bert
+30	1055	1058	下半月	time	bert
+30	1100	1102	半年	time	bert
+30	1213	1218	2月25號	time	bert
+31	981	985	三、四天	time	bert
+31	1324	1328	六、七成	time	bert
+31	1378	1381	三個月	time	bert
+31	1444	1447	三個月	time	bert
+31	1868	1870	年底	time	bert
+31	1883	1886	十一月	time	bert
+32	164	166	今天	time	bert
+32	235	239	上上禮拜	time	bert
+32	243	247	上上禮拜	time	bert
+32	737	740	兩個月	time	bert
+32	743	746	兩個月	time	bert
+32	767	771	四個禮拜	time	bert
+32	847	851	四個禮拜	time	bert
+32	858	862	四個禮拜	time	bert
+32	913	917	四個禮拜	time	bert
+32	927	931	四個禮拜	time	bert
+33	3	6	這個月	time	bert
+33	15	18	這個月	time	bert
+33	195	198	上一季	time	bert
+33	224	227	明年初	time	bert
+33	314	316	今年	time	bert
+33	390	392	一年	time	bert
+33	400	403	今年初	time	bert
+33	416	418	今年	time	bert
+33	428	433	去年的年初	time	bert
+33	441	444	去年初	time	bert
+33	446	450	今年年底	time	bert
+33	457	461	去年年底	time	bert
+33	462	466	今年年初	time	bert
+33	524	526	去年	time	bert
+33	528	533	2月25號	time	bert
+33	553	558	2月25號	time	bert
+33	630	632	今年	time	bert
+33	680	683	3個月	time	bert
+34	3	5	今年	time	bert
+34	6	8	今年	time	bert
+34	26	28	今年	time	bert
+34	302	305	八月多	time	bert
+34	315	320	8月20號	time	bert
+34	332	334	八月	time	bert
+34	339	341	半年	time	bert
+34	379	381	八月	time	bert
+34	382	384	八月	time	bert
+34	385	387	九月	time	bert
+34	396	398	八月	time	bert
+34	399	401	九月	time	bert
+34	444	447	901	time	bert
+34	451	453	九月	time	bert
+34	454	456	十月	time	bert
+34	457	460	十一月	time	bert
+34	465	467	九月	time	bert
+34	538	541	二月底	time	bert
+34	543	548	二月二十五	time	bert
+34	552	557	二月二十五	time	bert
+34	567	570	十二週	time	bert
+34	636	639	十二點	time	bert
+35	621	625	三個禮拜	time	bert
+35	693	696	兩個月	time	bert
+35	1122	1124	早上	time	bert
+35	1250	1253	三個月	time	bert
+35	1393	1397	兩個禮拜	time	bert
+35	1643	1645	兩天	time	bert
+36	490	492	半年	time	bert
+36	496	498	半年	time	bert
+36	589	592	五十歲	time	bert
+37	289	291	今年	time	bert
+37	417	421	舊曆年底	time	bert
+38	12	14	早上	time	bert
+38	655	657	禮拜	time	bert
+38	662	666	一個禮拜	time	bert
+38	674	677	禮拜三	time	bert
+38	691	696	下下禮拜三	time	bert
+38	727	731	下個禮拜	time	bert
+38	766	776	0935642234	time	bert
+39	116	118	一天	time	bert
+39	417	421	上星期二	time	bert
+39	423	427	上星期二	time	bert
+39	565	568	星期二	time	bert
+39	799	802	三個月	time	bert
+39	814	817	三個月	time	bert
+39	1036	1040	上禮拜五	time	bert
+39	1407	1409	九歲	time	bert
+39	1417	1420	十五歲	time	bert
+39	1486	1490	8353	time	bert
+40	226	228	今天	time	bert
+40	236	238	今天	time	bert
+41	359	363	二十八歲	time	bert
+41	607	609	二月	time	bert
+41	719	721	今天	time	bert
+41	936	941	二零一六年	time	bert
+41	942	948	十一月十八號	time	bert
+41	1513	1517	一一三五	time	bert
+41	2067	2073	九月二十三號	time	bert
+41	2088	2090	今天	time	bert
+41	2099	2101	明年	time	bert
+41	2102	2105	二月底	time	bert
+41	2120	2122	半年	time	bert
+42	94	98	一個晚上	time	bert
+42	235	237	晚上	time	bert
+42	741	744	5分鐘	time	bert
+42	750	753	5分鐘	time	bert
+42	1101	1103	晚上	time	bert
+42	1347	1351	一個禮拜	time	bert
+42	1375	1377	今年	time	bert
+43	169	171	一年	time	bert
+43	200	203	632	time	bert
+43	537	539	明年	time	bert
+43	633	638	明年的7月	time	bert
+43	659	661	半年	time	bert
+43	1005	1007	1月	time	bert
+43	1018	1021	半年前	time	bert
+44	7	16	113566480	time	bert
+44	23	24	4	time	bert
+45	409	412	兩個月	time	bert
+45	419	422	禮拜三	time	bert
+45	447	450	禮拜三	time	bert
+45	1421	1424	兩個月	time	bert
+45	1446	1448	昨天	time	bert
+45	1503	1505	昨天	time	bert
+45	1574	1576	昨天	time	bert
+45	1684	1687	三公斤	time	bert
+45	1737	1741	兩個禮拜	time	bert
+45	1800	1802	昨天	time	bert
+45	2062	2064	去年	time	bert
+45	2120	2122	半年	time	bert
+45	2251	2254	兩個月	time	bert
+45	2330	2333	12月	time	bert
+45	2337	2343	10月13號	time	bert
+45	2344	2349	11月17	time	bert
+45	2353	2356	兩個月	time	bert
+45	2359	2362	下個月	time	bert
+45	2741	2743	昨天	time	bert
+45	2903	2905	早上	time	bert
+45	2906	2908	下午	time	bert
+45	3010	3013	三個月	time	bert
+45	3020	3023	三個月	time	bert
+45	3217	3220	7/3	time	bert
+45	3231	3234	1/3	time	bert
+46	200	204	一個禮拜	time	bert
+46	251	253	一天	time	bert
+46	283	285	一天	time	bert
+46	384	394	0933625337	time	bert
+47	666	670	一個禮拜	time	bert
+47	710	714	一個禮拜	time	bert
+47	860	863	三年多	time	bert
+47	969	972	下禮拜	time	bert
+48	50	52	今天	time	bert
+48	206	208	今天	time	bert
+48	306	308	今天	time	bert
+48	370	372	昨天	time	bert
+48	633	635	今天	time	bert
+48	669	671	今天	time	bert
+48	746	752	10月16號	time	bert
+48	835	838	三個月	time	bert
+48	1060	1062	晚上	time	bert
+48	1141	1143	六點	time	bert
+48	1148	1150	八點	time	bert
+48	1185	1187	晚上	time	bert
+48	1207	1209	晚上	time	bert
+48	1596	1599	三個月	time	bert
+48	1609	1612	一個月	time	bert
+48	1866	1871	66674	time	bert
+49	9	18	113993846	time	bert
+49	290	294	一個禮拜	time	bert
+49	301	305	一個禮拜	time	bert
+49	309	313	兩個禮拜	time	bert
+49	318	322	兩個禮拜	time	bert
+49	723	725	今天	time	bert
+49	793	795	今天	time	bert
+49	797	799	三點	time	bert
+49	885	887	晚上	time	bert
+49	977	979	晚上	time	bert
+49	1225	1227	晚上	time	bert
+49	1297	1299	晚上	time	bert
+49	1303	1305	晚上	time	bert
+49	1363	1365	白天	time	bert
+50	639	643	一個禮拜	time	bert
+50	729	734	1月15號	time	bert
+50	793	798	1月20號	time	bert
+50	809	813	1月10	time	bert
+50	832	834	今天	time	bert
+50	837	842	1月20號	time	bert
+50	1091	1096	1月26號	time	bert
+50	1969	1973	1月20	time	bert
+51	166	168	三天	time	bert
+51	218	221	14號	time	bert
+51	257	260	10號	time	bert
+51	283	289	10月15號	time	bert
+51	292	298	10月15號	time	bert
+51	319	325	11月18號	time	bert
+51	358	360	23	time	bert
+51	441	446	12月7號	time	bert
+51	461	464	12月	time	bert
+51	469	474	12月16	time	bert
+51	479	484	12月16	time	bert
+51	582	584	今天	time	bert
+51	587	591	兩個禮拜	time	bert
+51	596	600	兩個禮拜	time	bert
+51	626	631	12月7號	time	bert
+51	643	648	12月7號	time	bert
+51	659	664	12月7號	time	bert
+51	669	674	12月7號	time	bert
+51	694	698	兩個禮拜	time	bert
+51	782	787	12月7號	time	bert
+51	797	801	兩個禮拜	time	bert
+51	832	837	12月7號	time	bert
+51	845	849	兩個禮拜	time	bert
+51	879	883	兩個禮拜	time	bert
+51	968	972	兩個禮拜	time	bert
+51	1115	1119	兩個禮拜	time	bert
+51	1136	1140	一個禮拜	time	bert
+51	1317	1320	這禮拜	time	bert
+51	1333	1337	一個禮拜	time	bert
+51	1346	1350	一個禮拜	time	bert
+51	1507	1510	兩個月	time	bert
+51	1515	1518	兩個月	time	bert
+51	1818	1822	10分鐘	time	bert
+52	3	7	這個禮拜	time	bert
+52	311	315	下個禮拜	time	bert
+52	319	323	下個禮拜	time	bert
+52	634	637	下禮拜	time	bert
+53	1038	1040	晚上	time	bert
+53	1068	1073	早上八點半	time	bert
+53	1089	1092	八點半	time	bert
+53	1114	1117	六點半	time	bert
+53	1118	1120	七點	time	bert
+53	1402	1408	10月19號	time	bert
+53	1413	1417	6月15	time	bert
+54	94	98	這個禮拜	time	bert
+55	113	118	這一、兩年	time	bert
+55	467	469	今天	time	bert
+55	488	492	兩個禮拜	time	bert
+55	502	506	兩個禮拜	time	bert
+55	558	561	十一萬	time	bert
+55	606	609	兩個月	time	bert
+55	689	691	九月	time	bert
+55	700	704	十二月底	time	bert
+55	709	714	十月十二號	time	bert
+55	720	725	十月十二號	time	bert
+55	738	744	十一月十二號	time	bert
+55	779	782	二十天	time	bert
+55	805	809	四個禮拜	time	bert
+55	899	902	每個月	time	bert
+55	903	906	每個月	time	bert
+55	1197	1200	三個月	time	bert
+55	1227	1230	兩個月	time	bert
+55	1237	1240	兩個月	time	bert
+55	1247	1250	兩個月	time	bert
+55	1264	1267	四個月	time	bert
+55	1312	1316	這兩個月	time	bert
+55	1328	1331	下個月	time	bert
+56	793	796	兩個月	time	bert
+56	811	815	三個禮拜	time	bert
+56	819	822	兩個月	time	bert
+56	829	832	兩個月	time	bert
+56	843	846	兩個月	time	bert
+56	1352	1356	二十一天	time	bert
+56	1360	1364	三個禮拜	time	bert
+56	1419	1425	十一月十九號	time	bert
+57	441	443	兩年	time	bert
+57	452	454	兩年	time	bert
+57	488	492	3/11	time	bert
+57	511	515	5/24	time	bert
+57	525	529	4/23	time	bert
+57	584	587	七月初	time	bert
+57	651	653	今天	time	bert
+57	662	664	今天	time	bert
+57	676	678	今天	time	bert
+57	720	722	七月	time	bert
+57	723	725	六月	time	bert
+57	726	728	五月	time	bert
+57	729	733	四月三號	time	bert
+57	744	748	四月三號	time	bert
+57	771	773	一年	time	bert
+57	787	789	一年	time	bert
+57	799	804	10月5號	time	bert
+58	216	219	兩個月	time	bert
+58	220	224	4月8號	time	bert
+58	378	381	三個月	time	bert
+58	383	385	一年	time	bert
+58	393	396	兩個月	time	bert
+58	1208	1211	三個月	time	bert
+58	1237	1239	一天	time	bert
+58	1270	1276	三個月90天	time	bert
+58	1431	1434	三個月	time	bert
+58	1576	1579	三個月	time	bert
+58	1596	1599	三個月	time	bert
+58	1638	1640	半年	time	bert
+58	1801	1804	三個月	time	bert
+59	122	124	兩天	time	bert
+59	134	136	七點	time	bert
+59	256	258	晚上	time	bert
+59	633	636	這兩天	time	bert
+59	859	861	早上	time	bert
+59	1115	1117	早上	time	bert
+59	1472	1475	下禮拜	time	bert
+60	1131	1133	早上	time	bert
+60	1403	1405	一天	time	bert
+60	1724	1727	上禮拜	time	bert
+60	1738	1741	上禮拜	time	bert
+60	2198	2203	下下個禮拜	time	bert
+61	125	127	下午	time	bert
+61	142	143	四	time	bert
+61	144	146	五點	time	bert
+61	150	151	五	time	bert
+61	152	156	五、六點	time	bert
+61	640	645	這兩個禮拜	time	bert
+61	1257	1259	今天	time	bert
+61	1261	1263	今天	time	bert
+61	1331	1333	今天	time	bert
+61	1416	1419	這禮拜	time	bert
+61	1585	1587	一年	time	bert
+61	1596	1599	前一年	time	bert
+62	220	223	8月底	time	bert
+62	364	366	今天	time	bert
+62	815	817	5點	time	bert
+62	827	829	晚上	time	bert
+62	835	837	下午	time	bert
+62	838	840	5點	time	bert
+62	844	846	下午	time	bert
+62	847	849	5點	time	bert
+62	862	864	晚上	time	bert
+62	903	905	早上	time	bert
+62	926	928	下午	time	bert
+62	1009	1011	早上	time	bert
+62	1071	1073	今天	time	bert
+62	1173	1178	下個禮拜五	time	bert
+62	1277	1279	昨天	time	bert
+62	1894	1899	10/15	time	bert
+62	1928	1932	3452	time	bert
+63	88	90	今天	time	bert
+63	516	520	兩個禮拜	time	bert
+63	540	544	兩個禮拜	time	bert
+63	669	672	14天	time	bert
+63	1269	1273	兩個禮拜	time	bert
+64	12	14	今天	time	bert
+64	186	188	今天	time	bert
+64	226	228	今天	time	bert
+64	715	717	今年	time	bert
+64	751	756	12個小時	time	bert
+64	765	770	12個小時	time	bert
+65	262	266	八月七號	time	bert
+65	327	331	八月七號	time	bert
+65	339	343	八月七號	time	bert
+65	788	792	兩個禮拜	time	bert
+65	1792	1794	下午	time	bert
+65	2146	2150	三百一天	time	bert
+66	6	10	這個禮拜	time	bert
+66	53	55	一次	time	bert
+66	73	75	早上	time	bert
+66	463	465	今天	time	bert
+66	516	518	今天	time	bert
+66	786	789	上禮拜	time	bert
+66	970	972	一天	time	bert
+67	21	24	禮拜一	time	bert
+67	25	29	晚上九點	time	bert
+67	66	69	禮拜六	time	bert
+67	80	83	禮拜一	time	bert
+67	91	93	今天	time	bert
+67	94	97	禮拜三	time	bert
+67	103	105	今天	time	bert
+67	106	109	禮拜一	time	bert
+67	110	112	早上	time	bert
+67	161	163	昨天	time	bert
+67	186	188	昨天	time	bert
+67	224	226	今天	time	bert
+67	227	229	早上	time	bert
+67	424	426	今天	time	bert
+67	521	526	二十四小時	time	bert
+67	1122	1124	今天	time	bert
+67	1168	1170	明天	time	bert
+67	1195	1198	三四五	time	bert
+67	1215	1217	六日	time	bert
+67	1224	1226	六日	time	bert
+67	1235	1237	六日	time	bert
+67	1458	1460	昨天	time	bert
+67	1466	1468	禮拜	time	bert
+67	1472	1477	禮拜一早上	time	bert
+67	1487	1492	二十四小時	time	bert
+67	1534	1537	七點多	time	bert
+67	1592	1594	中午	time	bert
+67	1651	1654	五六點	time	bert
+67	1699	1701	早上	time	bert
+67	1714	1716	今天	time	bert
+67	1818	1821	禮拜五	time	bert
+67	1829	1832	禮拜五	time	bert
+67	1877	1880	下禮拜	time	bert
+67	1889	1892	禮拜五	time	bert
+67	1893	1896	禮拜五	time	bert
+67	1906	1908	早上	time	bert
+67	1914	1917	禮拜五	time	bert
+67	1918	1920	早上	time	bert
+67	2274	2278	四個月內	time	bert
+67	2434	2437	禮拜五	time	bert
+67	2474	2477	禮拜五	time	bert
+67	2527	2529	今天	time	bert
+67	2542	2544	今天	time	bert
+67	2552	2555	禮拜四	time	bert
+67	2556	2559	禮拜五	time	bert
+67	2600	2603	禮拜五	time	bert
+67	2616	2619	禮拜五	time	bert
+67	2733	2735	今天	time	bert
+67	2738	2740	昨天	time	bert
+67	2773	2777	十二點多	time	bert
+67	2807	2810	禮拜一	time	bert
+67	2820	2823	禮拜一	time	bert
+67	2839	2841	八月	time	bert
+67	2842	2844	今天	time	bert
+67	2845	2848	十八日	time	bert
+67	2875	2877	今天	time	bert
+67	2878	2880	中午	time	bert
+67	2881	2885	十一點多	time	bert
+67	2962	2964	早上	time	bert
+67	3071	3073	昨天	time	bert
+67	3094	3096	七天	time	bert
+67	3106	3108	七天	time	bert
+67	3117	3119	三天	time	bert
+67	3251	3255	四個禮拜	time	bert
+68	27	29	昨天	time	bert
+68	57	59	今天	time	bert
+68	60	62	今天	time	bert
+68	78	80	今天	time	bert
+68	81	83	今天	time	bert
+68	410	414	一個禮拜	time	bert
+68	436	439	禮拜三	time	bert
+68	443	447	兩個禮拜	time	bert
+68	452	457	上個禮拜一	time	bert
+68	468	473	上個禮拜三	time	bert
+68	486	490	兩個禮拜	time	bert
+68	496	500	兩個禮拜	time	bert
+68	511	514	禮拜三	time	bert
+68	540	542	今天	time	bert
+68	543	544	二	time	bert
+68	546	550	二三四五	time	bert
+68	670	676	一個禮拜六日	time	bert
+68	690	694	一個禮拜	time	bert
+68	758	760	那天	time	bert
+68	783	786	禮拜三	time	bert
+68	800	803	禮拜三	time	bert
+68	861	864	禮拜三	time	bert
+68	874	876	今天	time	bert
+68	881	884	禮拜三	time	bert
+68	901	904	禮拜三	time	bert
+68	916	919	禮拜三	time	bert
+68	929	932	禮拜三	time	bert
+68	937	940	禮拜一	time	bert
+68	1125	1127	15	time	bert
+68	1128	1130	16	time	bert
+68	1144	1146	16	time	bert
+68	1153	1155	16	time	bert
+68	1157	1160	禮拜三	time	bert
+68	1171	1174	禮拜三	time	bert
+68	1208	1211	禮拜三	time	bert
+68	1274	1276	今天	time	bert
+68	1277	1279	今天	time	bert
+68	2173	2176	禮拜三	time	bert
+69	469	472	禮拜幾	time	bert
+69	482	484	今天	time	bert
+69	494	496	禮拜	time	bert
+69	500	502	禮拜	time	bert
+69	507	509	上上	time	bert
+69	514	516	七月	time	bert
+69	533	535	七夕	time	bert
+69	682	686	兩個禮拜	time	bert
+69	698	702	兩個禮拜	time	bert
+70	60	62	26	time	bert
+70	536	540	一個禮拜	time	bert
+70	734	737	一個月	time	bert
+70	1444	1446	5天	time	bert
+70	1693	1695	7天	time	bert
+70	1704	1706	5天	time	bert
+70	1771	1773	7月	time	bert
+70	1809	1814	7月10號	time	bert
+70	1858	1863	9點11分	time	bert
+70	1864	1870	13點16分	time	bert
+70	1893	1898	7月16號	time	bert
+70	1899	1904	7月16號	time	bert
+70	1958	1960	7月	time	bert
+70	1963	1968	7月23號	time	bert
+70	1971	1976	7月30號	time	bert
+70	1977	1981	8月3號	time	bert
+70	1987	1989	3號	time	bert
+71	4	8	這個禮拜	time	bert
+71	12	16	這個禮拜	time	bert
+71	39	41	前天	time	bert
+71	505	508	上禮拜	time	bert
+71	518	521	上禮拜	time	bert
+71	546	550	一個療程	time	bert
+71	558	562	一個療程	time	bert
+71	983	985	睡前	time	bert
+71	1041	1043	晚上	time	bert
+71	1204	1208	下下禮拜	time	bert
+72	32	35	禮拜三	time	bert
+72	56	59	禮拜四	time	bert
+72	127	129	昨天	time	bert
+72	144	146	昨天	time	bert
+72	185	188	三點半	time	bert
+72	353	357	今天早上	time	bert
+72	568	570	今天	time	bert
+72	585	587	三點	time	bert
+72	624	626	今天	time	bert
+72	921	925	兩個禮拜	time	bert
+72	989	993	一個禮拜	time	bert
+72	1010	1012	兩週	time	bert
+72	1019	1021	兩週	time	bert
+72	1091	1095	兩個禮拜	time	bert
+72	1119	1121	一天	time	bert
+72	1136	1140	兩個禮拜	time	bert
+72	1197	1200	十四天	time	bert
+72	1240	1242	七天	time	bert
+72	1298	1303	7月24號	time	bert
+73	18	22	這個禮拜	time	bert
+73	29	33	這禮拜一	time	bert
+73	43	46	禮拜四	time	bert
+73	51	54	禮拜四	time	bert
+73	70	75	7月20號	time	bert
+73	651	654	下個月	time	bert
+73	718	720	去年	time	bert
+73	1337	1339	白天	time	bert
+73	1384	1386	早上	time	bert
+73	1408	1410	晚上	time	bert
+74	5	9	這個禮拜	time	bert
+74	109	113	這個禮拜	time	bert
+74	116	118	五天	time	bert
+74	423	427	兩個小時	time	bert
+74	592	594	晚上	time	bert
+74	603	605	晚上	time	bert
+74	978	982	下下禮拜	time	bert
+75	1266	1270	一個禮拜	time	bert
+75	1272	1276	下下禮拜	time	bert
+75	1573	1577	下下禮拜	time	bert
+75	1580	1582	今天	time	bert
+76	214	216	昨天	time	bert
+76	1923	1924	五	time	bert
+76	3089	3091	今天	time	bert
+76	3113	3116	禮拜三	time	bert
+76	3134	3137	禮拜四	time	bert
+76	3149	3154	八月十五號	time	bert
+76	3161	3164	八月十	time	bert
+76	3168	3170	八月	time	bert
+76	3171	3176	十六、十七	time	bert
+76	3227	3230	禮拜四	time	bert
+76	3242	3245	禮拜四	time	bert
+77	1111	1115	一、二月	time	bert
+77	1196	1200	四個禮拜	time	bert
+77	1209	1212	2/1	time	bert
+77	1625	1630	禮拜三下午	time	bert
+77	1637	1640	禮拜三	time	bert
+77	1645	1649	這禮拜三	time	bert
+77	1661	1665	四個禮拜	time	bert
+77	1684	1688	四個禮拜	time	bert
+77	1747	1750	前三天	time	bert
+77	2138	2140	五年	time	bert
+77	2168	2171	第二年	time	bert
+77	2179	2182	第二年	time	bert
+77	2188	2191	第二年	time	bert
+77	2196	2198	明年	time	bert
+77	2292	2294	兩年	time	bert
+78	29	33	三個禮拜	time	bert
+78	37	41	三個禮拜	time	bert
+78	309	311	兩年	time	bert
+78	315	319	五月十一	time	bert
+78	324	328	五月十一	time	bert
+78	552	556	三個禮拜	time	bert
+79	407	409	四點	time	bert
+79	410	412	十二	time	bert
+79	413	415	一點	time	bert
+79	671	676	11/23	time	bert
+79	808	811	23號	time	bert
+79	830	832	今年	time	bert
+79	1528	1533	上上個星期	time	bert
+79	1534	1537	上星期	time	bert
+79	1553	1557	上星期六	time	bert
+79	1674	1679	下下個禮拜	time	bert
+79	1686	1692	下下個禮拜二	time	bert
+79	1697	1700	禮拜二	time	bert
+79	1777	1780	八年多	time	bert
+79	1788	1791	八年多	time	bert
+80	7	13	兩、三個禮拜	time	bert
+80	61	67	兩、三個禮拜	time	bert
+80	252	256	三個禮拜	time	bert
+80	1085	1087	今年	time	bert
+80	1089	1094	11月8號	time	bert
+80	1218	1224	11月25號	time	bert
+80	1272	1274	今天	time	bert
+80	1427	1429	今天	time	bert
+81	77	79	今天	time	bert
+81	112	114	早上	time	bert
+81	687	689	那天	time	bert
+81	862	867	6月15號	time	bert
+81	921	926	6月15號	time	bert
+81	1082	1086	下禮拜五	time	bert
+81	1099	1103	下禮拜一	time	bert
+81	1111	1116	下個禮拜四	time	bert
+81	1120	1124	下禮拜四	time	bert
+81	1130	1133	禮拜五	time	bert
+81	1144	1146	四天	time	bert
+81	1163	1165	今天	time	bert
+81	1169	1173	8月22	time	bert
+81	1178	1179	三	time	bert
+81	1250	1253	禮拜五	time	bert
+81	1321	1324	第四天	time	bert
+81	1327	1330	禮拜三	time	bert
+81	1331	1334	禮拜三	time	bert
+81	1338	1340	晚上	time	bert
+81	1344	1347	禮拜三	time	bert
+81	1363	1365	晚上	time	bert
+81	1379	1382	禮拜一	time	bert
+81	1521	1523	半年	time	bert
+81	1567	1569	半年	time	bert
+81	1742	1746	下禮拜五	time	bert
+82	5	9	這個禮拜	time	bert
+82	479	482	八十五	time	bert
+82	498	500	九十	time	bert
+82	1210	1212	今天	time	bert
+83	324	327	禮拜四	time	bert
+83	647	651	兩個小時	time	bert
+83	777	782	十二個小時	time	bert
+83	823	825	早上	time	bert
+83	826	828	早上	time	bert
+83	868	870	今天	time	bert
+83	882	884	今天	time	bert
+83	1585	1588	六、日	time	bert
+83	1607	1610	六、日	time	bert
+83	1856	1860	四、五點	time	bert
+83	1875	1879	今天下午	time	bert
+83	1883	1885	明天	time	bert
+83	1913	1918	六、日兩天	time	bert
+83	1936	1939	禮拜二	time	bert
+83	2046	2049	14號	time	bert
+83	2060	2062	8月	time	bert
+83	2064	2066	7月	time	bert
+83	2069	2076	7月14禮拜一	time	bert
+83	2078	2081	禮拜一	time	bert
+83	2088	2093	今天10號	time	bert
+83	2097	2102	今天12號	time	bert
+83	2106	2109	12號	time	bert
+83	2110	2113	12號	time	bert
+83	2115	2119	7/12	time	bert
+83	2135	2140	今天7/1	time	bert
+83	2153	2156	禮拜六	time	bert
+83	2160	2164	7/15	time	bert
+83	2181	2185	7/12	time	bert
+83	2188	2192	7/13	time	bert
+83	2193	2197	7/14	time	bert
+83	2204	2208	7/13	time	bert
+83	2209	2213	7/14	time	bert
+83	2290	2294	7/15	time	bert
+83	2329	2331	下午	time	bert
+83	2515	2517	七天	time	bert
+83	2529	2532	禮拜二	time	bert
+83	2541	2544	禮拜三	time	bert
+83	2546	2551	今天禮拜三	time	bert
+83	2557	2559	昨天	time	bert
+83	2568	2571	這兩天	time	bert
+83	2580	2583	這幾天	time	bert
+83	2598	2601	禮拜一	time	bert
+83	2614	2617	禮拜一	time	bert
+83	2618	2621	禮拜二	time	bert
+83	2622	2627	禮拜一下午	time	bert
+83	2642	2644	那天	time	bert
+83	2652	2656	下禮拜一	time	bert
+83	2667	2672	那天10號	time	bert
+83	2715	2721	17兩天下午	time	bert
+83	2736	2741	今天18號	time	bert
+83	2936	2938	15	time	bert
+83	2939	2941	早上	time	bert
+83	2954	2958	15早上	time	bert
+83	3064	3067	這兩天	time	bert
+83	3159	3164	十二個小時	time	bert
+83	3286	3288	今天	time	bert
+83	3306	3310	上禮拜六	time	bert
+83	3328	3333	禮拜六早上	time	bert
+83	3363	3368	禮拜六早上	time	bert
+83	3412	3417	禮拜六早上	time	bert
+83	3476	3479	禮拜六	time	bert
+83	3480	3482	晚上	time	bert
+83	3483	3486	禮拜天	time	bert
+83	3490	3493	禮拜天	time	bert
+83	3549	3553	五個時段	time	bert
+83	3557	3561	五個時段	time	bert
+83	3571	3575	今天晚上	time	bert
+83	3580	3584	今天下午	time	bert
+83	3590	3592	下午	time	bert
+83	3607	3611	明天下午	time	bert
+83	3615	3619	明天下午	time	bert
+83	3658	3661	禮拜天	time	bert
+83	3669	3674	禮拜一兩次	time	bert
+83	3676	3679	禮拜二	time	bert
+83	3680	3682	早上	time	bert
+83	3738	3742	下午五點	time	bert
+83	3752	3755	四點多	time	bert
+83	3808	3810	下午	time	bert
+83	3815	3817	下午	time	bert
+83	3839	3845	八、九個小時	time	bert
+83	3989	3991	今天	time	bert
+83	4007	4009	四天	time	bert
+84	677	680	三十年	time	bert
+84	894	896	今天	time	bert
+84	902	904	早上	time	bert
+84	1267	1270	一個月	time	bert
+84	1596	1600	兩個禮拜	time	bert
+84	1734	1737	723	time	bert
+84	1760	1764	一個禮拜	time	bert
+84	1776	1778	今天	time	bert
+84	1797	1801	一個禮拜	time	bert
+84	1832	1835	下禮拜	time	bert
+84	1974	1976	早上	time	bert
+84	2024	2027	723	time	bert
+84	2051	2054	723	time	bert
+84	2107	2111	一個禮拜	time	bert
+84	2117	2119	6天	time	bert
+84	2120	2122	5天	time	bert
+85	572	575	上個月	time	bert
+85	668	673	上上個禮拜	time	bert
+85	677	682	上上個禮拜	time	bert
+85	687	689	今天	time	bert
+85	694	698	九月七號	time	bert
+85	703	705	今天	time	bert
+85	733	736	十四天	time	bert
+85	743	747	明天早上	time	bert
+85	825	831	兩、三個禮拜	time	bert
+85	882	888	一、兩個禮拜	time	bert
+85	890	892	昨天	time	bert
+85	899	906	今天清晨兩點半	time	bert
+85	907	909	三點	time	bert
+85	994	999	二、四、六	time	bert
+85	1084	1091	這一、兩個禮拜	time	bert
+85	1857	1861	半個小時	time	bert
+85	2035	2037	半年	time	bert
+85	2038	2040	一年	time	bert
+85	2209	2213	五、六年	time	bert
+85	2346	2352	十點或十點半	time	bert
+85	2367	2369	兩點	time	bert
+85	2370	2372	三點	time	bert
+85	2405	2407	七點	time	bert
+85	2421	2425	早上六點	time	bert
+85	2566	2571	一、兩個月	time	bert
+85	3083	3087	一個禮拜	time	bert
+85	3088	3092	兩個禮拜	time	bert
+85	3105	3109	一個禮拜	time	bert
+85	3179	3182	下禮拜	time	bert
+86	518	522	下個禮拜	time	bert
+86	608	611	下禮拜	time	bert
+87	249	253	一個禮拜	time	bert
+87	255	259	三個禮拜	time	bert
+87	276	280	9月4號	time	bert
+87	294	296	明年	time	bert
+87	328	332	11月初	time	bert
+87	337	341	11月初	time	bert
+87	345	350	11月9號	time	bert
+87	356	360	下個禮拜	time	bert
+87	364	367	11月	time	bert
+88	1511	1513	半年	time	bert
+88	1518	1520	半年	time	bert
+88	1574	1576	一年	time	bert
+88	1628	1630	半年	time	bert
+88	1823	1825	明年	time	bert
+88	1865	1868	50歲	time	bert
+88	1977	1981	7月5號	time	bert
+88	1988	1991	2個月	time	bert
+88	1999	2001	兩年	time	bert
+88	2009	2011	兩年	time	bert
+89	9	14	78392	time	bert
+89	27	32	七月十五號	time	bert
+89	38	43	七月十五號	time	bert
+89	47	50	禮拜五	time	bert
+89	300	302	今天	time	bert
+89	350	352	九月	time	bert
+89	359	361	九月	time	bert
+89	373	375	今天	time	bert
+89	395	399	一個禮拜	time	bert
+89	519	521	晚上	time	bert
+89	524	526	晚上	time	bert
+89	662	664	早上	time	bert
+89	1035	1037	昨天	time	bert
+90	622	624	晚上	time	bert
+90	772	774	晚上	time	bert
+90	890	892	白天	time	bert
+90	982	984	晚上	time	bert
+90	1016	1018	兩點	time	bert
+90	1206	1210	五月十號	time	bert
+90	1220	1224	四個多月	time	bert
+90	1229	1233	四個多月	time	bert
+90	1235	1238	五個月	time	bert
+90	1300	1303	六個月	time	bert
+90	1435	1439	四個禮拜	time	bert
+91	634	637	一兩天	time	bert
+91	718	722	兩天三天	time	bert
+91	732	734	早上	time	bert
+91	750	753	禮拜三	time	bert
+91	793	794	十	time	bert
+91	796	802	11月25號	time	bert
+91	811	814	11月	time	bert
+91	819	825	11月25號	time	bert
+91	829	834	11月25	time	bert
+91	839	842	禮拜三	time	bert
+91	1038	1042	2015	time	bert
+91	1046	1051	2015年	time	bert
+91	1065	1069	2017	time	bert
+91	1070	1072	兩年	time	bert
+91	1078	1082	2017	time	bert
+92	44	48	一、二天	time	bert
+92	52	53	一	time	bert
+92	54	56	二天	time	bert
+92	184	188	一個禮拜	time	bert
+92	204	208	一個禮拜	time	bert
+92	627	629	今天	time	bert
+92	730	733	五個月	time	bert
+92	803	806	兩個月	time	bert
+92	1101	1104	四月份	time	bert
+92	1129	1132	五月份	time	bert
+92	1142	1144	五一	time	bert
+92	1145	1148	五一八	time	bert
+92	1161	1164	五一八	time	bert
+92	1178	1181	五一八	time	bert
+92	1192	1194	七月	time	bert
+92	1195	1197	六月	time	bert
+92	1208	1211	六月中	time	bert
+92	1222	1224	五月	time	bert
+92	1246	1249	六月中	time	bert
+92	1258	1261	六月中	time	bert
+92	1468	1470	一年	time	bert
+92	1748	1750	今天	time	bert
+92	1757	1761	兩個禮拜	time	bert
+92	1778	1780	明天	time	bert
+92	1799	1801	後天	time	bert
+92	1828	1833	七月十八號	time	bert
+93	396	402	五、六個禮拜	time	bert
+93	406	412	五、六個禮拜	time	bert
+93	650	653	四個月	time	bert
+93	699	701	今天	time	bert
+94	410	412	早上	time	bert
+94	472	474	今天	time	bert
+94	540	542	五遍	time	bert
+94	547	549	五遍	time	bert
+94	719	721	昨天	time	bert
+94	748	752	一個禮拜	time	bert
+94	918	921	這兩天	time	bert
+94	1179	1181	晚上	time	bert
+94	1327	1331	八十八歲	time	bert
+94	1366	1368	五年	time	bert
+94	1394	1397	這個月	time	bert
+94	1399	1401	五年	time	bert
+94	1553	1555	八十	time	bert
+94	1579	1582	下個月	time	bert
+94	1637	1641	九月三號	time	bert
+94	2227	2230	五個月	time	bert
+94	2270	2274	兩個禮拜	time	bert
+94	2288	2290	九月	time	bert
+94	2294	2298	九月三號	time	bert
+94	2385	2387	今年	time	bert
+95	435	439	一個禮拜	time	bert
+95	1679	1683	兩個禮拜	time	bert
+95	1811	1815	一個禮拜	time	bert
+96	161	163	今天	time	bert
+96	491	493	晚上	time	bert
+96	538	541	五十九	time	bert
+96	1004	1007	一百三	time	bert
+96	2132	2135	幾個日	time	bert
+97	1067	1071	上個禮拜	time	bert
+97	1198	1200	半年	time	bert
+97	1206	1208	半年	time	bert
+97	1213	1215	半年	time	bert
+97	1274	1276	半年	time	bert
+97	2217	2221	一個禮拜	time	bert
+97	2595	2600	下下個禮拜	time	bert
+98	251	254	一個月	time	bert
+98	290	293	這學期	time	bert
+98	416	418	七年	time	bert
+98	573	576	兩個禮	time	bert
+98	579	583	兩個禮拜	time	bert
+98	649	653	6月16	time	bert
+98	677	679	年底	time	bert
+98	708	711	11月	time	bert
+98	722	724	5月	time	bert
+98	747	750	11月	time	bert
+98	973	976	一個月	time	bert
+98	995	998	一個月	time	bert
+98	1013	1016	12月	time	bert
+98	1035	1037	昨天	time	bert
+98	1052	1055	一個月	time	bert
+98	1072	1074	五週	time	bert
+98	1089	1091	五週	time	bert
+99	109	112	前三天	time	bert
+99	394	396	昨天	time	bert
+99	719	721	中午	time	bert
+99	1066	1068	今天	time	bert
+99	1087	1089	5點	time	bert
+99	1099	1101	今天	time	bert
+99	1335	1338	兩個月	time	bert
+99	1819	1821	明年	time	bert
+99	1822	1824	明年	time	bert
+99	1834	1836	早上	time	bert
+99	1888	1891	三個月	time	bert
+100	3	5	昨天	time	bert
+100	38	40	昨天	time	bert
+100	610	614	一、兩點	time	bert
+100	615	618	兩點半	time	bert
+100	902	904	兩年	time	bert
+100	905	908	兩年多	time	bert
+100	1520	1523	8點幾	time	bert
+100	1536	1539	8點幾	time	bert
+100	1795	1799	兩個禮拜	time	bert
+100	1803	1807	兩個禮拜	time	bert
+100	2118	2122	這一個月	time	bert
+100	2243	2247	四個禮拜	time	bert
+101	8	12	這個禮拜	time	bert
+101	223	226	28天	time	bert
+101	471	473	下午	time	bert
+101	498	502	四個禮拜	time	bert
+102	4	6	今天	time	bert
+102	26	29	五點多	time	bert
+102	46	49	五點多	time	bert
+102	214	217	上個月	time	bert
+102	404	406	白天	time	bert
+102	511	513	今天	time	bert
+102	559	561	今天	time	bert
+102	828	832	兩個禮拜	time	bert
+103	157	161	半個小時	time	bert
+103	169	173	半個小時	time	bert
+103	300	302	今天	time	bert
+103	303	305	今年	time	bert
+103	307	309	今天	time	bert
+104	127	130	三個月	time	bert
+104	267	274	十一月二十五號	time	bert
+104	336	338	去年	time	bert
+104	461	468	十一月二十五號	time	bert
+105	415	417	早上	time	bert
+105	433	435	晚上	time	bert
+105	446	448	晚上	time	bert
+105	465	467	早上	time	bert
+105	893	895	今天	time	bert
+106	124	129	上上個禮拜	time	bert
+106	454	456	8點	time	bert
+106	555	557	下午	time	bert
+106	627	630	下禮拜	time	bert
+106	637	641	下個禮拜	time	bert
+106	690	695	83946	time	bert
+107	175	179	一個禮拜	time	bert
+107	196	200	3～4天	time	bert
+107	214	220	3、40分鐘	time	bert
+107	307	309	2點	time	bert
+107	310	312	4點	time	bert
+107	325	327	7點	time	bert
+107	329	332	6點半	time	bert
+107	333	335	7點	time	bert
+107	350	353	2點半	time	bert
+107	355	357	4點	time	bert
+107	526	529	9點半	time	bert
+107	530	533	10點	time	bert
+107	541	543	1點	time	bert
+107	554	556	1點	time	bert
+107	593	597	3、4點	time	bert
+107	603	605	5點	time	bert
+107	606	608	6點	time	bert
+107	692	696	2點半後	time	bert
+107	697	699	3點	time	bert
+107	721	723	6點	time	bert
+107	765	767	3點	time	bert
+107	768	771	1點半	time	bert
+107	791	795	3、4點	time	bert
+107	875	879	10點半	time	bert
+107	886	889	11點	time	bert
+107	899	903	清晨6點	time	bert
+107	1008	1012	6個小時	time	bert
+107	1013	1017	7個小時	time	bert
+107	1022	1026	一、兩年	time	bert
+107	1136	1139	9點半	time	bert
+107	1165	1168	11點	time	bert
+107	1200	1204	早上6點	time	bert
+107	1243	1245	3點	time	bert
+107	1707	1712	10幾年前	time	bert
+107	1931	1935	10分鐘	time	bert
+107	2010	2014	6.7年	time	bert
+107	2357	2360	前半年	time	bert
+107	2694	2697	3個月	time	bert
+107	2701	2704	3個月	time	bert
+107	2708	2711	7、8	time	bert
+107	2714	2715	7	time	bert
+107	2716	2717	8	time	bert
+107	2752	2755	3個月	time	bert
+107	2794	2798	4個禮拜	time	bert
+107	2839	2843	4個禮拜	time	bert
+108	878	880	一天	time	bert
+108	1370	1373	禮拜一	time	bert
+108	2095	2097	今天	time	bert
+108	2158	2159	三	time	bert
+108	2160	2161	四	time	bert
+108	2162	2163	五	time	bert
+108	2164	2165	三	time	bert
+108	2166	2167	四	time	bert
+108	2168	2169	五	time	bert
+108	2171	2174	禮拜三	time	bert
+108	2175	2178	禮拜四	time	bert
+108	2179	2182	禮拜五	time	bert
+108	2195	2197	今天	time	bert
+108	2357	2361	下個禮拜	time	bert
+108	2369	2373	下個禮拜	time	bert
+109	490	494	四十二歲	time	bert
+109	502	504	去年	time	bert
+109	537	540	五十歲	time	bert
+109	752	755	兩個月	time	bert
+109	813	819	兩個、兩個月	time	bert
+109	823	829	十一月十五號	time	bert
+109	834	839	十一月十五	time	bert
+109	1040	1044	一個禮拜	time	bert
+109	1311	1315	上個禮拜	time	bert
+109	1321	1325	上個禮拜	time	bert
+109	1442	1446	一個禮拜	time	bert
+110	217	223	八月三十一號	time	bert
+110	286	289	四百一	time	bert
+110	350	352	半年	time	bert
+110	358	360	半年	time	bert
+110	471	473	去年	time	bert
+110	497	499	去年	time	bert
+110	559	561	今年	time	bert
+110	563	565	去年	time	bert
+110	611	615	今年年初	time	bert
+110	641	643	今年	time	bert
+110	735	737	每年	time	bert
+110	901	904	四十六	time	bert
+110	905	907	二三	time	bert
+110	908	910	二三	time	bert
+110	1144	1147	三個月	time	bert
+110	1433	1438	下下個禮拜	time	bert
+110	1456	1457	八	time	bert
+110	1494	1497	兩個月	time	bert
+110	1625	1629	二月五號	time	bert
+111	1628	1632	兩個禮拜	time	bert
+111	1646	1650	兩個禮拜	time	bert
+111	1681	1686	三個禮拜前	time	bert
+111	1822	1827	三個禮拜前	time	bert
+111	1936	1941	三個禮拜前	time	bert
+111	2449	2453	兩個禮拜	time	bert
+111	2747	2750	五十歲	time	bert
+111	2768	2771	五十歲	time	bert
+112	287	289	前天	time	bert
+112	311	313	前天	time	bert
+112	584	586	今天	time	bert
+112	667	669	今天	time	bert
+113	709	711	今天	time	bert
+113	893	897	24小時	time	bert
+113	952	956	48小時	time	bert
+113	1192	1195	前幾天	time	bert
+113	1849	1852	三個月	time	bert
+114	26	28	今天	time	bert
+114	77	80	7月份	time	bert
+114	116	119	六個月	time	bert
+114	137	140	三個月	time	bert
+114	174	177	六個月	time	bert
+114	242	245	三個月	time	bert
+114	438	441	三個月	time	bert
+114	447	450	六個月	time	bert
+114	566	569	三個月	time	bert
+114	612	615	六個月	time	bert
+114	675	678	三個月	time	bert
+114	1320	1321	2	time	bert
+114	1322	1323	1	time	bert
+114	1324	1325	1	time	bert
+114	1348	1353	十二小時前	time	bert
+114	1361	1363	今天	time	bert
+114	1364	1369	10月7號	time	bert
+114	1443	1445	8點	time	bert
+114	1474	1478	24小時	time	bert
+114	1495	1499	24小時	time	bert
+114	1663	1665	8點	time	bert
+114	1762	1763	七	time	bert
+114	1765	1767	七月	time	bert
+114	1930	1934	兩個禮拜	time	bert
+114	2020	2026	三個或四個月	time	bert
+114	2096	2098	今天	time	bert
+114	2416	2420	60年次	time	bert
+114	2427	2431	65年次	time	bert
+114	2456	2459	60年	time	bert
+114	2643	2647	5362	time	bert
+115	36	41	10月20	time	bert
+115	42	47	11月1號	time	bert
+115	68	73	2月17號	time	bert
+115	140	144	這一個月	time	bert
+115	384	386	兩年	time	bert
+115	400	402	一年	time	bert
+115	798	801	兩三年	time	bert
+115	1336	1339	一個月	time	bert
+115	1631	1634	十一點	time	bert
+115	1651	1654	十一點	time	bert
+115	1666	1669	十一點	time	bert
+115	1672	1675	十一點	time	bert
+115	1712	1714	五號	time	bert
+115	1715	1718	十一點	time	bert
+115	1727	1730	十一點	time	bert
+115	1756	1761	二十四小時	time	bert
+115	1979	1982	十一月	time	bert
+115	1994	1996	九號	time	bert
+115	2222	2225	每個月	time	bert
+115	2490	2494	五月三號	time	bert
+115	2511	2515	五月三號	time	bert
+115	2587	2591	十二月份	time	bert
+117	4	7	這個月	time	bert
+117	112	116	這一個月	time	bert
+117	362	364	今天	time	bert
+117	435	437	今天	time	bert
+117	438	440	五月	time	bert
+117	441	443	今天	time	bert
+117	469	473	5月20	time	bert
+117	474	478	5月21	time	bert
+117	479	483	5月22	time	bert
+117	484	488	5月23	time	bert
+117	505	508	禮拜五	time	bert
+117	509	512	禮拜六	time	bert
+117	513	516	禮拜天	time	bert
+117	517	520	禮拜一	time	bert
+117	545	547	今天	time	bert
+117	592	595	兩小時	time	bert
+117	619	621	十點	time	bert
+117	629	631	十點	time	bert
+117	652	654	八點	time	bert
+117	786	789	禮拜天	time	bert
+117	795	797	五點	time	bert
+117	856	863	9月19號8點	time	bert
+117	876	882	10月20號	time	bert
+117	1098	1101	三個月	time	bert
+118	58	60	一年	time	bert
+118	76	78	一年	time	bert
+118	87	89	9月	time	bert
+118	92	95	10月	time	bert
+118	181	185	每三個月	time	bert
+118	189	194	2到3個月	time	bert
+118	986	989	3小時	time	bert
+119	135	137	晚上	time	bert
+119	202	205	一個月	time	bert
+119	285	286	七	time	bert
+119	288	290	七天	time	bert
+119	725	727	晚上	time	bert
+120	6	10	這一個月	time	bert
+120	126	129	兩年多	time	bert
+120	137	140	兩年多	time	bert
+120	1843	1847	第一個月	time	bert
+120	1901	1904	下個月	time	bert
+120	1935	1939	下一個月	time	bert
+120	2128	2131	一個月	time	bert
+120	2156	2160	下一個月	time	bert
+120	2179	2182	上個月	time	bert
+120	2197	2200	下個月	time	bert
+120	2764	2768	這個禮拜	time	bert
+120	2780	2784	這個禮拜	time	bert
+120	2931	2933	假日	time	bert
+120	3030	3032	今天	time	bert
+120	3033	3036	禮拜五	time	bert
+120	3044	3048	下禮拜五	time	bert
+120	3053	3055	六日	time	bert
+120	3102	3104	六日	time	bert
+120	3193	3195	今天	time	bert
+120	3196	3199	禮拜四	time	bert
+120	3343	3345	今天	time	bert
+120	3610	3613	禮拜五	time	bert
+120	3634	3637	五六日	time	bert
+120	3679	3682	這幾天	time	bert
+120	3686	3689	五六日	time	bert
+120	3706	3708	今天	time	bert
+120	3720	3723	五六日	time	bert
+120	3735	3737	今天	time	bert
+120	3752	3754	今天	time	bert
+120	3787	3789	今天	time	bert
+120	3955	3959	24小時	time	bert
+120	4023	4025	今天	time	bert
+121	4	7	這個月	time	bert
+121	106	108	兩次	time	bert
+122	4	7	這個月	time	bert
+122	237	239	9月	time	bert
+122	271	274	這個月	time	bert
+122	361	363	兩年	time	bert
+122	371	374	兩年多	time	bert
+122	380	383	兩年多	time	bert
+122	596	597	1	time	bert
+122	598	599	1	time	bert
+122	600	601	1	time	bert
+122	602	603	1	time	bert
+122	852	855	6月份	time	bert
+122	886	891	7月17號	time	bert
+122	909	913	7月17	time	bert
+122	914	916	8月	time	bert
+122	921	925	一個半月	time	bert
+122	946	951	7月17號	time	bert
+122	966	972	10月16號	time	bert
+122	973	979	10月16號	time	bert
+122	1009	1015	11月21號	time	bert
+122	1102	1108	10月17號	time	bert
+122	1788	1790	明年	time	bert
+122	1803	1805	明年	time	bert
+123	4	6	今天	time	bert
+123	26	29	這個月	time	bert
+123	133	135	明年	time	bert
+123	344	347	這個月	time	bert
+124	4	7	這個月	time	bert
+124	211	214	上個月	time	bert
+124	226	228	五月	time	bert
+124	271	275	這一個月	time	bert
+124	327	331	一個禮拜	time	bert
+124	339	343	一個禮拜	time	bert
+124	448	451	這個月	time	bert
+125	4	7	這個月	time	bert
+125	31	33	兩次	time	bert
+125	666	669	禮拜天	time	bert
+125	696	698	禮拜	time	bert
+125	708	711	禮拜六	time	bert
+125	754	757	禮拜天	time	bert
+125	761	764	禮拜一	time	bert
+125	803	806	禮拜六	time	bert
+125	813	816	禮拜天	time	bert
+125	845	848	禮拜二	time	bert
+126	214	216	今天	time	bert
+126	224	226	今天	time	bert
+126	234	236	今天	time	bert
+126	241	243	昨天	time	bert
+126	251	253	昨天	time	bert
+126	254	256	早上	time	bert
+126	275	280	5、6點多	time	bert
+126	307	309	晚上	time	bert
+126	333	335	今天	time	bert
+126	389	394	這一個禮拜	time	bert
+126	454	456	中午	time	bert
+126	609	611	今天	time	bert
+127	369	370	3	time	bert
+127	413	415	今天	time	bert
+127	422	426	下個禮拜	time	bert
+127	466	468	今天	time	bert
+127	569	571	今天	time	bert
+127	601	603	今天	time	bert
+127	607	609	今天	time	bert
+127	617	619	今天	time	bert
+127	620	623	12號	time	bert
+128	7	10	三個月	time	bert
+128	836	841	11月2號	time	bert
+128	844	846	今天	time	bert
+128	850	855	11月2號	time	bert
+128	889	894	11月2號	time	bert
+129	7	10	這個月	time	bert
+129	17	20	這個月	time	bert
+129	142	144	今天	time	bert
+129	211	214	這個月	time	bert
+129	255	257	10	time	bert
+129	778	781	下個月	time	bert
+129	1859	1862	3年多	time	bert
+129	1886	1888	3年	time	bert
+130	4	7	這個月	time	bert
+130	109	112	這個月	time	bert
+130	233	236	這個月	time	bert
+130	362	364	5點	time	bert
+130	452	456	24小時	time	bert
+130	518	520	5點	time	bert
+130	737	739	今天	time	bert
+130	793	796	一個月	time	bert
+130	820	822	今天	time	bert
+130	823	828	11月2號	time	bert
+130	840	843	禮拜二	time	bert
+130	849	852	11點	time	bert
+130	865	867	9點	time	bert
+130	909	914	11月3號	time	bert
+130	923	928	11月4號	time	bert
+130	1073	1076	禮拜四	time	bert
+130	1125	1128	禮拜五	time	bert
+130	1171	1177	11月10號	time	bert
+130	1178	1180	9點	time	bert
+131	4	7	這個月	time	bert
+131	154	157	25號	time	bert
+131	165	168	25號	time	bert
+131	173	176	25號	time	bert
+131	200	203	25號	time	bert
+131	252	255	三個月	time	bert
+131	272	275	25號	time	bert
+131	305	308	25號	time	bert
+131	566	568	今天	time	bert
+131	569	574	11月5號	time	bert
+131	661	664	9點前	time	bert
+131	687	689	9點	time	bert
+131	719	724	11月6號	time	bert
+131	733	738	11月7號	time	bert
+131	749	753	24小時	time	bert
+131	785	789	24小時	time	bert
+131	827	829	9點	time	bert
+131	831	833	9點	time	bert
+131	890	892	今天	time	bert
+131	893	896	禮拜四	time	bert
+131	982	984	9點	time	bert
+131	1015	1021	11月11號	time	bert
+131	1028	1034	11月12號	time	bert
+131	1103	1107	一個禮拜	time	bert
+131	1213	1218	73846	time	bert
+132	4	7	這個月	time	bert
+132	103	105	三年	time	bert
+132	116	119	兩年多	time	bert
+132	128	131	兩年多	time	bert
+132	274	277	這個月	time	bert
+132	1109	1111	今天	time	bert
+132	1125	1130	9月28號	time	bert
+132	1131	1137	10月12號	time	bert
+132	1207	1209	8點	time	bert
+132	1213	1215	晚上	time	bert
+132	1216	1218	8點	time	bert
+132	1354	1356	今天	time	bert
+132	1528	1530	今天	time	bert
+133	4	7	這個月	time	bert
+133	39	42	這個月	time	bert
+133	58	61	這個月	time	bert
+133	636	638	今天	time	bert
+134	4	7	這個月	time	bert
+134	14	17	這個月	time	bert
+134	313	315	今天	time	bert
+134	340	342	今天	time	bert
+134	447	449	明年	time	bert
+134	450	454	3月7號	time	bert
+134	477	481	下禮拜二	time	bert
+135	4	7	這個月	time	bert
+135	83	86	這個月	time	bert
+135	372	374	今天	time	bert
+135	406	409	6月份	time	bert
+135	427	430	6月份	time	bert
+135	450	452	今天	time	bert
+135	479	481	今天	time	bert
+135	757	761	三個網站	time	bert
+136	28	32	這一個月	time	bert
+136	88	90	五點	time	bert
+136	207	210	這個月	time	bert
+136	482	484	明年	time	bert
+136	614	618	下個禮拜	time	bert
+136	697	701	12月底	time	bert
+137	146	150	這禮拜前	time	bert
+137	181	184	每個月	time	bert
+137	219	221	今天	time	bert
+137	258	262	上個禮拜	time	bert
+137	263	267	11月底	time	bert
+137	371	375	上個禮拜	time	bert
+137	384	388	一月五號	time	bert
+137	508	510	今天	time	bert
+137	603	607	這一個月	time	bert
+137	614	617	這個月	time	bert
+137	650	652	今天	time	bert
+137	728	731	這個月	time	bert
+137	807	809	今天	time	bert
+137	1446	1448	明年	time	bert
+137	1476	1478	今天	time	bert
+137	1566	1568	今天	time	bert
+137	1648	1650	今天	time	bert
+137	1799	1801	今天	time	bert
+137	1806	1808	明天	time	bert
+137	1900	1905	這一個禮拜	time	bert
+137	2057	2060	107	time	bert
+138	30	33	31題	time	bert
+138	60	63	31題	time	bert
+138	171	174	這個月	time	bert
+138	229	233	四個禮拜	time	bert
+138	1053	1055	二十	time	bert
+138	1133	1138	12月7號	time	bert
+138	1151	1156	12月7號	time	bert
+138	1157	1160	22號	time	bert
+138	1232	1235	12月	time	bert
+138	1256	1261	12月7號	time	bert
+138	1578	1580	7號	time	bert
+138	1593	1595	7號	time	bert
+138	1596	1599	22號	time	bert
+138	1668	1670	昨天	time	bert
+139	198	202	兩個禮拜	time	bert
+139	205	208	一個月	time	bert
+139	364	366	五月	time	bert
+140	18	22	兩個多月	time	bert
+140	141	145	一兩個月	time	bert
+140	283	287	兩個禮拜	time	bert
+140	391	393	半年	time	bert
+140	405	409	二十三號	time	bert
+140	410	412	七號	time	bert
+140	455	458	前幾天	time	bert
+140	538	541	上個月	time	bert
+140	902	905	一個月	time	bert
+140	909	913	一個禮拜	time	bert
+140	919	923	一個禮拜	time	bert
+140	929	933	一個禮拜	time	bert
+140	947	950	兩個月	time	bert
+140	1082	1084	今年	time	bert
+140	1716	1719	四年多	time	bert
+140	1732	1734	兩年	time	bert
+140	1766	1768	五年	time	bert
+140	1790	1793	17歲	time	bert
+140	1809	1812	17歲	time	bert
+141	138	141	一個月	time	bert
+141	162	165	一個月	time	bert
+141	966	970	兩個月後	time	bert
+141	971	974	半年後	time	bert
+141	1101	1104	兩個月	time	bert
+141	1119	1122	11月	time	bert
+141	1123	1125	明年	time	bert
+141	1126	1128	3月	time	bert
+141	2107	2110	幾個月	time	bert
+141	2387	2391	三個禮拜	time	bert
+141	2397	2401	三個禮拜	time	bert
+141	2410	2413	三個月	time	bert
+141	2415	2418	三個月	time	bert
+141	2429	2432	三個月	time	bert
+142	16	25	100382694	time	bert
+142	38	41	5個月	time	bert
+142	235	238	三個月	time	bert
+142	269	272	三個月	time	bert
+142	326	329	六個月	time	bert
+142	1319	1323	兩個禮拜	time	bert
+142	1326	1330	一個禮拜	time	bert
+142	1332	1336	一個禮拜	time	bert
+142	1345	1349	一個禮拜	time	bert
+142	1357	1361	一個禮拜	time	bert
+142	1709	1711	今天	time	bert
+142	1872	1874	半年	time	bert
+142	1920	1921	2	time	bert
+142	1929	1930	6	time	bert
+142	1987	1989	今天	time	bert
+142	2025	2028	一個月	time	bert
+142	2625	2628	一個月	time	bert
+142	2635	2638	一個月	time	bert
+142	2691	2694	一個月	time	bert
+143	24	26	八月	time	bert
+143	89	92	三個月	time	bert
+143	305	309	8月9號	time	bert
+143	310	312	8月	time	bert
+143	313	316	中秋節	time	bert
+143	345	348	這個月	time	bert
+143	433	437	兩個小時	time	bert
+143	491	495	這兩個月	time	bert
+143	639	641	八周	time	bert
+143	696	700	八個禮拜	time	bert
+143	710	714	八個禮拜	time	bert
+143	715	719	2月22	time	bert
+144	72	74	前天	time	bert
+144	275	279	這個周末	time	bert
+144	2012	2014	今天	time	bert
+144	2096	2099	一個月	time	bert
+144	2115	2116	一	time	bert
+144	2117	2118	二	time	bert
+144	2263	2266	禮拜二	time	bert
+145	9	14	十二月三號	time	bert
+145	23	26	禮拜三	time	bert
+145	30	35	十二月五號	time	bert
+145	39	44	十二月五號	time	bert
+145	55	57	十月	time	bert
+145	65	68	十月底	time	bert
+145	84	91	十一月二十三號	time	bert
+145	93	96	禮拜四	time	bert
+145	99	105	十一月二十三	time	bert
+145	158	161	禮拜三	time	bert
+145	165	171	十一月二十九	time	bert
+145	204	208	二十五號	time	bert
+145	249	252	禮拜三	time	bert
+145	269	276	十一月二十五日	time	bert
+145	277	280	禮拜四	time	bert
+145	309	314	十二月四號	time	bert
+145	351	354	二十九	time	bert
+145	903	906	五六日	time	bert
+145	911	914	禮拜五	time	bert
+145	927	930	禮拜日	time	bert
+145	943	946	禮拜一	time	bert
+145	1187	1190	禮拜六	time	bert
+145	1191	1194	禮拜天	time	bert
+145	1195	1197	八點	time	bert
+145	1222	1225	禮拜天	time	bert
+145	1437	1439	兩天	time	bert
+145	1485	1487	今天	time	bert
+145	1504	1506	兩天	time	bert
+145	1585	1587	兩天	time	bert
+145	1612	1616	一個禮拜	time	bert
+145	1669	1673	8932	time	bert
+146	36	39	這個月	time	bert
+146	46	49	十月底	time	bert
+146	67	69	上周	time	bert
+146	432	434	三天	time	bert
+146	693	695	兩天	time	bert
+146	1056	1060	第五個月	time	bert
+146	1090	1093	下個月	time	bert
+146	1162	1164	半年	time	bert
+146	1179	1181	半年	time	bert
+146	1196	1199	三個月	time	bert
+147	5	8	這個月	time	bert
+147	40	43	這個月	time	bert
+147	66	68	今天	time	bert
+147	125	127	今天	time	bert
+147	700	702	今天	time	bert
+147	710	712	今天	time	bert
+147	804	807	一個月	time	bert
+147	832	836	每個禮拜	time	bert
+147	857	861	三個禮拜	time	bert
+147	871	875	一個禮拜	time	bert
+147	925	928	下禮拜	time	bert
+147	929	933	下下禮拜	time	bert
+147	1044	1046	一年	time	bert
+147	1081	1084	這禮拜	time	bert
+147	1091	1094	清明節	time	bert
+147	1101	1104	禮拜二	time	bert
+147	1110	1113	禮拜一	time	bert
+147	1286	1288	一年	time	bert
+147	1295	1299	每三個月	time	bert
+147	1572	1574	半年	time	bert
+147	1631	1633	半年	time	bert
+147	1637	1639	半年	time	bert
+147	1654	1657	三個月	time	bert
+147	1662	1664	今天	time	bert
+147	1777	1781	三個禮拜	time	bert
+147	1797	1799	今天	time	bert
+147	1814	1818	三個禮拜	time	bert
+148	52	55	三個月	time	bert
+148	58	61	7月底	time	bert
+148	152	155	8月底	time	bert
+148	168	174	5、6、7月	time	bert
+148	701	703	今天	time	bert
+148	733	735	今天	time	bert
+148	1033	1035	今年	time	bert
+149	171	174	一個月	time	bert
+149	377	380	三月初	time	bert
+149	387	390	七月底	time	bert
+149	414	417	五個月	time	bert
+149	423	426	三個月	time	bert
+149	1486	1489	四個月	time	bert
+149	1559	1564	兩三個禮拜	time	bert
+149	1966	1968	四月	time	bert
+149	1976	1978	半年	time	bert
+149	2014	2016	今天	time	bert
+149	2021	2024	下禮拜	time	bert
+149	2046	2049	下禮拜	time	bert
+149	2063	2066	禮拜一	time	bert
+149	2072	2075	禮拜一	time	bert
+149	2076	2078	早上	time	bert
+149	2082	2084	早上	time	bert
+149	2088	2091	禮拜一	time	bert
+149	2092	2094	早上	time	bert
+149	2102	2104	早上	time	bert
+149	2105	2106	五	time	bert
+149	2107	2109	早上	time	bert
+149	2116	2119	禮拜一	time	bert
+149	2120	2122	早上	time	bert
+149	2134	2138	下禮拜一	time	bert
+149	2139	2143	十月七號	time	bert
+149	2144	2146	連假	time	bert
+149	2147	2150	前一天	time	bert
+149	2161	2165	十月十號	time	bert
+149	2171	2174	國慶日	time	bert
+149	2177	2179	九號	time	bert
+149	2182	2186	下禮拜二	time	bert
+149	2238	2241	這禮拜	time	bert
+149	2242	2244	四天	time	bert
+149	2245	2248	下禮拜	time	bert
+149	2261	2265	下禮拜二	time	bert
+149	2276	2279	禮拜一	time	bert
+149	2288	2292	十月七號	time	bert
+150	129	133	下個禮拜	time	bert
+150	191	193	今天	time	bert
+150	200	202	今天	time	bert
+150	378	384	10月20號	time	bert
+150	403	405	今天	time	bert
+150	427	430	這個月	time	bert
+150	571	574	禮拜六	time	bert
+150	704	706	一年	time	bert
+150	1630	1633	這一年	time	bert
+150	1760	1762	今年	time	bert
+150	1796	1798	明年	time	bert
+150	2329	2332	一個月	time	bert
+150	2483	2488	前兩個小時	time	bert
+150	2493	2498	前兩個小時	time	bert
+150	2618	2622	24小時	time	bert
+150	2783	2784	1	time	bert
+150	2785	2786	1	time	bert
+150	2984	2986	五點	time	bert
+150	3002	3004	五點	time	bert
+150	3079	3082	一個月	time	bert
+150	3135	3138	五個月	time	bert
+150	4568	4569	兩	time	bert
+150	4571	4574	兩三年	time	bert
+150	5051	5053	今天	time	bert
+150	5172	5177	前兩個小時	time	bert
+150	5200	5203	一兩天	time	bert
+150	5862	5865	每個月	time	bert
+150	5887	5890	三個月	time	bert
+150	5979	5983	10月中	time	bert
+150	6085	6088	三個月	time	bert
+150	6274	6276	今天	time	bert
+150	6294	6296	明年	time	bert
+150	6302	6304	一月	time	bert
+150	6426	6429	13周	time	bert
+150	6439	6442	13周	time	bert
+150	6446	6449	13周	time	bert
+150	6463	6466	12周	time	bert
+150	6473	6478	1月10號	time	bert
+150	6482	6487	1月10號	time	bert
+150	6501	6503	今天	time	bert
+150	6506	6509	三個月	time	bert
+150	6577	6581	1月10	time	bert
+150	6590	6592	今年	time	bert
+150	6595	6597	跨年	time	bert
+150	6605	6609	1月1號	time	bert
+150	6610	6613	禮拜五	time	bert
+150	6619	6622	五六日	time	bert
+150	6629	6632	五六日	time	bert
+150	6654	6656	今天	time	bert
+150	6657	6660	星期四	time	bert
+150	6797	6800	五六日	time	bert
+150	7258	7260	今天	time	bert
+150	7335	7339	半夜三點	time	bert
+150	7419	7422	12點	time	bert
+150	7565	7571	837654	time	bert
+151	52	55	這個月	time	bert
+151	106	109	這個月	time	bert
+151	302	304	今天	time	bert
+151	344	346	今天	time	bert
+151	715	719	一兩個月	time	bert
+151	748	750	明年	time	bert
+151	1015	1018	每個月	time	bert
+151	1167	1170	下個月	time	bert
+151	1228	1231	10月	time	bert
+151	1237	1238	十	time	bert
+151	1246	1249	10月	time	bert
+151	1274	1276	六周	time	bert
+151	1280	1282	六周	time	bert
+151	1286	1291	10月15	time	bert
+151	1304	1307	禮拜二	time	bert
+151	1308	1310	早上	time	bert
+151	1397	1399	半年	time	bert
+152	334	337	這個月	time	bert
+152	407	410	下禮拜	time	bert
+152	445	447	今年	time	bert
+152	463	465	明年	time	bert
+152	1316	1320	兩個禮拜	time	bert
+152	1327	1330	三個月	time	bert
+152	1338	1341	三個月	time	bert
+152	1675	1678	下個月	time	bert
+152	1780	1785	三四個禮拜	time	bert
+152	1876	1880	兩個禮拜	time	bert
+152	1898	1903	兩個禮拜前	time	bert
+152	1916	1920	兩個禮拜	time	bert
+152	2256	2259	下個月	time	bert
+152	2294	2297	下個月	time	bert
+152	2312	2315	兩個月	time	bert
+152	2383	2386	下個月	time	bert
+152	2566	2568	今天	time	bert
+152	2579	2583	九月三十	time	bert
+152	2630	2632	今天	time	bert
+152	3009	3013	九月二十	time	bert
+152	3199	3202	三個月	time	bert
+152	3243	3246	兩個月	time	bert
+152	3273	3276	兩個月	time	bert
+152	3329	3332	三十號	time	bert
+152	3532	3535	這個月	time	bert
+152	3613	3617	前兩小時	time	bert
+152	3815	3819	兩個小時	time	bert
+152	3909	3911	早上	time	bert
+152	3931	3933	七點	time	bert
+152	3956	3958	五點	time	bert
+153	3	6	這個月	time	bert
+153	130	132	今天	time	bert
+153	144	146	今天	time	bert
+153	150	154	第六個月	time	bert
+153	265	267	今天	time	bert
+153	275	277	今天	time	bert
+153	311	313	今天	time	bert
+153	387	390	六個月	time	bert
+153	1026	1032	這兩個禮拜內	time	bert
+153	1113	1116	一個月	time	bert
+153	1125	1129	兩個禮拜	time	bert
+153	1132	1136	兩個禮拜	time	bert
+153	1181	1185	兩個禮拜	time	bert
+153	1338	1343	兩、三個月	time	bert
+153	1348	1353	三、四個月	time	bert
+153	1705	1708	1/3	time	bert
+153	2295	2297	今天	time	bert
+153	2605	2607	明年	time	bert
+153	2693	2696	三個月	time	bert
+154	3	6	這個月	time	bert
+154	19	22	這個月	time	bert
+154	132	135	這個月	time	bert
+154	252	256	一個半月	time	bert
+154	668	670	今天	time	bert
+154	1200	1202	7點	time	bert
+154	1390	1393	兩小時	time	bert
+154	1699	1702	這個月	time	bert
+154	2033	2035	今天	time	bert
+154	2129	2132	5月底	time	bert
+154	2140	2143	8月底	time	bert
+154	2153	2159	兩﹑三個禮拜	time	bert
+155	4	7	這個月	time	bert
+155	48	51	這個月	time	bert
+155	113	116	下禮拜	time	bert
+155	145	148	這個月	time	bert
+155	199	203	一個禮拜	time	bert
+155	322	326	這個禮拜	time	bert
+155	404	406	今年	time	bert
+155	410	412	今天	time	bert
+155	489	491	明年	time	bert
+155	515	517	明年	time	bert
+155	594	596	明年	time	bert
+155	733	736	這一年	time	bert
+155	1629	1632	一個月	time	bert
+155	1693	1697	一個多月	time	bert
+155	1780	1784	兩個禮拜	time	bert
+156	629	631	三天	time	bert
+156	739	741	五天	time	bert
+156	742	746	一個禮拜	time	bert
+156	1003	1005	兩天	time	bert
+156	1812	1814	今年	time	bert
+156	2012	2014	今年	time	bert
+156	2239	2241	今年	time	bert
+156	2474	2476	今年	time	bert
+156	2600	2602	今年	time	bert
+156	2770	2772	今年	time	bert
+156	2902	2904	今年	time	bert
+156	3236	3238	今天	time	bert
+157	93	99	一、兩個小時	time	bert
+157	127	130	整個月	time	bert
+157	449	453	第二個月	time	bert
+157	469	473	第二個月	time	bert
+157	476	478	今天	time	bert
+157	1357	1359	三十	time	bert
+157	2594	2596	明年	time	bert
+157	2612	2614	明年	time	bert
+157	3487	3489	今天	time	bert
+157	3495	3497	今天	time	bert
+157	3499	3501	今天	time	bert
+157	3535	3538	下個月	time	bert
+157	3544	3547	下個月	time	bert
+157	3597	3599	四週	time	bert
+157	3603	3605	三週	time	bert
+157	3619	3621	四週	time	bert
+157	3627	3629	九月	time	bert
+157	3633	3635	十四	time	bert
+157	3643	3647	九月十四	time	bert
+157	3648	3651	禮拜幾	time	bert
+157	3658	3663	禮拜三早上	time	bert
+157	3672	3677	禮拜二早上	time	bert
+157	3689	3692	禮拜一	time	bert
+157	3703	3708	禮拜一下午	time	bert
+157	3722	3726	這個禮拜	time	bert
+157	3733	3737	這禮拜一	time	bert
+157	3753	3756	禮拜五	time	bert
+157	3777	3781	九月十號	time	bert
+157	3785	3789	九月十號	time	bert
+157	3822	3824	禮拜	time	bert
+158	91	94	這個月	time	bert
+158	127	130	這個月	time	bert
+158	193	197	四個禮拜	time	bert
+158	335	337	今天	time	bert
+158	408	410	二十	time	bert
+158	421	423	26	time	bert
+158	431	435	二十二十	time	bert
+158	1074	1076	今天	time	bert
+158	1082	1086	第三個月	time	bert
+158	1143	1145	今天	time	bert

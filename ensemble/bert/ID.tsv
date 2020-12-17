@@ -1,6 +1,6 @@
-	article_id	start_position	end_position	entity_text	entity_type	source
-23	1	867	869	21	ID	bert
-457	22	752	756	7382	ID	bert
-838	45	3281	3286	23343	ID	bert
-1493	80	1228	1230	25	ID	bert
-2277	117	458	460	20	ID	bert
+article_id	start_position	end_position	entity_text	entity_type	source
+1	867	869	21	ID	bert
+22	752	756	7382	ID	bert
+45	3281	3286	23343	ID	bert
+80	1228	1230	25	ID	bert
+117	458	460	20	ID	bert
