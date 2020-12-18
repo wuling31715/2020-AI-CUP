@@ -194,6 +194,7 @@ article_id	start_position	end_position	entity_text	entity_type
 98	830	832	小美	name
 98	850	853	林老師	name
 99	4	7	林先生	name
+99	117	120	仙道彰	name
 99	323	326	林阿奇	name
 99	336	339	林阿奇	name
 99	461	466	仙道彰醫師	name
