@@ -5,6 +5,9 @@ article_id	start_position	end_position	entity_text	entity_type
 5	184	186	榮總	location
 8	216	218	台大	location
 10	1470	1472	台灣	location
+11	1299	1301	學校	location
+11	1613	1615	學校	location
+11	4904	4906	學校	location
 11	4919	4923	台南國小	location
 14	1011	1015	台大醫院	location
 20	143	145	台中	location
@@ -70,6 +73,7 @@ article_id	start_position	end_position	entity_text	entity_type
 83	813	815	信心	location
 83	3622	3624	慈濟	location
 83	3633	3635	慈濟	location
+87	45	47	學校	location
 87	60	64	交通大學	location
 91	155	159	奇美醫院	location
 95	1174	1176	汎生	location
@@ -118,6 +122,7 @@ article_id	start_position	end_position	entity_text	entity_type
 113	1629	1631	富邦	location
 113	1632	1634	遠雄	location
 113	1645	1647	遠雄	location
+115	754	756	學校	location
 117	1223	1225	高醫	location
 120	1121	1125	陽明醫院	location
 121	77	79	三組	location
