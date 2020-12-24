@@ -46,8 +46,6 @@ article_id	start_position	end_position	entity_text	entity_type
 8	60	62	五百	med_exam
 8	124	127	四十一	med_exam
 8	129	131	十九	med_exam
-8	504	507	五千五	med_exam
-8	543	547	一萬五千	med_exam
 9	1453	1459	14幾15幾	med_exam
 9	1525	1528	140	med_exam
 9	1599	1602	120	med_exam
@@ -146,10 +144,6 @@ article_id	start_position	end_position	entity_text	entity_type
 41	618	620	四百	med_exam
 41	635	637	五百	med_exam
 41	649	651	五百	med_exam
-41	806	809	一千六	med_exam
-41	824	827	一千六	med_exam
-41	834	837	一千六	med_exam
-41	1527	1530	一千七	med_exam
 43	193	196	632	med_exam
 44	286	290	400多	med_exam
 44	301	305	400多	med_exam
@@ -335,7 +329,6 @@ article_id	start_position	end_position	entity_text	entity_type
 99	892	895	5公分	med_exam
 99	900	903	5公分	med_exam
 100	55	59	0.72	med_exam
-100	161	163	一千	med_exam
 100	2124	2129	1.5公斤	med_exam
 100	2167	2170	4公斤	med_exam
 100	2174	2177	4公斤	med_exam

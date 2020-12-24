@@ -1,6 +1,8 @@
 article_id	start_position	end_position	entity_text	entity_type
+10	1560	1564	LIND	contact
 10	1565	1572	DRLEEOP	contact
 24	425	429	line	contact
+24	438	444	DRCHEN	contact
 24	465	469	line	contact
 38	766	776	0935642234	contact
 46	384	394	0933625337	contact

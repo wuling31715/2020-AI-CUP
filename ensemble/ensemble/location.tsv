@@ -26,7 +26,6 @@ article_id	start_position	end_position	entity_text	entity_type
 30	878	880	高雄	location
 30	885	888	苓雅區	location
 33	66	68	臺灣	location
-37	502	506	新光三越	location
 41	1073	1075	台灣	location
 41	2593	2595	台東	location
 41	2680	2682	台東	location
@@ -35,6 +34,8 @@ article_id	start_position	end_position	entity_text	entity_type
 44	716	718	普林	location
 44	820	822	普林	location
 45	26	28	長庚	location
+45	997	999	台中	location
+45	1020	1022	台中	location
 45	1032	1034	台中	location
 45	2273	2275	長庚	location
 45	2292	2296	長庚醫院	location
