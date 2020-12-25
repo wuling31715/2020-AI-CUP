@@ -9,7 +9,9 @@ article_id	start_position	end_position	entity_text	entity_type
 7	373	375	30	money
 7	1128	1132	800塊	money
 7	1136	1140	800塊	money
+8	504	507	五千五	money
 8	525	528	五千五	money
+8	543	547	一萬五千	money
 8	553	557	一萬五千	money
 8	882	885	三百塊	money
 10	462	466	好幾千塊	money
@@ -21,11 +23,17 @@ article_id	start_position	end_position	entity_text	entity_type
 14	900	903	三百塊	money
 16	794	799	1500元	money
 18	1540	1544	三十二塊	money
-18	1836	1839	625	money
 19	1589	1593	三十二塊	money
 23	1166	1170	215塊	money
 28	948	951	二十三	money
 41	666	668	五百	money
+41	806	808	一千	money
+41	824	826	一千	money
+41	834	836	一千	money
+41	1505	1509	一一三五	money
+41	1513	1517	一一三五	money
+41	1524	1526	一千	money
+41	1527	1530	一千七	money
 41	2608	2611	四方錢	money
 43	248	251	500	money
 45	200	202	一塊	money
@@ -66,6 +74,7 @@ article_id	start_position	end_position	entity_text	entity_type
 77	1336	1341	3000塊	money
 79	2247	2250	10塊	money
 83	1746	1749	七十幾	money
+85	616	618	一千	money
 85	629	632	兩千五	money
 92	764	767	兩百六	money
 92	940	942	兩百	money
@@ -78,6 +87,7 @@ article_id	start_position	end_position	entity_text	entity_type
 100	93	97	2600	money
 100	124	127	兩千七	money
 100	128	131	兩千六	money
+100	161	163	一千	money
 100	172	174	一千	money
 107	1912	1917	250cc	money
 112	646	649	255	money
@@ -115,6 +125,7 @@ article_id	start_position	end_position	entity_text	entity_type
 140	1192	1197	四百一十四	money
 140	1207	1210	一萬三	money
 140	1227	1230	一萬三	money
+140	1369	1371	一千	money
 141	1159	1163	6700	money
 141	1166	1170	6700	money
 141	1171	1175	6500	money
@@ -127,7 +138,7 @@ article_id	start_position	end_position	entity_text	entity_type
 150	4681	4685	1500	money
 152	845	848	一百二	money
 152	958	961	七十塊	money
-152	969	972	一千九	money
+152	969	971	一千	money
 152	1733	1736	一萬三	money
 153	1436	1439	一萬五	money
 153	1443	1446	521	money
@@ -152,6 +163,6 @@ article_id	start_position	end_position	entity_text	entity_type
 157	1524	1527	七百塊	money
 157	1544	1547	七百塊	money
 157	1589	1592	五千塊	money
-157	1894	1897	一千八	money
-157	1955	1958	一千八	money
+157	1894	1896	一千	money
+157	1955	1957	一千	money
 157	1959	1962	五千五	money

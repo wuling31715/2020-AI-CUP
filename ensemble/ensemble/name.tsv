@@ -2,12 +2,6 @@ article_id	start_position	end_position	entity_text	entity_type
 1	360	363	黃醫師	name
 1	497	500	劉老師	name
 1	626	629	黃醫師	name
-1	663	666	格里曼	name
-1	670	673	格里曼	name
-1	720	723	格里曼	name
-1	747	750	格里曼	name
-1	754	757	格里曼	name
-1	811	813	費德	name
 2	424	426	小梅	name
 3	678	681	吳醫師	name
 4	6	8	嘉明	name
@@ -67,7 +61,7 @@ article_id	start_position	end_position	entity_text	entity_type
 37	328	331	黃醫師	name
 38	300	303	林醫師	name
 38	305	308	林醫師	name
-39	54	57	李延亭	name
+39	54	59	李延亭醫師	name
 39	230	233	張理明	name
 39	252	255	李醫師	name
 39	871	874	李醫師	name
@@ -78,8 +72,8 @@ article_id	start_position	end_position	entity_text	entity_type
 41	876	878	凱則	name
 42	10	13	吳秀妹	name
 43	142	144	大華	name
-43	611	614	李家明	name
-43	677	680	李家明	name
+43	611	616	李家明醫師	name
+43	677	682	李家明醫師	name
 43	911	914	李醫師	name
 43	967	972	星星幼兒園	name
 44	3	6	許發財	name
@@ -161,8 +155,6 @@ article_id	start_position	end_position	entity_text	entity_type
 81	1786	1789	林醫師	name
 84	3	6	顏先生	name
 84	906	909	游醫師	name
-84	1495	1498	波斯命	name
-84	1504	1507	波斯命	name
 84	1724	1727	游醫師	name
 84	1918	1921	游醫師	name
 84	2174	2177	顏先生	name
