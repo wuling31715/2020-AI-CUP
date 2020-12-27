@@ -1,6 +1,6 @@
-article_id	start_position	end_position	entity_text	entity_type
-25	647	651	高雄大學	education
-25	652	655	法律系	education
-144	107	110	電機所	education
-144	120	125	清大電機所	education
-149	39	42	化學系	education
+article_id	start_position	end_position	entity_text	entity_type	source
+25	647	651	高雄大學	education	2-dict
+25	652	655	法律系	education	2-dict
+144	107	110	電機所	education	2-dict
+144	120	125	清大電機所	education	2-dict
+149	39	42	化學系	education	2-dict

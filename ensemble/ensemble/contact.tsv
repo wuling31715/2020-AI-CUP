@@ -1,45 +1,45 @@
-article_id	start_position	end_position	entity_text	entity_type
-10	1560	1564	LIND	contact
-10	1565	1572	DRLEEOP	contact
-24	425	429	line	contact
-24	438	444	DRCHEN	contact
-24	465	469	line	contact
-38	766	776	0935642234	contact
-46	384	394	0933625337	contact
-50	2410	2414	LINE	contact
-50	2415	2422	DRLINOP	contact
-62	1400	1402	臉書	contact
-64	925	929	line	contact
-64	930	939	drawpeter	contact
-88	1104	1112	ＮＥＧＡＴＩＶＥ	contact
-104	521	525	LINE	contact
-104	526	532	CHENAD	contact
-115	1252	1256	LINE	contact
-115	2746	2753	PREPEAT	contact
-116	1301	1305	LINE	contact
-116	1307	1314	PREPEAT	contact
-120	1768	1780	www.prep.com	contact
-122	1844	1848	line	contact
-124	466	470	Line	contact
-127	709	713	line	contact
-131	219	223	line	contact
-131	349	353	line	contact
-131	1154	1158	line	contact
-132	1420	1424	ＬＩＮＥ	contact
-133	322	326	LINE	contact
-133	1012	1016	LINE	contact
-135	699	703	mail	contact
-135	710	714	mail	contact
-136	465	469	LINE	contact
-136	528	532	LINE	contact
-136	776	780	LINE	contact
-137	1399	1403	Line	contact
-138	1444	1448	LINE	contact
-138	1563	1567	LINE	contact
-142	456	461	EMAIL	contact
-142	486	490	LINE	contact
-143	808	818	0927773645	contact
-148	1092	1096	line	contact
-148	1109	1116	pwodumn	contact
-155	2549	2553	ＬＩＮＥ	contact
-157	2923	2927	LINE	contact
+article_id	start_position	end_position	entity_text	entity_type	source
+10	1560	1564	LIND	contact	2-dict
+10	1565	1572	DRLEEOP	contact	2-dict
+24	425	429	line	contact	2-dict
+24	438	444	DRCHEN	contact	2-dict
+24	465	469	line	contact	2-dict
+38	766	776	0935642234	contact	1-re
+46	384	394	0933625337	contact	1-re
+50	2410	2414	LINE	contact	2-dict
+50	2415	2422	DRLINOP	contact	2-dict
+62	1400	1402	臉書	contact	2-dict
+64	925	929	line	contact	2-dict
+64	930	939	drawpeter	contact	2-dict
+88	1104	1112	ＮＥＧＡＴＩＶＥ	contact	2-dict
+104	521	525	LINE	contact	2-dict
+104	526	532	CHENAD	contact	2-dict
+115	1252	1256	LINE	contact	2-dict
+115	2746	2753	PREPEAT	contact	2-dict
+116	1301	1305	LINE	contact	2-dict
+116	1307	1314	PREPEAT	contact	2-dict
+120	1768	1780	www.prep.com	contact	1-re
+122	1844	1848	line	contact	2-dict
+124	466	470	Line	contact	2-dict
+127	709	713	line	contact	2-dict
+131	219	223	line	contact	2-dict
+131	349	353	line	contact	2-dict
+131	1154	1158	line	contact	2-dict
+132	1420	1424	ＬＩＮＥ	contact	2-dict
+133	322	326	LINE	contact	2-dict
+133	1012	1016	LINE	contact	2-dict
+135	699	703	mail	contact	2-dict
+135	710	714	mail	contact	2-dict
+136	465	469	LINE	contact	2-dict
+136	528	532	LINE	contact	2-dict
+136	776	780	LINE	contact	2-dict
+137	1399	1403	Line	contact	2-dict
+138	1444	1448	LINE	contact	2-dict
+138	1563	1567	LINE	contact	2-dict
+142	456	461	EMAIL	contact	2-dict
+142	486	490	LINE	contact	2-dict
+143	808	818	0927773645	contact	1-re
+148	1092	1096	line	contact	2-dict
+148	1109	1116	pwodumn	contact	2-dict
+155	2549	2553	ＬＩＮＥ	contact	2-dict
+157	2923	2927	LINE	contact	2-dict

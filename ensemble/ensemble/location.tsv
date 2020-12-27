@@ -1,181 +1,181 @@
-article_id	start_position	end_position	entity_text	entity_type
-0	227	229	麻豆	location
-0	237	239	麻豆	location
-5	184	186	榮總	location
-8	216	218	台大	location
-10	1470	1472	台灣	location
-11	1299	1301	學校	location
-11	1613	1615	學校	location
-11	4904	4906	學校	location
-11	4919	4923	台南國小	location
-14	1011	1015	台大醫院	location
-19	1379	1381	爭鮮	location
-20	143	145	台中	location
-20	1286	1289	中山路	location
-20	1290	1294	威信診所	location
-20	1298	1301	中山路	location
-21	296	298	長庚	location
-25	682	686	成功國小	location
-28	1057	1059	北部	location
-28	1066	1068	捷運	location
-29	859	861	蘆洲	location
-30	4	6	小明	location
-30	540	544	長庚醫院	location
-30	809	812	苓雅區	location
-30	862	865	苓雅區	location
-30	868	870	高雄	location
-30	878	880	高雄	location
-30	885	888	苓雅區	location
-33	66	68	臺灣	location
-41	1073	1075	台灣	location
-41	2593	2595	台東	location
-41	2680	2682	台東	location
-42	1301	1304	大學路	location
-43	967	972	星星幼兒園	location
-45	26	28	長庚	location
-45	997	999	台中	location
-45	1020	1022	台中	location
-45	1032	1034	台中	location
-45	2273	2275	長庚	location
-45	2292	2296	長庚醫院	location
-45	2456	2458	長庚	location
-45	2631	2633	高醫	location
-45	2795	2797	台大	location
-45	2844	2848	長庚醫院	location
-45	2869	2871	長庚	location
-60	294	298	大東醫院	location
-60	2159	2163	大東醫院	location
-61	1782	1784	台灣	location
-65	1444	1446	美國	location
-65	1453	1455	德國	location
-65	1482	1485	西班牙	location
-65	1490	1493	西班牙	location
-65	1668	1670	美國	location
-65	1675	1677	美國	location
-65	1684	1686	英國	location
-66	300	302	成大	location
-66	816	820	台中醫院	location
-68	1353	1355	台大	location
-72	69	71	榮總	location
-76	2408	2410	義大	location
-76	2964	2968	義大醫院	location
-76	2976	2980	義大醫院	location
-78	342	344	武漢	location
-79	2140	2142	榮總	location
-81	429	431	長庚	location
-81	437	439	長庚	location
-81	909	913	長庚醫院	location
-81	932	936	長庚醫院	location
-81	949	953	長庚醫院	location
-81	957	961	大東醫院	location
-83	3622	3624	慈濟	location
-83	3633	3635	慈濟	location
-87	45	47	學校	location
-87	60	64	交通大學	location
-91	155	159	奇美醫院	location
-97	558	560	台大	location
-97	600	602	榮總	location
-97	1300	1302	榮總	location
-97	1305	1307	台大	location
-98	480	482	高醫	location
-100	1825	1827	長庚	location
-100	1902	1904	長庚	location
-100	1938	1940	長庚	location
-100	1956	1958	台大	location
-100	1997	1999	台大	location
-104	381	383	台大	location
-105	24	26	奇美	location
-105	31	33	竹科	location
-106	462	464	竹科	location
-107	954	956	長庚	location
-110	1348	1350	墾丁	location
-110	1355	1357	墾丁	location
-110	1369	1371	石門	location
-110	1375	1377	石門	location
-110	1381	1385	石門水庫	location
-110	1391	1393	石門	location
-110	1407	1409	貢寮	location
-110	1461	1463	八里	location
-110	1472	1474	九份	location
-110	1478	1480	九份	location
-110	1520	1522	東區	location
-110	1526	1528	東區	location
-110	1529	1531	台北	location
-110	1535	1537	東區	location
-110	1552	1554	台北	location
-110	1556	1558	東區	location
-110	1727	1729	宜蘭	location
-110	1855	1857	台北	location
-111	2174	2176	台灣	location
-111	2191	2193	台灣	location
-111	2598	2600	成大	location
-112	249	251	臺北	location
-112	292	294	臺南	location
-113	1622	1623	國	location
-115	754	756	學校	location
-117	1223	1225	高醫	location
-120	1121	1125	陽明醫院	location
-121	77	79	三組	location
-122	1371	1373	泰國	location
-124	157	159	六組	location
-127	181	184	三商美	location
-128	659	660	三	location
-129	53	57	善化國小	location
-135	878	880	泰國	location
-135	882	884	印度	location
-137	287	289	台灣	location
-137	291	293	長庚	location
-137	295	297	台灣	location
-139	81	83	開封	location
-139	101	103	開封	location
-139	110	112	開封	location
-139	435	437	高雄	location
-139	438	440	台南	location
-139	601	603	開封	location
-140	306	308	新竹	location
-140	326	328	新竹	location
-140	333	335	鹿港	location
-140	369	371	鹿港	location
-140	373	375	新竹	location
-140	1322	1324	泰國	location
-140	1325	1327	印度	location
-144	166	168	台中	location
-144	186	188	台中	location
-144	320	324	西……西	location
-144	325	327	東區	location
-144	328	330	西屯	location
-145	550	552	台中	location
-149	26	28	成大	location
-150	6914	6916	泰國	location
-150	6947	6949	泰國	location
-150	7002	7004	曼谷	location
-150	7018	7020	泰國	location
-152	983	985	泰國	location
-152	991	993	泰國	location
-153	120	122	開封	location
-153	1654	1656	泰國	location
-153	1662	1664	泰國	location
-153	1842	1844	台灣	location
-153	2017	2019	泰國	location
-153	2020	2022	印度	location
-155	1000	1002	台灣	location
-155	1021	1023	台灣	location
-155	1200	1202	成大	location
-155	1376	1378	泰國	location
-155	1382	1384	泰國	location
-155	1395	1397	泰國	location
-155	1405	1407	泰國	location
-155	1417	1419	印度	location
-156	1625	1627	台灣	location
-156	2244	2246	台灣	location
-156	2479	2481	台灣	location
-156	2876	2878	長庚	location
-156	3210	3212	台北	location
-157	1624	1626	台灣	location
-157	1645	1647	台灣	location
-157	1675	1677	台灣	location
-157	1735	1737	泰國	location
-157	1751	1753	泰國	location
-157	1794	1796	泰國	location
-157	2177	2179	泰國	location
-157	3609	3611	高雄	location
+article_id	start_position	end_position	entity_text	entity_type	source
+0	227	229	麻豆	location	2-dict
+0	237	239	麻豆	location	2-dict
+5	184	186	榮總	location	2-dict
+8	216	218	台大	location	2-dict
+10	1470	1472	台灣	location	2-dict
+11	1299	1301	學校	location	2-dict
+11	1613	1615	學校	location	2-dict
+11	4904	4906	學校	location	2-dict
+11	4919	4923	台南國小	location	2-dict
+14	1011	1015	台大醫院	location	2-dict
+19	1379	1381	爭鮮	location	3-bert
+20	143	145	台中	location	2-dict
+20	1286	1289	中山路	location	2-dict
+20	1290	1294	威信診所	location	3-bert
+20	1298	1301	中山路	location	2-dict
+21	296	298	長庚	location	2-dict
+25	682	686	成功國小	location	3-bert
+28	1057	1059	北部	location	2-dict
+28	1066	1068	捷運	location	3-bert
+29	859	861	蘆洲	location	2-dict
+30	4	6	小明	location	2-dict
+30	540	544	長庚醫院	location	2-dict
+30	809	812	苓雅區	location	2-dict
+30	862	865	苓雅區	location	2-dict
+30	868	870	高雄	location	2-dict
+30	878	880	高雄	location	2-dict
+30	885	888	苓雅區	location	2-dict
+33	66	68	臺灣	location	2-dict
+41	1073	1075	台灣	location	2-dict
+41	2593	2595	台東	location	2-dict
+41	2680	2682	台東	location	2-dict
+42	1301	1304	大學路	location	3-bert
+43	967	972	星星幼兒園	location	3-bert
+45	26	28	長庚	location	2-dict
+45	997	999	台中	location	2-dict
+45	1020	1022	台中	location	2-dict
+45	1032	1034	台中	location	2-dict
+45	2273	2275	長庚	location	2-dict
+45	2292	2296	長庚醫院	location	2-dict
+45	2456	2458	長庚	location	2-dict
+45	2631	2633	高醫	location	2-dict
+45	2795	2797	台大	location	2-dict
+45	2844	2848	長庚醫院	location	2-dict
+45	2869	2871	長庚	location	2-dict
+60	294	298	大東醫院	location	2-dict
+60	2159	2163	大東醫院	location	2-dict
+61	1782	1784	台灣	location	2-dict
+65	1444	1446	美國	location	2-dict
+65	1453	1455	德國	location	2-dict
+65	1482	1485	西班牙	location	2-dict
+65	1490	1493	西班牙	location	2-dict
+65	1668	1670	美國	location	2-dict
+65	1675	1677	美國	location	2-dict
+65	1684	1686	英國	location	2-dict
+66	300	302	成大	location	2-dict
+66	816	820	台中醫院	location	2-dict
+68	1353	1355	台大	location	2-dict
+72	69	71	榮總	location	2-dict
+76	2408	2410	義大	location	2-dict
+76	2964	2968	義大醫院	location	2-dict
+76	2976	2980	義大醫院	location	2-dict
+78	342	344	武漢	location	2-dict
+79	2140	2142	榮總	location	2-dict
+81	429	431	長庚	location	2-dict
+81	437	439	長庚	location	2-dict
+81	909	913	長庚醫院	location	2-dict
+81	932	936	長庚醫院	location	2-dict
+81	949	953	長庚醫院	location	2-dict
+81	957	961	大東醫院	location	2-dict
+83	3622	3624	慈濟	location	2-dict
+83	3633	3635	慈濟	location	2-dict
+87	45	47	學校	location	2-dict
+87	60	64	交通大學	location	2-dict
+91	155	159	奇美醫院	location	2-dict
+97	558	560	台大	location	2-dict
+97	600	602	榮總	location	2-dict
+97	1300	1302	榮總	location	2-dict
+97	1305	1307	台大	location	2-dict
+98	480	482	高醫	location	2-dict
+100	1825	1827	長庚	location	2-dict
+100	1902	1904	長庚	location	2-dict
+100	1938	1940	長庚	location	2-dict
+100	1956	1958	台大	location	2-dict
+100	1997	1999	台大	location	2-dict
+104	381	383	台大	location	2-dict
+105	24	26	奇美	location	2-dict
+105	31	33	竹科	location	2-dict
+106	462	464	竹科	location	2-dict
+107	954	956	長庚	location	2-dict
+110	1348	1350	墾丁	location	2-dict
+110	1355	1357	墾丁	location	2-dict
+110	1369	1371	石門	location	2-dict
+110	1375	1377	石門	location	2-dict
+110	1381	1385	石門水庫	location	2-dict
+110	1391	1393	石門	location	2-dict
+110	1407	1409	貢寮	location	2-dict
+110	1461	1463	八里	location	2-dict
+110	1472	1474	九份	location	2-dict
+110	1478	1480	九份	location	2-dict
+110	1520	1522	東區	location	2-dict
+110	1526	1528	東區	location	2-dict
+110	1529	1531	台北	location	2-dict
+110	1535	1537	東區	location	2-dict
+110	1552	1554	台北	location	2-dict
+110	1556	1558	東區	location	2-dict
+110	1727	1729	宜蘭	location	2-dict
+110	1855	1857	台北	location	2-dict
+111	2174	2176	台灣	location	2-dict
+111	2191	2193	台灣	location	2-dict
+111	2598	2600	成大	location	2-dict
+112	249	251	臺北	location	2-dict
+112	292	294	臺南	location	2-dict
+113	1622	1623	國	location	3-bert
+115	754	756	學校	location	2-dict
+117	1223	1225	高醫	location	2-dict
+120	1121	1125	陽明醫院	location	2-dict
+121	77	79	三組	location	2-dict
+122	1371	1373	泰國	location	2-dict
+124	157	159	六組	location	3-bert
+127	181	184	三商美	location	3-bert
+128	659	660	三	location	3-bert
+129	53	57	善化國小	location	2-dict
+135	878	880	泰國	location	2-dict
+135	882	884	印度	location	2-dict
+137	287	289	台灣	location	2-dict
+137	291	293	長庚	location	2-dict
+137	295	297	台灣	location	2-dict
+139	81	83	開封	location	2-dict
+139	101	103	開封	location	2-dict
+139	110	112	開封	location	2-dict
+139	435	437	高雄	location	2-dict
+139	438	440	台南	location	2-dict
+139	601	603	開封	location	2-dict
+140	306	308	新竹	location	2-dict
+140	326	328	新竹	location	2-dict
+140	333	335	鹿港	location	2-dict
+140	369	371	鹿港	location	2-dict
+140	373	375	新竹	location	2-dict
+140	1322	1324	泰國	location	2-dict
+140	1325	1327	印度	location	2-dict
+144	166	168	台中	location	2-dict
+144	186	188	台中	location	2-dict
+144	320	324	西……西	location	3-bert
+144	325	327	東區	location	2-dict
+144	328	330	西屯	location	2-dict
+145	550	552	台中	location	2-dict
+149	26	28	成大	location	2-dict
+150	6914	6916	泰國	location	2-dict
+150	6947	6949	泰國	location	2-dict
+150	7002	7004	曼谷	location	2-dict
+150	7018	7020	泰國	location	2-dict
+152	983	985	泰國	location	2-dict
+152	991	993	泰國	location	2-dict
+153	120	122	開封	location	2-dict
+153	1654	1656	泰國	location	2-dict
+153	1662	1664	泰國	location	2-dict
+153	1842	1844	台灣	location	2-dict
+153	2017	2019	泰國	location	2-dict
+153	2020	2022	印度	location	2-dict
+155	1000	1002	台灣	location	2-dict
+155	1021	1023	台灣	location	2-dict
+155	1200	1202	成大	location	2-dict
+155	1376	1378	泰國	location	2-dict
+155	1382	1384	泰國	location	2-dict
+155	1395	1397	泰國	location	2-dict
+155	1405	1407	泰國	location	2-dict
+155	1417	1419	印度	location	2-dict
+156	1625	1627	台灣	location	2-dict
+156	2244	2246	台灣	location	2-dict
+156	2479	2481	台灣	location	2-dict
+156	2876	2878	長庚	location	2-dict
+156	3210	3212	台北	location	2-dict
+157	1624	1626	台灣	location	2-dict
+157	1645	1647	台灣	location	2-dict
+157	1675	1677	台灣	location	2-dict
+157	1735	1737	泰國	location	2-dict
+157	1751	1753	泰國	location	2-dict
+157	1794	1796	泰國	location	2-dict
+157	2177	2179	泰國	location	2-dict
+157	3609	3611	高雄	location	2-dict

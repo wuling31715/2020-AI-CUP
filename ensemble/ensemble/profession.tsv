@@ -1,6 +1,6 @@
-article_id	start_position	end_position	entity_text	entity_type
-37	502	506	新光三越	profession
-41	2195	2197	王冠	profession
-47	906	909	台積電	profession
-105	20	23	台積電	profession
-151	28	31	台積電	profession
+article_id	start_position	end_position	entity_text	entity_type	source
+37	502	506	新光三越	profession	2-dict
+41	2195	2197	王冠	profession	2-dict
+47	906	909	台積電	profession	2-dict
+105	20	23	台積電	profession	2-dict
+151	28	31	台積電	profession	2-dict

@@ -1,146 +1,146 @@
-article_id	start_position	end_position	entity_text	entity_type
-2	1151	1155	450塊	money
-2	1394	1398	450塊	money
-5	188	193	10600	money
-5	197	202	10600	money
-7	1128	1132	800塊	money
-7	1136	1140	800塊	money
-8	504	507	五千五	money
-8	525	528	五千五	money
-8	543	547	一萬五千	money
-8	553	557	一萬五千	money
-8	882	885	三百塊	money
-10	462	466	好幾千塊	money
-10	471	475	好幾千塊	money
-10	683	687	100塊	money
-10	694	698	100塊	money
-14	900	903	三百塊	money
-16	794	799	1500元	money
-18	1540	1544	三十二塊	money
-19	1589	1593	三十二塊	money
-23	1166	1170	215塊	money
-41	806	808	一千	money
-41	824	826	一千	money
-41	834	836	一千	money
-41	1505	1509	一一三五	money
-41	1513	1517	一一三五	money
-41	1524	1526	一千	money
-41	1527	1530	一千七	money
-41	2608	2611	四方錢	money
-45	200	202	一塊	money
-55	59	61	一塊	money
-55	63	65	一塊	money
-55	308	310	一塊	money
-55	311	313	一塊	money
-57	155	157	三百	money
-58	976	978	四塊	money
-62	1252	1255	270	money
-62	1259	1262	270	money
-62	1365	1368	500	money
-62	1454	1458	150塊	money
-63	1004	1008	1200	money
-63	1012	1016	1200	money
-63	1021	1025	1200	money
-63	1026	1030	1500	money
-67	2333	2337	不到十塊	money
-67	2335	2338	十塊錢	money
-67	3221	3227	兩百二十八塊	money
-67	3240	3244	不到十塊	money
-70	980	984	1300	money
-70	996	1000	1300	money
-70	1288	1292	1300	money
-70	1318	1322	1300	money
-75	852	856	1200	money
-75	864	868	1200	money
-76	1850	1854	兩千多塊	money
-77	1140	1144	300多	money
-77	1145	1148	380	money
-77	1288	1294	3000塊錢	money
-77	1336	1341	3000塊	money
-79	2247	2250	10塊	money
-83	1746	1749	七十幾	money
-85	616	618	一千	money
-85	629	632	兩千五	money
-85	642	645	三千八	money
-92	760	763	一百三	money
-92	764	767	兩百六	money
-92	865	866	兩	money
-92	876	877	一	money
-92	955	956	一	money
-92	959	961	兩百	money
-92	973	976	七十塊	money
-92	984	987	七十塊	money
-94	1428	1431	七十幾	money
-94	1435	1438	七十幾	money
-100	128	131	兩千六	money
-100	161	163	一千	money
-100	172	174	一千	money
-112	646	649	255	money
-112	658	661	630	money
-112	760	763	255	money
-114	2103	2107	6615	money
-114	2271	2275	六千多塊	money
-122	1387	1391	3500	money
-122	1392	1396	4500	money
-122	1414	1419	12500	money
-122	1440	1444	250塊	money
-122	1461	1465	250塊	money
-122	1486	1491	12500	money
-122	1495	1499	3500	money
-122	1500	1504	4500	money
-122	1753	1758	12500	money
-122	1777	1781	5000	money
-122	1818	1825	12500多塊	money
-126	747	750	380	money
-127	489	492	300	money
-128	941	946	五百二十六	money
-131	370	373	858	money
-133	749	753	3200	money
-133	766	770	3200	money
-133	785	790	5000多	money
-133	790	797	將近6000塊	money
-133	820	823	525	money
-133	828	832	兩萬多塊	money
-135	971	974	兩千二	money
-135	1373	1375	兩千	money
-135	1377	1380	兩千五	money
-137	2057	2060	107	money
-137	2061	2064	100	money
-140	1207	1210	一萬三	money
-140	1227	1230	一萬三	money
-140	1369	1371	一千	money
-141	1159	1163	6700	money
-141	1166	1170	6700	money
-141	1171	1175	6500	money
-146	1210	1214	九百多塊	money
-150	2183	2187	414塊	money
-150	3548	3551	一萬三	money
-150	3606	3609	一萬三	money
-150	3655	3658	一萬三	money
-150	3852	3856	1500	money
-150	4681	4685	1500	money
-152	845	848	一百二	money
-152	866	869	五千多	money
-152	958	961	七十塊	money
-152	969	971	一千	money
-152	1733	1736	一萬三	money
-153	1443	1446	521	money
-153	1690	1693	60塊	money
-153	1720	1723	521	money
-155	1092	1095	510	money
-155	1105	1108	一萬五	money
-155	1154	1157	510	money
-155	1171	1174	一萬五	money
-155	1203	1207	五千多塊	money
-155	1260	1263	一萬五	money
-157	1298	1304	五百五十二塊	money
-157	1371	1374	一萬六	money
-157	1381	1384	一萬六	money
-157	1424	1429	一百八十塊	money
-157	1480	1485	五千五百塊	money
-157	1524	1527	七百塊	money
-157	1544	1547	七百塊	money
-157	1589	1592	五千塊	money
-157	1894	1896	一千	money
-157	1955	1957	一千	money
-157	1959	1962	五千五	money
+article_id	start_position	end_position	entity_text	entity_type	source
+2	1151	1155	450塊	money	2-dict
+2	1394	1398	450塊	money	2-dict
+5	188	193	10600	money	3-bert
+5	197	202	10600	money	3-bert
+7	1128	1132	800塊	money	2-dict
+7	1136	1140	800塊	money	2-dict
+8	504	507	五千五	money	2-dict
+8	525	528	五千五	money	2-dict
+8	543	547	一萬五千	money	2-dict
+8	553	557	一萬五千	money	2-dict
+8	882	885	三百塊	money	2-dict
+10	462	466	好幾千塊	money	2-dict
+10	471	475	好幾千塊	money	2-dict
+10	683	687	100塊	money	2-dict
+10	694	698	100塊	money	2-dict
+14	900	903	三百塊	money	2-dict
+16	794	799	1500元	money	2-dict
+18	1540	1544	三十二塊	money	2-dict
+19	1589	1593	三十二塊	money	2-dict
+23	1166	1170	215塊	money	2-dict
+41	806	808	一千	money	2-dict
+41	824	826	一千	money	2-dict
+41	834	836	一千	money	2-dict
+41	1505	1509	一一三五	money	2-dict
+41	1513	1517	一一三五	money	2-dict
+41	1524	1526	一千	money	2-dict
+41	1527	1530	一千七	money	2-dict
+41	2608	2611	四方錢	money	2-dict
+45	200	202	一塊	money	2-dict
+55	59	61	一塊	money	2-dict
+55	63	65	一塊	money	2-dict
+55	308	310	一塊	money	2-dict
+55	311	313	一塊	money	2-dict
+57	155	157	三百	money	3-bert
+58	976	978	四塊	money	2-dict
+62	1252	1255	270	money	2-dict
+62	1259	1262	270	money	2-dict
+62	1365	1368	500	money	3-bert
+62	1454	1458	150塊	money	2-dict
+63	1004	1008	1200	money	2-dict
+63	1012	1016	1200	money	2-dict
+63	1021	1025	1200	money	2-dict
+63	1026	1030	1500	money	2-dict
+67	2333	2337	不到十塊	money	2-dict
+67	2335	2338	十塊錢	money	2-dict
+67	3221	3227	兩百二十八塊	money	2-dict
+67	3240	3244	不到十塊	money	2-dict
+70	980	984	1300	money	2-dict
+70	996	1000	1300	money	2-dict
+70	1288	1292	1300	money	2-dict
+70	1318	1322	1300	money	2-dict
+75	852	856	1200	money	2-dict
+75	864	868	1200	money	2-dict
+76	1850	1854	兩千多塊	money	2-dict
+77	1140	1144	300多	money	2-dict
+77	1145	1148	380	money	2-dict
+77	1288	1294	3000塊錢	money	2-dict
+77	1336	1341	3000塊	money	2-dict
+79	2247	2250	10塊	money	2-dict
+83	1746	1749	七十幾	money	2-dict
+85	616	618	一千	money	2-dict
+85	629	632	兩千五	money	3-bert
+85	642	645	三千八	money	3-bert
+92	760	763	一百三	money	3-bert
+92	764	767	兩百六	money	3-bert
+92	865	866	兩	money	3-bert
+92	876	877	一	money	3-bert
+92	955	956	一	money	3-bert
+92	959	961	兩百	money	3-bert
+92	973	976	七十塊	money	2-dict
+92	984	987	七十塊	money	2-dict
+94	1428	1431	七十幾	money	2-dict
+94	1435	1438	七十幾	money	2-dict
+100	128	131	兩千六	money	3-bert
+100	161	163	一千	money	2-dict
+100	172	174	一千	money	2-dict
+112	646	649	255	money	2-dict
+112	658	661	630	money	2-dict
+112	760	763	255	money	2-dict
+114	2103	2107	6615	money	2-dict
+114	2271	2275	六千多塊	money	2-dict
+122	1387	1391	3500	money	2-dict
+122	1392	1396	4500	money	2-dict
+122	1414	1419	12500	money	2-dict
+122	1440	1444	250塊	money	2-dict
+122	1461	1465	250塊	money	2-dict
+122	1486	1491	12500	money	2-dict
+122	1495	1499	3500	money	2-dict
+122	1500	1504	4500	money	2-dict
+122	1753	1758	12500	money	2-dict
+122	1777	1781	5000	money	2-dict
+122	1818	1825	12500多塊	money	2-dict
+126	747	750	380	money	2-dict
+127	489	492	300	money	3-bert
+128	941	946	五百二十六	money	3-bert
+131	370	373	858	money	2-dict
+133	749	753	3200	money	2-dict
+133	766	770	3200	money	2-dict
+133	785	790	5000多	money	2-dict
+133	790	797	將近6000塊	money	2-dict
+133	820	823	525	money	2-dict
+133	828	832	兩萬多塊	money	2-dict
+135	971	974	兩千二	money	3-bert
+135	1373	1375	兩千	money	3-bert
+135	1377	1380	兩千五	money	3-bert
+137	2057	2060	107	money	3-bert
+137	2061	2064	100	money	3-bert
+140	1207	1210	一萬三	money	2-dict
+140	1227	1230	一萬三	money	2-dict
+140	1369	1371	一千	money	2-dict
+141	1159	1163	6700	money	2-dict
+141	1166	1170	6700	money	2-dict
+141	1171	1175	6500	money	2-dict
+146	1210	1214	九百多塊	money	2-dict
+150	2183	2187	414塊	money	2-dict
+150	3548	3551	一萬三	money	2-dict
+150	3606	3609	一萬三	money	2-dict
+150	3655	3658	一萬三	money	2-dict
+150	3852	3856	1500	money	2-dict
+150	4681	4685	1500	money	2-dict
+152	845	848	一百二	money	3-bert
+152	866	869	五千多	money	3-bert
+152	958	961	七十塊	money	2-dict
+152	969	971	一千	money	2-dict
+152	1733	1736	一萬三	money	2-dict
+153	1443	1446	521	money	2-dict
+153	1690	1693	60塊	money	2-dict
+153	1720	1723	521	money	2-dict
+155	1092	1095	510	money	2-dict
+155	1105	1108	一萬五	money	3-bert
+155	1154	1157	510	money	2-dict
+155	1171	1174	一萬五	money	3-bert
+155	1203	1207	五千多塊	money	2-dict
+155	1260	1263	一萬五	money	3-bert
+157	1298	1304	五百五十二塊	money	2-dict
+157	1371	1374	一萬六	money	3-bert
+157	1381	1384	一萬六	money	3-bert
+157	1424	1429	一百八十塊	money	2-dict
+157	1480	1485	五千五百塊	money	2-dict
+157	1524	1527	七百塊	money	2-dict
+157	1544	1547	七百塊	money	2-dict
+157	1589	1592	五千塊	money	2-dict
+157	1894	1896	一千	money	2-dict
+157	1955	1957	一千	money	2-dict
+157	1959	1962	五千五	money	2-dict

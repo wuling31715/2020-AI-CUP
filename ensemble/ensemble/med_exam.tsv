@@ -1,398 +1,398 @@
-article_id	start_position	end_position	entity_text	entity_type
-1	76	80	0.79	med_exam
-1	94	96	88	med_exam
-1	122	124	60	med_exam
-1	179	181	20	med_exam
-1	182	184	19	med_exam
-1	258	261	2.6	med_exam
-1	366	369	6.6	med_exam
-1	385	388	6.6	med_exam
-1	394	397	8.3	med_exam
-1	407	410	8.3	med_exam
-1	418	421	8.3	med_exam
-1	463	466	6.2	med_exam
-2	170	174	1100	med_exam
-2	245	249	1145	med_exam
-2	275	278	500	med_exam
-2	452	453	4	med_exam
-2	678	680	55	med_exam
-2	681	683	57	med_exam
-2	699	701	52	med_exam
-2	872	873	3	med_exam
-2	880	881	3	med_exam
-2	1090	1094	7.56	med_exam
-2	1119	1120	3	med_exam
-4	148	152	36．9	med_exam
-4	157	162	36．9度	med_exam
-4	163	168	36．9度	med_exam
-4	173	179	114/66	med_exam
-4	210	211	4	med_exam
-4	215	218	622	med_exam
-4	288	290	15	med_exam
-4	299	301	30	med_exam
-4	303	305	12	med_exam
-4	319	321	15	med_exam
-4	326	328	31	med_exam
-5	106	108	20	med_exam
-5	151	155	9700	med_exam
-5	162	166	9700	med_exam
-5	171	175	9700	med_exam
-5	699	703	9000	med_exam
-5	2223	2227	9700	med_exam
-5	2241	2245	9700	med_exam
-5	2268	2270	20	med_exam
-5	2271	2273	20	med_exam
-5	2275	2277	20	med_exam
-5	2309	2311	90	med_exam
-5	2312	2315	100	med_exam
-6	106	112	二點一二公分	med_exam
-6	238	243	四點一公分	med_exam
-6	2261	2264	三五八	med_exam
-7	373	375	30	med_exam
-8	37	38	4	med_exam
-8	39	44	九百一十三	med_exam
-8	124	127	四十一	med_exam
-8	129	131	十九	med_exam
-9	1453	1459	14幾15幾	med_exam
-9	1525	1528	140	med_exam
-9	1529	1532	150	med_exam
-9	1599	1602	120	med_exam
-9	2913	2917	13.7	med_exam
-11	872	876	17.1	med_exam
-11	919	922	一百多	med_exam
-11	932	935	121	med_exam
-11	940	942	29	med_exam
-11	951	953	17	med_exam
-11	963	965	17	med_exam
-11	1218	1221	120	med_exam
-11	1353	1356	120	med_exam
-11	1755	1759	2540	med_exam
-11	3434	3438	2540	med_exam
-11	5618	5621	八公斤	med_exam
-11	5697	5699	75	med_exam
-11	5704	5706	63	med_exam
-11	5707	5709	62	med_exam
-11	5727	5730	十公斤	med_exam
-11	5774	5776	63	med_exam
-11	5787	5789	75	med_exam
-11	5790	5794	63公斤	med_exam
-13	958	960	一七	med_exam
-13	965	968	一七五	med_exam
-13	973	976	七十三	med_exam
-13	1149	1152	一二五	med_exam
-13	1153	1156	七十五	med_exam
-13	1165	1168	一二五	med_exam
-13	1169	1172	七十五	med_exam
-14	529	532	349	med_exam
-14	703	706	500	med_exam
-15	648	650	47	med_exam
-15	651	653	42	med_exam
-15	666	669	0.2	med_exam
-16	141	144	62公	med_exam
-16	149	151	62	med_exam
-16	163	168	173公分	med_exam
-16	172	177	173公分	med_exam
-16	266	269	263	med_exam
-16	290	292	20	med_exam
-16	405	408	200	med_exam
-17	392	396	0.83	med_exam
-17	408	410	87	med_exam
-17	600	603	6.7	med_exam
-17	608	611	6.7	med_exam
-18	1020	1023	六十八	med_exam
-21	25	29	72公斤	med_exam
-21	77	81	1107	med_exam
-21	86	90	1107	med_exam
-21	99	105	1106.5	med_exam
-21	110	114	1107	med_exam
-21	132	136	1107	med_exam
-21	198	200	89	med_exam
-21	212	215	4.8	med_exam
-21	216	219	4.8	med_exam
-23	1389	1392	170	med_exam
-23	1393	1396	180	med_exam
-23	1400	1403	170	med_exam
-23	1404	1407	180	med_exam
-23	1639	1642	180	med_exam
-23	1662	1665	170	med_exam
-23	1666	1669	180	med_exam
-23	2152	2155	120	med_exam
-23	2156	2159	130	med_exam
-24	137	139	59	med_exam
-24	143	145	59	med_exam
-26	157	159	55	med_exam
-26	163	165	55	med_exam
-26	176	179	162	med_exam
-26	183	186	162	med_exam
-26	454	457	497	med_exam
-26	466	469	497	med_exam
-26	541	545	700多	med_exam
-26	642	644	30	med_exam
-26	1123	1126	140	med_exam
-27	276	281	0．125	med_exam
-27	288	290	10	med_exam
-28	146	148	四十	med_exam
-28	149	152	四十三	med_exam
-28	559	562	八十九	med_exam
-28	604	607	七十一	med_exam
-29	27	31	0．42	med_exam
-29	32	35	90分	med_exam
-29	42	44	12	med_exam
-29	49	52	2．1	med_exam
-29	56	59	2．1	med_exam
-30	36	39	935	med_exam
-32	149	153	9.53	med_exam
-32	158	162	9.53	med_exam
-33	161	164	690	med_exam
-34	444	447	901	med_exam
-36	13	18	41358	med_exam
-36	39	42	256	med_exam
-36	99	102	195	med_exam
-36	957	960	172	med_exam
-36	965	967	59	med_exam
-36	968	970	60	med_exam
-36	974	976	59	med_exam
-36	977	979	60	med_exam
-37	89	92	130	med_exam
-41	579	584	五百九十三	med_exam
-41	585	590	五百九十三	med_exam
-41	600	605	五八六點七	med_exam
-41	618	620	四百	med_exam
-41	635	637	五百	med_exam
-43	191	192	4	med_exam
-43	193	196	632	med_exam
-43	248	251	500	med_exam
-44	286	289	400	med_exam
-44	301	305	400多	med_exam
-44	358	361	200	med_exam
-44	369	372	455	med_exam
-44	384	385	2	med_exam
-44	387	390	221	med_exam
-44	391	394	222	med_exam
-44	494	497	7.5	med_exam
-44	531	533	98	med_exam
-44	540	542	98	med_exam
-45	54	58	2750	med_exam
-45	96	98	10	med_exam
-45	1451	1454	0.5	med_exam
-45	1507	1511	67.5	med_exam
-45	1604	1607	0.5	med_exam
-45	1613	1616	四公斤	med_exam
-45	1723	1726	0.5	med_exam
-45	1745	1748	0.5	med_exam
-45	1773	1775	63	med_exam
-45	1789	1791	63	med_exam
-45	1808	1812	67.5	med_exam
-45	1823	1827	67.5	med_exam
-45	1833	1835	68	med_exam
-45	2075	2077	62	med_exam
-45	2078	2080	63	med_exam
-45	2105	2107	61	med_exam
-45	2261	2265	一兩公斤	med_exam
-47	130	133	九十公	med_exam
-48	218	221	120	med_exam
-48	247	250	100	med_exam
-48	649	652	140	med_exam
-48	1233	1235	14	med_exam
-48	1692	1694	53	med_exam
-48	1706	1708	53	med_exam
-48	1709	1711	48	med_exam
-51	1254	1256	18	med_exam
-51	1627	1633	1.2000	med_exam
-51	1640	1646	1.2000	med_exam
-54	51	55	一百零四	med_exam
-54	77	82	一百一十五	med_exam
-54	219	222	一點四	med_exam
-54	537	540	一百零	med_exam
-54	561	566	一百二十八	med_exam
-55	537	540	188	med_exam
-55	558	561	十一萬	med_exam
-55	570	573	十五萬	med_exam
-55	1041	1044	兩百多	med_exam
-55	1061	1063	兩百	med_exam
-55	1065	1069	兩百零七	med_exam
-55	1090	1092	十五	med_exam
-58	23	25	10	med_exam
-58	41	42	8	med_exam
-59	165	169	38.2	med_exam
-59	679	683	38.2	med_exam
-59	684	688	37.9	med_exam
-59	694	698	38.2	med_exam
-59	702	705	379	med_exam
-59	706	709	382	med_exam
-59	1119	1122	139	med_exam
-60	1990	1993	160	med_exam
-61	62	65	2.5	med_exam
-62	131	133	58	med_exam
-62	170	173	175	med_exam
-62	177	180	175	med_exam
-62	187	190	175	med_exam
-62	198	201	174	med_exam
-62	1222	1225	150	med_exam
-62	1229	1232	150	med_exam
-63	158	161	138	med_exam
-63	173	176	7．9	med_exam
-63	185	188	130	med_exam
-63	205	208	7．9	med_exam
-63	236	241	14600	med_exam
-63	253	257	4900	med_exam
-63	358	362	1．44	med_exam
-63	1058	1062	2100	med_exam
-64	35	39	900多	med_exam
-65	290	293	九十二	med_exam
-65	294	299	一百三十一	med_exam
-65	1750	1753	七百二	med_exam
-67	2903	2907	37.3	med_exam
-67	2913	2917	37.3	med_exam
-67	2923	2927	37.3	med_exam
-67	2928	2932	37.4	med_exam
-68	1125	1127	15	med_exam
-68	1128	1130	16	med_exam
-68	1144	1146	16	med_exam
-68	1150	1152	15	med_exam
-70	49	52	414	med_exam
-70	53	56	356	med_exam
-70	60	62	26	med_exam
-70	63	65	50	med_exam
-72	162	167	37度點2	med_exam
-72	431	436	4.9公分	med_exam
-72	497	503	4.01公分	med_exam
-72	618	622	27.3	med_exam
-72	627	630	2.6	med_exam
-72	634	637	2.6	med_exam
-72	641	644	2.6	med_exam
-72	674	678	2100	med_exam
-72	680	684	2900	med_exam
-73	92	95	889	med_exam
-75	561	564	4.5	med_exam
-75	568	571	4.5	med_exam
-75	680	683	435	med_exam
-75	687	690	435	med_exam
-75	723	726	4.5	med_exam
-75	1410	1413	1.1	med_exam
-75	1431	1434	0.幾	med_exam
-75	1439	1442	0.幾	med_exam
-75	1450	1453	1.1	med_exam
-75	1457	1460	1.1	med_exam
-77	887	890	4.6	med_exam
-77	900	904	4.50	med_exam
-79	330	334	39.5	med_exam
-79	356	358	22	med_exam
-79	1288	1290	35	med_exam
-79	1299	1301	35	med_exam
-79	1510	1514	四十幾時	med_exam
-79	1798	1801	102	med_exam
-79	1809	1812	102	med_exam
-80	1228	1230	25	med_exam
-80	1303	1305	91	med_exam
-82	498	500	九十	med_exam
-83	330	334	38.1	med_exam
-83	1756	1759	七十五	med_exam
-83	2927	2929	15	med_exam
-85	38	40	12	med_exam
-85	169	171	22	med_exam
-85	175	178	1.8	med_exam
-85	1098	1101	100	med_exam
-85	1102	1105	100	med_exam
-85	1106	1109	105	med_exam
-85	1113	1116	100	med_exam
-85	1117	1120	105	med_exam
-85	1151	1154	170	med_exam
-85	1155	1158	180	med_exam
-85	1204	1207	170	med_exam
-85	1208	1211	180	med_exam
-85	1236	1239	170	med_exam
-85	1262	1265	160	med_exam
-85	1278	1281	170	med_exam
-85	1334	1337	190	med_exam
-85	1354	1357	190	med_exam
-85	1366	1369	170	med_exam
-88	69	73	0．80	med_exam
-88	261	264	141	med_exam
-88	296	298	54	med_exam
-88	696	698	80	med_exam
-88	717	720	126	med_exam
-88	732	734	80	med_exam
-88	746	750	5601	med_exam
-88	767	771	16．4	med_exam
-90	421	425	37.2	med_exam
-90	1187	1191	10.9	med_exam
-91	365	368	110	med_exam
-91	372	375	110	med_exam
-91	507	510	0.5	med_exam
-91	520	523	0.5	med_exam
-92	773	778	六百八十二	med_exam
-92	783	788	六百八十二	med_exam
-92	836	838	七十	med_exam
-92	884	887	一百三	med_exam
-92	893	896	一百三	med_exam
-92	902	905	一百一	med_exam
-92	906	909	一百三	med_exam
-92	913	916	一百三	med_exam
-94	451	454	一百四	med_exam
-94	505	508	一百九	med_exam
-95	154	156	一百	med_exam
-96	52	55	一百五	med_exam
-96	505	508	五十幾	med_exam
-96	522	525	五十九	med_exam
-96	538	541	五十九	med_exam
-96	996	999	一百三	med_exam
-96	1000	1003	一百三	med_exam
-96	1013	1016	一百三	med_exam
-96	1310	1313	100	med_exam
-96	1314	1317	105	med_exam
-96	1321	1324	105	med_exam
-99	892	895	5公分	med_exam
-99	900	903	5公分	med_exam
-100	55	59	0.72	med_exam
-100	124	127	兩千七	med_exam
-100	2124	2129	1.5公斤	med_exam
-100	2167	2169	4公	med_exam
-100	2174	2177	4公斤	med_exam
-102	151	153	85	med_exam
-102	157	160	10萬	med_exam
-102	164	167	100	med_exam
-102	187	189	85	med_exam
-102	247	249	80	med_exam
-102	282	284	27	med_exam
-102	307	309	30	med_exam
-102	322	324	80	med_exam
-106	369	372	102	med_exam
-107	39	43	2500	med_exam
-107	59	63	2800	med_exam
-107	85	88	1.0	med_exam
-107	93	96	1.0	med_exam
-107	99	103	1.87	med_exam
-107	122	126	2500	med_exam
-110	81	83	95	med_exam
-110	235	240	五百二十二	med_exam
-110	248	253	五百二十二	med_exam
-110	286	289	四百一	med_exam
-110	863	867	二比二三	med_exam
-111	1549	1553	一百八十	med_exam
-117	458	460	20	med_exam
-121	482	483	8	med_exam
-121	486	489	79分	med_exam
-121	496	497	7	med_exam
-127	384	385	3	med_exam
-128	448	450	10	med_exam
-129	251	253	69	med_exam
-129	255	257	10	med_exam
-129	261	263	10	med_exam
-131	389	392	210	med_exam
-132	383	384	1	med_exam
-132	1284	1287	106	med_exam
-135	991	993	一萬	med_exam
-135	1000	1002	七千	med_exam
-135	1007	1009	七千	med_exam
-135	1019	1021	七千	med_exam
-137	1984	1985	6	med_exam
-137	2070	2073	100	med_exam
-138	30	33	31題	med_exam
-138	60	62	31	med_exam
-138	64	66	32	med_exam
-138	91	94	五十幾	med_exam
-145	377	379	29	med_exam
-145	380	382	29	med_exam
-153	53	54	3	med_exam
-157	1445	1447	三分	med_exam
+article_id	start_position	end_position	entity_text	entity_type	source
+1	76	80	0.79	med_exam	3-bert
+1	94	96	88	med_exam	3-bert
+1	122	124	60	med_exam	3-bert
+1	179	181	20	med_exam	3-bert
+1	182	184	19	med_exam	3-bert
+1	258	261	2.6	med_exam	3-bert
+1	366	369	6.6	med_exam	3-bert
+1	385	388	6.6	med_exam	3-bert
+1	394	397	8.3	med_exam	3-bert
+1	407	410	8.3	med_exam	3-bert
+1	418	421	8.3	med_exam	3-bert
+1	463	466	6.2	med_exam	3-bert
+2	170	174	1100	med_exam	3-bert
+2	245	249	1145	med_exam	3-bert
+2	275	278	500	med_exam	3-bert
+2	452	453	4	med_exam	3-bert
+2	678	680	55	med_exam	3-bert
+2	681	683	57	med_exam	3-bert
+2	699	701	52	med_exam	3-bert
+2	872	873	3	med_exam	3-bert
+2	880	881	3	med_exam	3-bert
+2	1090	1094	7.56	med_exam	3-bert
+2	1119	1120	3	med_exam	3-bert
+4	148	152	36．9	med_exam	3-bert
+4	157	162	36．9度	med_exam	3-bert
+4	163	168	36．9度	med_exam	3-bert
+4	173	179	114/66	med_exam	3-bert
+4	210	211	4	med_exam	3-bert
+4	215	218	622	med_exam	3-bert
+4	288	290	15	med_exam	3-bert
+4	299	301	30	med_exam	3-bert
+4	303	305	12	med_exam	3-bert
+4	319	321	15	med_exam	3-bert
+4	326	328	31	med_exam	3-bert
+5	106	108	20	med_exam	3-bert
+5	151	155	9700	med_exam	3-bert
+5	162	166	9700	med_exam	3-bert
+5	171	175	9700	med_exam	3-bert
+5	699	703	9000	med_exam	3-bert
+5	2223	2227	9700	med_exam	3-bert
+5	2241	2245	9700	med_exam	3-bert
+5	2268	2270	20	med_exam	3-bert
+5	2271	2273	20	med_exam	3-bert
+5	2275	2277	20	med_exam	3-bert
+5	2309	2311	90	med_exam	3-bert
+5	2312	2315	100	med_exam	3-bert
+6	106	112	二點一二公分	med_exam	3-bert
+6	238	243	四點一公分	med_exam	3-bert
+6	2261	2264	三五八	med_exam	3-bert
+7	373	375	30	med_exam	3-bert
+8	37	38	4	med_exam	3-bert
+8	39	44	九百一十三	med_exam	3-bert
+8	124	127	四十一	med_exam	3-bert
+8	129	131	十九	med_exam	3-bert
+9	1453	1459	14幾15幾	med_exam	3-bert
+9	1525	1528	140	med_exam	3-bert
+9	1529	1532	150	med_exam	3-bert
+9	1599	1602	120	med_exam	3-bert
+9	2913	2917	13.7	med_exam	3-bert
+11	872	876	17.1	med_exam	3-bert
+11	919	922	一百多	med_exam	3-bert
+11	932	935	121	med_exam	3-bert
+11	940	942	29	med_exam	3-bert
+11	951	953	17	med_exam	3-bert
+11	963	965	17	med_exam	3-bert
+11	1218	1221	120	med_exam	3-bert
+11	1353	1356	120	med_exam	3-bert
+11	1755	1759	2540	med_exam	3-bert
+11	3434	3438	2540	med_exam	3-bert
+11	5618	5621	八公斤	med_exam	3-bert
+11	5697	5699	75	med_exam	3-bert
+11	5704	5706	63	med_exam	3-bert
+11	5707	5709	62	med_exam	3-bert
+11	5727	5730	十公斤	med_exam	3-bert
+11	5774	5776	63	med_exam	3-bert
+11	5787	5789	75	med_exam	3-bert
+11	5790	5794	63公斤	med_exam	3-bert
+13	958	960	一七	med_exam	3-bert
+13	965	968	一七五	med_exam	3-bert
+13	973	976	七十三	med_exam	3-bert
+13	1149	1152	一二五	med_exam	3-bert
+13	1153	1156	七十五	med_exam	3-bert
+13	1165	1168	一二五	med_exam	3-bert
+13	1169	1172	七十五	med_exam	3-bert
+14	529	532	349	med_exam	3-bert
+14	703	706	500	med_exam	3-bert
+15	648	650	47	med_exam	3-bert
+15	651	653	42	med_exam	3-bert
+15	666	669	0.2	med_exam	3-bert
+16	141	144	62公	med_exam	3-bert
+16	149	151	62	med_exam	3-bert
+16	163	168	173公分	med_exam	3-bert
+16	172	177	173公分	med_exam	3-bert
+16	266	269	263	med_exam	3-bert
+16	290	292	20	med_exam	3-bert
+16	405	408	200	med_exam	3-bert
+17	392	396	0.83	med_exam	3-bert
+17	408	410	87	med_exam	3-bert
+17	600	603	6.7	med_exam	3-bert
+17	608	611	6.7	med_exam	3-bert
+18	1020	1023	六十八	med_exam	3-bert
+21	25	29	72公斤	med_exam	3-bert
+21	77	81	1107	med_exam	3-bert
+21	86	90	1107	med_exam	3-bert
+21	99	105	1106.5	med_exam	3-bert
+21	110	114	1107	med_exam	3-bert
+21	132	136	1107	med_exam	3-bert
+21	198	200	89	med_exam	3-bert
+21	212	215	4.8	med_exam	3-bert
+21	216	219	4.8	med_exam	3-bert
+23	1389	1392	170	med_exam	3-bert
+23	1393	1396	180	med_exam	3-bert
+23	1400	1403	170	med_exam	3-bert
+23	1404	1407	180	med_exam	3-bert
+23	1639	1642	180	med_exam	3-bert
+23	1662	1665	170	med_exam	3-bert
+23	1666	1669	180	med_exam	3-bert
+23	2152	2155	120	med_exam	3-bert
+23	2156	2159	130	med_exam	3-bert
+24	137	139	59	med_exam	3-bert
+24	143	145	59	med_exam	3-bert
+26	157	159	55	med_exam	3-bert
+26	163	165	55	med_exam	3-bert
+26	176	179	162	med_exam	3-bert
+26	183	186	162	med_exam	3-bert
+26	454	457	497	med_exam	3-bert
+26	466	469	497	med_exam	3-bert
+26	541	545	700多	med_exam	3-bert
+26	642	644	30	med_exam	3-bert
+26	1123	1126	140	med_exam	3-bert
+27	276	281	0．125	med_exam	3-bert
+27	288	290	10	med_exam	3-bert
+28	146	148	四十	med_exam	3-bert
+28	149	152	四十三	med_exam	3-bert
+28	559	562	八十九	med_exam	3-bert
+28	604	607	七十一	med_exam	3-bert
+29	27	31	0．42	med_exam	3-bert
+29	32	35	90分	med_exam	3-bert
+29	42	44	12	med_exam	3-bert
+29	49	52	2．1	med_exam	3-bert
+29	56	59	2．1	med_exam	3-bert
+30	36	39	935	med_exam	3-bert
+32	149	153	9.53	med_exam	3-bert
+32	158	162	9.53	med_exam	3-bert
+33	161	164	690	med_exam	3-bert
+34	444	447	901	med_exam	3-bert
+36	13	18	41358	med_exam	3-bert
+36	39	42	256	med_exam	3-bert
+36	99	102	195	med_exam	3-bert
+36	957	960	172	med_exam	3-bert
+36	965	967	59	med_exam	3-bert
+36	968	970	60	med_exam	3-bert
+36	974	976	59	med_exam	3-bert
+36	977	979	60	med_exam	3-bert
+37	89	92	130	med_exam	3-bert
+41	579	584	五百九十三	med_exam	3-bert
+41	585	590	五百九十三	med_exam	3-bert
+41	600	605	五八六點七	med_exam	3-bert
+41	618	620	四百	med_exam	3-bert
+41	635	637	五百	med_exam	3-bert
+43	191	192	4	med_exam	3-bert
+43	193	196	632	med_exam	3-bert
+43	248	251	500	med_exam	3-bert
+44	286	289	400	med_exam	3-bert
+44	301	305	400多	med_exam	3-bert
+44	358	361	200	med_exam	3-bert
+44	369	372	455	med_exam	3-bert
+44	384	385	2	med_exam	3-bert
+44	387	390	221	med_exam	3-bert
+44	391	394	222	med_exam	3-bert
+44	494	497	7.5	med_exam	3-bert
+44	531	533	98	med_exam	3-bert
+44	540	542	98	med_exam	3-bert
+45	54	58	2750	med_exam	3-bert
+45	96	98	10	med_exam	3-bert
+45	1451	1454	0.5	med_exam	3-bert
+45	1507	1511	67.5	med_exam	3-bert
+45	1604	1607	0.5	med_exam	3-bert
+45	1613	1616	四公斤	med_exam	3-bert
+45	1723	1726	0.5	med_exam	3-bert
+45	1745	1748	0.5	med_exam	3-bert
+45	1773	1775	63	med_exam	3-bert
+45	1789	1791	63	med_exam	3-bert
+45	1808	1812	67.5	med_exam	3-bert
+45	1823	1827	67.5	med_exam	3-bert
+45	1833	1835	68	med_exam	3-bert
+45	2075	2077	62	med_exam	3-bert
+45	2078	2080	63	med_exam	3-bert
+45	2105	2107	61	med_exam	3-bert
+45	2261	2265	一兩公斤	med_exam	3-bert
+47	130	133	九十公	med_exam	3-bert
+48	218	221	120	med_exam	3-bert
+48	247	250	100	med_exam	3-bert
+48	649	652	140	med_exam	3-bert
+48	1233	1235	14	med_exam	3-bert
+48	1692	1694	53	med_exam	3-bert
+48	1706	1708	53	med_exam	3-bert
+48	1709	1711	48	med_exam	3-bert
+51	1254	1256	18	med_exam	3-bert
+51	1627	1633	1.2000	med_exam	3-bert
+51	1640	1646	1.2000	med_exam	3-bert
+54	51	55	一百零四	med_exam	3-bert
+54	77	82	一百一十五	med_exam	3-bert
+54	219	222	一點四	med_exam	3-bert
+54	537	540	一百零	med_exam	3-bert
+54	561	566	一百二十八	med_exam	3-bert
+55	537	540	188	med_exam	3-bert
+55	558	561	十一萬	med_exam	3-bert
+55	570	573	十五萬	med_exam	3-bert
+55	1041	1044	兩百多	med_exam	3-bert
+55	1061	1063	兩百	med_exam	3-bert
+55	1065	1069	兩百零七	med_exam	3-bert
+55	1090	1092	十五	med_exam	3-bert
+58	23	25	10	med_exam	3-bert
+58	41	42	8	med_exam	3-bert
+59	165	169	38.2	med_exam	3-bert
+59	679	683	38.2	med_exam	3-bert
+59	684	688	37.9	med_exam	3-bert
+59	694	698	38.2	med_exam	3-bert
+59	702	705	379	med_exam	3-bert
+59	706	709	382	med_exam	3-bert
+59	1119	1122	139	med_exam	3-bert
+60	1990	1993	160	med_exam	3-bert
+61	62	65	2.5	med_exam	3-bert
+62	131	133	58	med_exam	3-bert
+62	170	173	175	med_exam	3-bert
+62	177	180	175	med_exam	3-bert
+62	187	190	175	med_exam	3-bert
+62	198	201	174	med_exam	3-bert
+62	1222	1225	150	med_exam	3-bert
+62	1229	1232	150	med_exam	3-bert
+63	158	161	138	med_exam	3-bert
+63	173	176	7．9	med_exam	3-bert
+63	185	188	130	med_exam	3-bert
+63	205	208	7．9	med_exam	3-bert
+63	236	241	14600	med_exam	3-bert
+63	253	257	4900	med_exam	3-bert
+63	358	362	1．44	med_exam	3-bert
+63	1058	1062	2100	med_exam	3-bert
+64	35	39	900多	med_exam	3-bert
+65	290	293	九十二	med_exam	3-bert
+65	294	299	一百三十一	med_exam	3-bert
+65	1750	1753	七百二	med_exam	3-bert
+67	2903	2907	37.3	med_exam	3-bert
+67	2913	2917	37.3	med_exam	3-bert
+67	2923	2927	37.3	med_exam	3-bert
+67	2928	2932	37.4	med_exam	3-bert
+68	1125	1127	15	med_exam	3-bert
+68	1128	1130	16	med_exam	3-bert
+68	1144	1146	16	med_exam	3-bert
+68	1150	1152	15	med_exam	3-bert
+70	49	52	414	med_exam	3-bert
+70	53	56	356	med_exam	3-bert
+70	60	62	26	med_exam	3-bert
+70	63	65	50	med_exam	3-bert
+72	162	167	37度點2	med_exam	3-bert
+72	431	436	4.9公分	med_exam	3-bert
+72	497	503	4.01公分	med_exam	3-bert
+72	618	622	27.3	med_exam	3-bert
+72	627	630	2.6	med_exam	3-bert
+72	634	637	2.6	med_exam	3-bert
+72	641	644	2.6	med_exam	3-bert
+72	674	678	2100	med_exam	3-bert
+72	680	684	2900	med_exam	3-bert
+73	92	95	889	med_exam	3-bert
+75	561	564	4.5	med_exam	3-bert
+75	568	571	4.5	med_exam	3-bert
+75	680	683	435	med_exam	3-bert
+75	687	690	435	med_exam	3-bert
+75	723	726	4.5	med_exam	3-bert
+75	1410	1413	1.1	med_exam	3-bert
+75	1431	1434	0.幾	med_exam	3-bert
+75	1439	1442	0.幾	med_exam	3-bert
+75	1450	1453	1.1	med_exam	3-bert
+75	1457	1460	1.1	med_exam	3-bert
+77	887	890	4.6	med_exam	3-bert
+77	900	904	4.50	med_exam	3-bert
+79	330	334	39.5	med_exam	3-bert
+79	356	358	22	med_exam	3-bert
+79	1288	1290	35	med_exam	3-bert
+79	1299	1301	35	med_exam	3-bert
+79	1510	1514	四十幾時	med_exam	3-bert
+79	1798	1801	102	med_exam	3-bert
+79	1809	1812	102	med_exam	3-bert
+80	1228	1230	25	med_exam	3-bert
+80	1303	1305	91	med_exam	3-bert
+82	498	500	九十	med_exam	3-bert
+83	330	334	38.1	med_exam	3-bert
+83	1756	1759	七十五	med_exam	3-bert
+83	2927	2929	15	med_exam	3-bert
+85	38	40	12	med_exam	3-bert
+85	169	171	22	med_exam	3-bert
+85	175	178	1.8	med_exam	3-bert
+85	1098	1101	100	med_exam	3-bert
+85	1102	1105	100	med_exam	3-bert
+85	1106	1109	105	med_exam	3-bert
+85	1113	1116	100	med_exam	3-bert
+85	1117	1120	105	med_exam	3-bert
+85	1151	1154	170	med_exam	3-bert
+85	1155	1158	180	med_exam	3-bert
+85	1204	1207	170	med_exam	3-bert
+85	1208	1211	180	med_exam	3-bert
+85	1236	1239	170	med_exam	3-bert
+85	1262	1265	160	med_exam	3-bert
+85	1278	1281	170	med_exam	3-bert
+85	1334	1337	190	med_exam	3-bert
+85	1354	1357	190	med_exam	3-bert
+85	1366	1369	170	med_exam	3-bert
+88	69	73	0．80	med_exam	3-bert
+88	261	264	141	med_exam	3-bert
+88	296	298	54	med_exam	3-bert
+88	696	698	80	med_exam	3-bert
+88	717	720	126	med_exam	3-bert
+88	732	734	80	med_exam	3-bert
+88	746	750	5601	med_exam	3-bert
+88	767	771	16．4	med_exam	3-bert
+90	421	425	37.2	med_exam	3-bert
+90	1187	1191	10.9	med_exam	3-bert
+91	365	368	110	med_exam	3-bert
+91	372	375	110	med_exam	3-bert
+91	507	510	0.5	med_exam	3-bert
+91	520	523	0.5	med_exam	3-bert
+92	773	778	六百八十二	med_exam	3-bert
+92	783	788	六百八十二	med_exam	3-bert
+92	836	838	七十	med_exam	3-bert
+92	884	887	一百三	med_exam	3-bert
+92	893	896	一百三	med_exam	3-bert
+92	902	905	一百一	med_exam	3-bert
+92	906	909	一百三	med_exam	3-bert
+92	913	916	一百三	med_exam	3-bert
+94	451	454	一百四	med_exam	3-bert
+94	505	508	一百九	med_exam	3-bert
+95	154	156	一百	med_exam	3-bert
+96	52	55	一百五	med_exam	3-bert
+96	505	508	五十幾	med_exam	3-bert
+96	522	525	五十九	med_exam	3-bert
+96	538	541	五十九	med_exam	3-bert
+96	996	999	一百三	med_exam	3-bert
+96	1000	1003	一百三	med_exam	3-bert
+96	1013	1016	一百三	med_exam	3-bert
+96	1310	1313	100	med_exam	3-bert
+96	1314	1317	105	med_exam	3-bert
+96	1321	1324	105	med_exam	3-bert
+99	892	895	5公分	med_exam	3-bert
+99	900	903	5公分	med_exam	3-bert
+100	55	59	0.72	med_exam	3-bert
+100	124	127	兩千七	med_exam	3-bert
+100	2124	2129	1.5公斤	med_exam	3-bert
+100	2167	2169	4公	med_exam	3-bert
+100	2174	2177	4公斤	med_exam	3-bert
+102	151	153	85	med_exam	3-bert
+102	157	160	10萬	med_exam	3-bert
+102	164	167	100	med_exam	3-bert
+102	187	189	85	med_exam	3-bert
+102	247	249	80	med_exam	3-bert
+102	282	284	27	med_exam	3-bert
+102	307	309	30	med_exam	3-bert
+102	322	324	80	med_exam	3-bert
+106	369	372	102	med_exam	3-bert
+107	39	43	2500	med_exam	3-bert
+107	59	63	2800	med_exam	3-bert
+107	85	88	1.0	med_exam	3-bert
+107	93	96	1.0	med_exam	3-bert
+107	99	103	1.87	med_exam	3-bert
+107	122	126	2500	med_exam	3-bert
+110	81	83	95	med_exam	3-bert
+110	235	240	五百二十二	med_exam	3-bert
+110	248	253	五百二十二	med_exam	3-bert
+110	286	289	四百一	med_exam	3-bert
+110	863	867	二比二三	med_exam	3-bert
+111	1549	1553	一百八十	med_exam	3-bert
+117	458	460	20	med_exam	3-bert
+121	482	483	8	med_exam	3-bert
+121	486	489	79分	med_exam	3-bert
+121	496	497	7	med_exam	3-bert
+127	384	385	3	med_exam	3-bert
+128	448	450	10	med_exam	3-bert
+129	251	253	69	med_exam	3-bert
+129	255	257	10	med_exam	3-bert
+129	261	263	10	med_exam	3-bert
+131	389	392	210	med_exam	3-bert
+132	383	384	1	med_exam	3-bert
+132	1284	1287	106	med_exam	3-bert
+135	991	993	一萬	med_exam	3-bert
+135	1000	1002	七千	med_exam	3-bert
+135	1007	1009	七千	med_exam	3-bert
+135	1019	1021	七千	med_exam	3-bert
+137	1984	1985	6	med_exam	3-bert
+137	2070	2073	100	med_exam	3-bert
+138	30	33	31題	med_exam	3-bert
+138	60	62	31	med_exam	3-bert
+138	64	66	32	med_exam	3-bert
+138	91	94	五十幾	med_exam	3-bert
+145	377	379	29	med_exam	3-bert
+145	380	382	29	med_exam	3-bert
+153	53	54	3	med_exam	3-bert
+157	1445	1447	三分	med_exam	3-bert

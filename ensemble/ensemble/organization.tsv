@@ -1,8 +1,8 @@
-article_id	start_position	end_position	entity_text	entity_type
-45	1080	1083	扶輪社	organization
-127	191	195	交友軟體	organization
-127	208	212	交友軟體	organization
-128	20	24	交友軟體	organization
-129	2025	2029	交友軟體	organization
-130	116	120	交友軟體	organization
-148	208	212	交友軟體	organization
+article_id	start_position	end_position	entity_text	entity_type	source
+45	1080	1083	扶輪社	organization	2-dict
+127	191	195	交友軟體	organization	2-dict
+127	208	212	交友軟體	organization	2-dict
+128	20	24	交友軟體	organization	2-dict
+129	2025	2029	交友軟體	organization	2-dict
+130	116	120	交友軟體	organization	2-dict
+148	208	212	交友軟體	organization	2-dict
